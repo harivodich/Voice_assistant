@@ -1,0 +1,59 @@
+server:
+  http_listen_port: 9080
+  grpc_listen_port: 0
+
+positions:
+  filename: /tmp/positions.yaml
+
+clients:
+  - url: http://voice-assistant-loki:3100/loki/api/v1/push
+
+scrape_configs:
+  # Docker container logs
+  - job_name: docker
+
+    static_configs:
+      - targets:
+          - localhost
+
+        labels:
+          job: docker
+          __path__: /var/lib/docker/containers/*/*-json.log
+
+    pipeline_stages:
+      - docker: {}
+
+  # Backend file logs
+  - job_name: backend
+
+    static_configs:
+      - targets:
+          - localhost
+
+        labels:
+          job: backend
+          service: voice-assistant-backend
+          __path__: /var/log/backend/*.log
+
+  # AI services logs
+  - job_name: ai-services
+
+    static_configs:
+      - targets:
+          - localhost
+
+        labels:
+          job: ai-services
+          service: voice-assistant-ai-services
+          __path__: /var/log/ai-services/*.log
+
+  # System logs
+  - job_name: system
+
+    static_configs:
+      - targets:
+          - localhost
+
+        labels:
+          job: system
+          __path__: /var/log/*.log

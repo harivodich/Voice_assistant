@@ -1,0 +1,14 @@
+Validation Accuracy: 0.98
+Test Accuracy: 0.9733333333333334
+Weighted F1-score: 0.9730679372618722
+
+                precision    recall  f1-score   support
+
+      calendar       0.96      0.98      0.97        44
+control_device       1.00      0.90      0.95        31
+   personalize       1.00      1.00      1.00        25
+            qa       0.96      1.00      0.98        50
+
+      accuracy                           0.97       150
+     macro avg       0.98      0.97      0.97       150
+  weighted avg       0.97      0.97      0.97       150

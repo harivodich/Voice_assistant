@@ -1,0 +1,63 @@
+# =========================
+# Node.js (Backend, Frontend, Mobile)
+# =========================
+node_modules/
+npm-debug.log
+yarn-error.log
+yarn-debug.log
+
+# =========================
+# Build / Caching (Frontend & Mobile)
+# =========================
+dist/
+build/
+.next/
+.expo/
+web-build/
+
+# =========================
+# Python (AI Services)
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+pip-log.txt
+
+# AI Services Temp & Models
+# (Nếu các file .pkl, .npy quá nặng > 100MB, bạn nên bỏ comment 2 dòng dưới hoặc dùng Git LFS)
+# ai-services/models/*.pkl
+# ai-services/models/*.npy
+ai-services/temp/
+
+# =========================
+# Environment Variables (Bảo mật)
+# =========================
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# =========================
+# OS Generated Files
+# =========================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# =========================
+# Editor / IDE Files
+# =========================
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln

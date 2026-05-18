@@ -1,0 +1,1218 @@
+[
+  {
+    "question": "AI là gì",
+    "answer": "AI là lĩnh vực phát triển hệ thống máy tính có khả năng thực hiện các nhiệm vụ thường cần trí tuệ con người như học tập, suy luận và ra quyết định."
+  },
+  {
+    "question": "Trí tuệ nhân tạo là gì",
+    "answer": "AI là lĩnh vực phát triển hệ thống máy tính có khả năng thực hiện các nhiệm vụ thường cần trí tuệ con người như học tập, suy luận và ra quyết định."
+  },
+  {
+    "question": "Artificial Intelligence là gì",
+    "answer": "AI là tên tiếng Anh của trí tuệ nhân tạo, lĩnh vực nghiên cứu cách giúp máy mô phỏng khả năng tư duy và học hỏi của con người."
+  },
+  {
+    "question": "Giải thích AI",
+    "answer": "AI là công nghệ giúp máy tính xử lý, học hỏi và đưa ra quyết định tương tự một phần trí tuệ con người."
+  },
+  {
+    "question": "AI hoạt động như thế nào",
+    "answer": "AI hoạt động bằng cách xử lý dữ liệu, học các mẫu từ dữ liệu và sử dụng mô hình để đưa ra dự đoán hoặc quyết định."
+  },
+  {
+    "question": "AI dùng để làm gì",
+    "answer": "AI được dùng trong chatbot, nhận diện hình ảnh, gợi ý nội dung, xe tự lái, phân tích dữ liệu và nhiều ứng dụng khác."
+  },
+  {
+    "question": "Machine learning là gì",
+    "answer": "Machine learning là nhánh của AI cho phép hệ thống học từ dữ liệu để cải thiện hiệu suất mà không cần lập trình quy tắc cho từng trường hợp."
+  },
+  {
+    "question": "Máy học là gì",
+    "answer": "Máy học là cách cho hệ thống học từ dữ liệu để dự đoán hoặc ra quyết định thay vì lập trình thủ công từng quy tắc."
+  },
+  {
+    "question": "ML là gì",
+    "answer": "ML là viết tắt của Machine Learning, tức học máy."
+  },
+  {
+    "question": "Machine learning hoạt động ra sao",
+    "answer": "Machine learning hoạt động bằng cách học quy luật từ dữ liệu mẫu để dự đoán hoặc xử lý dữ liệu mới."
+  },
+  {
+    "question": "Deep learning là gì",
+    "answer": "Deep learning là nhánh của machine learning sử dụng mạng nơ-ron nhiều tầng để học các mẫu phức tạp từ dữ liệu lớn."
+  },
+  {
+    "question": "DL là gì trong AI",
+    "answer": "DL là viết tắt của Deep Learning, một nhánh của machine learning dùng mạng nơ-ron sâu."
+  },
+  {
+    "question": "Deep learning khác machine learning thế nào",
+    "answer": "Deep learning là một dạng machine learning nâng cao sử dụng mạng nơ-ron nhiều tầng và thường cần nhiều dữ liệu hơn."
+  },
+  {
+    "question": "AI khác machine learning thế nào",
+    "answer": "AI là lĩnh vực rộng hơn, còn machine learning là một nhánh của AI tập trung vào việc cho máy học từ dữ liệu."
+  },
+  {
+    "question": "Mô hình AI là gì",
+    "answer": "Mô hình AI là hệ thống toán học hoặc thuật toán đã được huấn luyện để thực hiện nhiệm vụ như dự đoán, phân loại hoặc sinh nội dung."
+  },
+  {
+    "question": "Model AI là gì",
+    "answer": "Model AI là mô hình đã được huấn luyện để xử lý một nhiệm vụ cụ thể bằng trí tuệ nhân tạo."
+  },
+  {
+    "question": "Dataset là gì",
+    "answer": "Dataset là tập hợp dữ liệu dùng để huấn luyện, đánh giá hoặc phân tích trong machine learning."
+  },
+  {
+    "question": "Tập dữ liệu là gì",
+    "answer": "Tập dữ liệu là tập hợp nhiều mẫu dữ liệu được dùng cho phân tích hoặc huấn luyện mô hình."
+  },
+  {
+    "question": "Training data là gì",
+    "answer": "Training data là dữ liệu dùng để huấn luyện mô hình học máy."
+  },
+  {
+    "question": "Validation data là gì",
+    "answer": "Validation data là dữ liệu dùng để đánh giá và tinh chỉnh mô hình trong quá trình huấn luyện."
+  },
+  {
+    "question": "Test data là gì",
+    "answer": "Test data là dữ liệu dùng để đánh giá hiệu năng cuối cùng của mô hình sau huấn luyện."
+  },
+  {
+    "question": "Label là gì",
+    "answer": "Label là nhãn mục tiêu gắn với dữ liệu trong bài toán supervised learning."
+  },
+  {
+    "question": "Supervised learning là gì",
+    "answer": "Supervised learning là phương pháp học máy dùng dữ liệu đã gắn nhãn để huấn luyện mô hình."
+  },
+  {
+    "question": "Unsupervised learning là gì",
+    "answer": "Unsupervised learning là phương pháp học máy tìm cấu trúc hoặc mẫu trong dữ liệu chưa gắn nhãn."
+  },
+  {
+    "question": "Reinforcement learning là gì",
+    "answer": "Reinforcement learning là phương pháp học thông qua thử và sai dựa trên phần thưởng và hình phạt."
+  },
+  {
+    "question": "Overfitting là gì",
+    "answer": "Overfitting là hiện tượng mô hình học quá sát dữ liệu huấn luyện nên kém tổng quát với dữ liệu mới."
+  },
+  {
+    "question": "Underfitting là gì",
+    "answer": "Underfitting là hiện tượng mô hình quá đơn giản nên không học được quy luật dữ liệu."
+  },
+  {
+    "question": "Epoch là gì",
+    "answer": "Epoch là một vòng lặp hoàn chỉnh khi mô hình học qua toàn bộ tập dữ liệu huấn luyện."
+  },
+  {
+    "question": "Batch size là gì",
+    "answer": "Batch size là số lượng mẫu dữ liệu được xử lý trong một lần cập nhật trọng số."
+  },
+  {
+    "question": "Learning rate là gì",
+    "answer": "Learning rate là tham số điều chỉnh độ lớn bước cập nhật trọng số khi mô hình học."
+  },
+  {
+    "question": "Gradient descent là gì",
+    "answer": "Gradient descent là thuật toán tối ưu dùng để giảm lỗi mô hình bằng cách cập nhật tham số theo hướng giảm loss."
+  },
+  {
+    "question": "Loss function là gì",
+    "answer": "Loss function là hàm đo mức sai lệch giữa dự đoán của mô hình và kết quả thực tế."
+  },
+  {
+    "question": "Accuracy là gì",
+    "answer": "Accuracy là tỷ lệ dự đoán đúng của mô hình trên tổng số mẫu."
+  },
+  {
+    "question": "Precision là gì",
+    "answer": "Precision là tỷ lệ dự đoán dương tính đúng trên tổng số dự đoán dương tính."
+  },
+  {
+    "question": "Recall là gì",
+    "answer": "Recall là tỷ lệ dự đoán đúng các mẫu dương tính trên tổng số mẫu dương tính thực tế."
+  },
+  {
+    "question": "F1 Score là gì",
+    "answer": "F1 Score là chỉ số kết hợp precision và recall để đánh giá mô hình phân loại."
+  },
+  {
+    "question": "Confusion matrix là gì",
+    "answer": "Confusion matrix là bảng đánh giá mô hình phân loại dựa trên số dự đoán đúng và sai theo từng lớp."
+  },
+  {
+    "question": "blockchain là sao",
+    "answer": "Blockchain là công nghệ sổ cái phân tán lưu trữ dữ liệu thành các khối liên kết bảo mật."
+  },
+  {
+    "question": "blockchain hoạt động ra sao",
+    "answer": "Blockchain hoạt động bằng cách lưu dữ liệu thành các khối liên kết với nhau bằng mã hóa."
+  },
+  {
+    "question": "AI hoạt động ra sao",
+    "answer": "AI hoạt động bằng cách học từ dữ liệu, tìm ra mẫu và sử dụng mô hình để đưa ra dự đoán hoặc quyết định."
+  },
+  {
+    "question": "Embedding là gì",
+    "answer": "Embedding là biểu diễn dữ liệu dưới dạng vector số để máy có thể xử lý và so sánh ngữ nghĩa."
+  },
+  {
+    "question": "Vector embedding là gì",
+    "answer": "Vector embedding là vector số đại diện cho ý nghĩa ngữ nghĩa của văn bản, hình ảnh hoặc dữ liệu khác."
+  },
+  {
+    "question": "Cosine similarity là gì",
+    "answer": "Cosine similarity là thước đo độ tương đồng giữa hai vector dựa trên góc giữa chúng."
+  },
+  {
+    "question": "Semantic search là gì",
+    "answer": "Semantic search là tìm kiếm dựa trên ý nghĩa ngữ nghĩa thay vì chỉ khớp từ khóa chính xác."
+  },
+  {
+    "question": "FAISS là gì",
+    "answer": "FAISS là thư viện tìm kiếm vector tương đồng hiệu năng cao do Meta phát triển."
+  },
+  {
+    "question": "Vector database là gì",
+    "answer": "Vector database là cơ sở dữ liệu tối ưu cho lưu trữ và tìm kiếm vector embedding."
+  },
+  {
+    "question": "ChromaDB là gì",
+    "answer": "ChromaDB là vector database nhẹ thường dùng trong các ứng dụng AI và RAG."
+  },
+  {
+    "question": "RAG là gì",
+    "answer": "RAG là kỹ thuật kết hợp truy xuất dữ liệu liên quan với mô hình ngôn ngữ để tạo câu trả lời grounded hơn."
+  },
+  {
+    "question": "Retrieval augmented generation là gì",
+    "answer": "Retrieval Augmented Generation là phương pháp bổ sung dữ liệu truy xuất vào prompt trước khi mô hình tạo câu trả lời."
+  },
+  {
+    "question": "Prompt là gì",
+    "answer": "Prompt là nội dung đầu vào dùng để hướng dẫn mô hình AI tạo phản hồi."
+  },
+  {
+    "question": "Prompt engineering là gì",
+    "answer": "Prompt engineering là kỹ thuật thiết kế prompt để tối ưu chất lượng phản hồi của AI."
+  },
+  {
+    "question": "LLM là gì",
+    "answer": "LLM là mô hình ngôn ngữ lớn được huấn luyện trên lượng văn bản lớn để hiểu và sinh ngôn ngữ."
+  },
+  {
+    "question": "Large language model là gì",
+    "answer": "Large language model là mô hình AI ngôn ngữ quy mô lớn có khả năng hiểu và tạo văn bản."
+  },
+  {
+    "question": "Token là gì",
+    "answer": "Token là đơn vị văn bản nhỏ mà mô hình ngôn ngữ sử dụng để xử lý đầu vào và đầu ra."
+  },
+  {
+    "question": "Context window là gì",
+    "answer": "Context window là lượng token tối đa mô hình có thể xem xét trong một lần xử lý."
+  },
+  {
+    "question": "Hallucination trong AI là gì",
+    "answer": "Hallucination là hiện tượng AI tạo ra thông tin nghe hợp lý nhưng không chính xác hoặc không có thật."
+  },
+  {
+    "question": "Fine tuning là gì",
+    "answer": "Fine-tuning là quá trình tiếp tục huấn luyện mô hình trên dữ liệu chuyên biệt cho nhiệm vụ cụ thể."
+  },
+  {
+    "question": "Inference là gì",
+    "answer": "Inference là quá trình sử dụng mô hình đã huấn luyện để tạo dự đoán hoặc phản hồi."
+  },
+  {
+    "question": "NLP là gì",
+    "answer": "NLP là lĩnh vực xử lý ngôn ngữ tự nhiên giúp máy hiểu và tạo ngôn ngữ con người."
+  },
+  {
+    "question": "Natural language processing là gì",
+    "answer": "Natural Language Processing là lĩnh vực nghiên cứu cách giúp máy xử lý ngôn ngữ tự nhiên."
+  },
+  {
+    "question": "Computer vision là gì",
+    "answer": "Computer vision là lĩnh vực cho phép máy phân tích và hiểu hình ảnh hoặc video."
+  },
+  {
+    "question": "CV trong AI là gì",
+    "answer": "CV trong AI thường là viết tắt của Computer Vision, lĩnh vực xử lý hình ảnh bằng máy tính."
+  },
+  {
+    "question": "Speech to text là gì",
+    "answer": "Speech to text là công nghệ chuyển giọng nói thành văn bản."
+  },
+  {
+    "question": "Text to speech là gì",
+    "answer": "Text to speech là công nghệ chuyển văn bản thành giọng nói."
+  },
+  {
+    "question": "Whisper là gì",
+    "answer": "Whisper là mô hình nhận diện giọng nói do OpenAI phát triển để chuyển âm thanh thành văn bản."
+  },
+  {
+    "question": "OCR là gì",
+    "answer": "OCR là công nghệ nhận diện ký tự quang học dùng để trích xuất văn bản từ ảnh hoặc tài liệu scan."
+  },
+  {
+    "question": "Neural network là gì",
+    "answer": "Neural network là mô hình tính toán lấy cảm hứng từ mạng nơ-ron sinh học, dùng trong nhiều hệ thống AI hiện đại."
+  },
+  {
+    "question": "Mạng nơ ron là gì",
+    "answer": "Mạng nơ-ron là mô hình AI mô phỏng cách các tế bào thần kinh kết nối và xử lý thông tin."
+  },
+  {
+    "question": "Transformer là gì",
+    "answer": "Transformer là kiến trúc mạng nơ-ron hiện đại được dùng rộng rãi trong các mô hình ngôn ngữ lớn."
+  },
+  {
+    "question": "Attention mechanism là gì",
+    "answer": "Attention mechanism là kỹ thuật giúp mô hình tập trung vào các phần quan trọng của dữ liệu đầu vào."
+  },
+  {
+    "question": "Parameter trong model là gì",
+    "answer": "Parameter là các trọng số nội bộ mà mô hình học được trong quá trình huấn luyện."
+  },
+  {
+    "question": "Quantization là gì",
+    "answer": "Quantization là kỹ thuật giảm độ chính xác số học của mô hình để tiết kiệm bộ nhớ và tăng tốc inference."
+  },
+  {
+    "question": "Inference local là gì",
+    "answer": "Inference local là chạy mô hình AI trực tiếp trên máy cục bộ thay vì gọi server bên ngoài."
+  },
+  {
+    "question": "Ollama là gì",
+    "answer": "Ollama là nền tảng giúp chạy mô hình ngôn ngữ cục bộ trên máy để phục vụ inference local."
+  },
+  {
+    "question": "Qwen là gì",
+    "answer": "Qwen là dòng mô hình ngôn ngữ lớn do Alibaba phát triển."
+  },
+  {
+    "question": "Phi 3 là gì",
+    "answer": "Phi-3 là dòng mô hình ngôn ngữ nhỏ gọn do Microsoft phát triển, tối ưu cho hiệu năng và tốc độ."
+  },
+  {
+    "question": "Llama là gì",
+    "answer": "Llama là dòng mô hình ngôn ngữ lớn do Meta phát triển."
+  },
+  {
+    "question": "Open source model là gì",
+    "answer": "Open source model là mô hình AI được công khai để cộng đồng sử dụng và tùy chỉnh."
+  },
+  {
+    "question": "Agent AI là gì",
+    "answer": "AI Agent là hệ thống AI có khả năng lập kế hoạch, dùng công cụ và thực hiện tác vụ nhiều bước."
+  },
+  {
+    "question": "Tool calling là gì",
+    "answer": "Tool calling là khả năng để mô hình AI gọi công cụ hoặc hàm bên ngoài nhằm hoàn thành nhiệm vụ."
+  },
+  {
+    "question": "Function calling là gì",
+    "answer": "Function calling là cơ chế cho phép mô hình AI trả về lời gọi hàm có cấu trúc thay vì chỉ văn bản."
+  },
+  {
+    "question": "Orchestrator là gì trong AI system",
+    "answer": "Orchestrator là thành phần điều phối luồng xử lý giữa các module như STT, intent, LLM và tools."
+  },
+  {
+    "question": "Intent classification là gì",
+    "answer": "Intent classification là bài toán xác định mục đích hoặc ý định của người dùng từ đầu vào văn bản."
+  },
+  {
+    "question": "Slot filling là gì",
+    "answer": "Slot filling là quá trình trích xuất thông tin cụ thể từ câu người dùng như thời gian, địa điểm hoặc tên đối tượng."
+  },
+  {
+    "question": "NER là gì",
+    "answer": "NER là kỹ thuật nhận diện thực thể có tên trong văn bản như người, địa điểm, tổ chức hoặc thời gian."
+  },
+  {
+    "question": "Knowledge base là gì",
+    "answer": "Knowledge base là tập hợp dữ liệu hoặc tri thức được hệ thống dùng để trả lời câu hỏi."
+  },
+  {
+    "question": "FAQ system là gì",
+    "answer": "FAQ system là hệ thống trả lời câu hỏi thường gặp dựa trên tập tri thức được chuẩn bị trước."
+  },
+  {
+    "question": "Semantic FAQ là gì",
+    "answer": "Semantic FAQ là hệ thống FAQ dùng embedding để tìm câu hỏi gần nghĩa thay vì khớp từ khóa đơn thuần."
+  },
+  {
+    "question": "Python là gì",
+    "answer": "Python là ngôn ngữ lập trình phổ biến nhờ cú pháp đơn giản và ứng dụng rộng trong web, AI, automation và data science."
+  },
+  {
+    "question": "Ngôn ngữ Python là gì",
+    "answer": "Python là ngôn ngữ lập trình bậc cao được ưa chuộng vì dễ học và có hệ sinh thái thư viện phong phú."
+  },
+  {
+    "question": "Python dùng để làm gì",
+    "answer": "Python được dùng cho web development, AI, automation, data science, scripting và nhiều ứng dụng khác."
+  },
+  {
+    "question": "Java là gì",
+    "answer": "Java là ngôn ngữ lập trình hướng đối tượng phổ biến, thường dùng cho enterprise software và Android development."
+  },
+  {
+    "question": "JavaScript là gì",
+    "answer": "JavaScript là ngôn ngữ lập trình chủ yếu dùng để xây dựng tính năng tương tác trên web."
+  },
+  {
+    "question": "TypeScript là gì",
+    "answer": "TypeScript là phiên bản mở rộng của JavaScript bổ sung hệ thống kiểu dữ liệu tĩnh."
+  },
+  {
+    "question": "Biến trong lập trình là gì",
+    "answer": "Biến là vùng nhớ có tên dùng để lưu trữ dữ liệu trong chương trình."
+  },
+  {
+    "question": "Hàm trong lập trình là gì",
+    "answer": "Hàm là khối mã thực hiện một nhiệm vụ cụ thể và có thể tái sử dụng."
+  },
+  {
+    "question": "Function là gì trong lập trình",
+    "answer": "Function là khối mã thực hiện một nhiệm vụ cụ thể và có thể được gọi nhiều lần."
+  },
+  {
+    "question": "Class là gì",
+    "answer": "Class là khuôn mẫu dùng để tạo đối tượng trong lập trình hướng đối tượng."
+  },
+  {
+    "question": "Object là gì",
+    "answer": "Object là thể hiện cụ thể của một class."
+  },
+  {
+    "question": "OOP là gì",
+    "answer": "OOP là lập trình hướng đối tượng, mô hình tổ chức code dựa trên class và object."
+  },
+  {
+    "question": "Inheritance là gì",
+    "answer": "Inheritance là cơ chế cho phép class con kế thừa thuộc tính và phương thức từ class cha."
+  },
+  {
+    "question": "Polymorphism là gì",
+    "answer": "Polymorphism là khả năng một interface có nhiều cách triển khai khác nhau."
+  },
+  {
+    "question": "Encapsulation là gì",
+    "answer": "Encapsulation là nguyên tắc đóng gói dữ liệu và giới hạn truy cập trực tiếp từ bên ngoài."
+  },
+  {
+    "question": "Abstraction là gì",
+    "answer": "Abstraction là nguyên tắc ẩn chi tiết triển khai và chỉ lộ phần cần thiết cho người dùng."
+  },
+  {
+    "question": "Algorithm là gì",
+    "answer": "Algorithm là tập hợp các bước logic để giải quyết một bài toán."
+  },
+  {
+    "question": "Data structure là gì",
+    "answer": "Data structure là cách tổ chức và lưu trữ dữ liệu để truy cập hiệu quả."
+  },
+  {
+    "question": "Array là gì",
+    "answer": "Array là cấu trúc dữ liệu lưu nhiều phần tử cùng kiểu trong vùng nhớ liên tiếp."
+  },
+  {
+    "question": "Linked list là gì",
+    "answer": "Linked list là cấu trúc dữ liệu gồm các node liên kết với nhau qua con trỏ."
+  },
+  {
+    "question": "Stack là gì",
+    "answer": "Stack là cấu trúc dữ liệu hoạt động theo nguyên tắc vào sau ra trước."
+  },
+  {
+    "question": "Queue là gì",
+    "answer": "Queue là cấu trúc dữ liệu hoạt động theo nguyên tắc vào trước ra trước."
+  },
+  {
+    "question": "Hash map là gì",
+    "answer": "Hash map là cấu trúc dữ liệu lưu key-value cho phép tra cứu nhanh."
+  },
+  {
+    "question": "Recursion là gì",
+    "answer": "Recursion là kỹ thuật hàm tự gọi lại chính nó để giải bài toán."
+  },
+  {
+    "question": "Time complexity là gì",
+    "answer": "Time complexity là thước đo mức tăng thời gian chạy của thuật toán theo kích thước đầu vào."
+  },
+  {
+    "question": "Big O là gì",
+    "answer": "Big O là ký hiệu biểu diễn độ phức tạp thời gian hoặc bộ nhớ của thuật toán."
+  },
+  {
+    "question": "Debug là gì",
+    "answer": "Debug là quá trình tìm và sửa lỗi trong chương trình."
+  },
+  {
+    "question": "Refactor là gì",
+    "answer": "Refactor là cải thiện cấu trúc code mà không thay đổi hành vi chương trình."
+  },
+  {
+    "question": "Framework là gì",
+    "answer": "Framework là bộ khung phần mềm cung cấp cấu trúc và công cụ để phát triển ứng dụng."
+  },
+  {
+    "question": "Library là gì",
+    "answer": "Library là tập hợp mã tái sử dụng hỗ trợ thực hiện các chức năng cụ thể."
+  },
+  {
+    "question": "IDE là gì",
+    "answer": "IDE là môi trường phát triển tích hợp hỗ trợ viết, chạy và debug code."
+  },
+  {
+    "question": "API là gì",
+    "answer": "API là giao diện cho phép các phần mềm giao tiếp và trao đổi dữ liệu với nhau."
+  },
+  {
+    "question": "REST API là gì",
+    "answer": "REST API là kiểu thiết kế API sử dụng HTTP và các nguyên tắc REST."
+  },
+  {
+    "question": "GraphQL là gì",
+    "answer": "GraphQL là ngôn ngữ truy vấn API cho phép client chỉ lấy đúng dữ liệu cần thiết."
+  },
+  {
+    "question": "Endpoint là gì",
+    "answer": "Endpoint là URL cụ thể đại diện cho một chức năng của API."
+  },
+  {
+    "question": "Request là gì",
+    "answer": "Request là yêu cầu client gửi tới server."
+  },
+  {
+    "question": "Response là gì",
+    "answer": "Response là dữ liệu server trả về cho client sau khi xử lý request."
+  },
+  {
+    "question": "JSON là gì",
+    "answer": "JSON là định dạng dữ liệu văn bản phổ biến dùng để trao đổi dữ liệu giữa hệ thống."
+  },
+  {
+    "question": "Middleware là gì",
+    "answer": "Middleware là lớp xử lý trung gian giữa request và response."
+  },
+  {
+    "question": "ORM là gì",
+    "answer": "ORM là công cụ ánh xạ object trong code với bảng trong database."
+  },
+  {
+    "question": "Authentication là gì",
+    "answer": "Authentication là quá trình xác minh danh tính người dùng."
+  },
+  {
+    "question": "Authorization là gì",
+    "answer": "Authorization là quá trình xác định quyền truy cập của người dùng."
+  },
+  {
+    "question": "JWT là gì",
+    "answer": "JWT là chuẩn token dùng để truyền thông tin xác thực an toàn giữa các hệ thống."
+  },
+  {
+    "question": "Session là gì",
+    "answer": "Session là cơ chế lưu trạng thái người dùng trong một khoảng thời gian tương tác."
+  },
+  {
+    "question": "Cookie là gì",
+    "answer": "Cookie là dữ liệu nhỏ được lưu trên trình duyệt để ghi nhớ thông tin người dùng."
+  },
+  {
+    "question": "FastAPI là gì",
+    "answer": "FastAPI là framework Python hiện đại để xây dựng API hiệu năng cao."
+  },
+  {
+    "question": "Django là gì",
+    "answer": "Django là framework web Python đầy đủ tính năng theo mô hình batteries-included."
+  },
+  {
+    "question": "Flask là gì",
+    "answer": "Flask là micro-framework Python nhẹ để xây dựng web app và API."
+  },
+  {
+    "question": "Backend là gì",
+    "answer": "Backend là phần xử lý logic, dữ liệu và nghiệp vụ phía server của ứng dụng."
+  },
+  {
+    "question": "Frontend là gì",
+    "answer": "Frontend là phần giao diện và logic hiển thị phía client của ứng dụng."
+  },
+  {
+    "question": "Fullstack là gì",
+    "answer": "Fullstack là người hoặc hệ thống xử lý cả frontend và backend."
+  },
+  {
+    "question": "Database là gì",
+    "answer": "Database là hệ thống lưu trữ dữ liệu có cấu trúc để truy vấn và quản lý hiệu quả."
+  },
+  {
+    "question": "SQL là gì",
+    "answer": "SQL là ngôn ngữ dùng để truy vấn và quản lý dữ liệu trong cơ sở dữ liệu quan hệ."
+  },
+  {
+    "question": "NoSQL là gì",
+    "answer": "NoSQL là nhóm cơ sở dữ liệu không quan hệ phù hợp với dữ liệu linh hoạt hoặc quy mô lớn."
+  },
+  {
+    "question": "MongoDB là gì",
+    "answer": "MongoDB là cơ sở dữ liệu NoSQL dạng document phổ biến."
+  },
+  {
+    "question": "PostgreSQL là gì",
+    "answer": "PostgreSQL là hệ quản trị cơ sở dữ liệu quan hệ mã nguồn mở mạnh mẽ."
+  },
+  {
+    "question": "MySQL là gì",
+    "answer": "MySQL là hệ quản trị cơ sở dữ liệu quan hệ phổ biến."
+  },
+  {
+    "question": "Redis là gì",
+    "answer": "Redis là cơ sở dữ liệu in-memory thường dùng cho cache và queue."
+  },
+  {
+    "question": "Primary key là gì",
+    "answer": "Primary key là khóa định danh duy nhất cho mỗi bản ghi trong bảng."
+  },
+  {
+    "question": "Foreign key là gì",
+    "answer": "Foreign key là khóa liên kết giữa hai bảng trong database."
+  },
+  {
+    "question": "Index là gì trong database",
+    "answer": "Index là cấu trúc dữ liệu giúp tăng tốc truy vấn database."
+  },
+  {
+    "question": "Transaction là gì",
+    "answer": "Transaction là nhóm thao tác database được thực hiện như một đơn vị nguyên tử."
+  },
+  {
+    "question": "ACID là gì",
+    "answer": "ACID là tập hợp các tính chất đảm bảo transaction database đáng tin cậy."
+  },
+  {
+    "question": "Normalization là gì",
+    "answer": "Normalization là quá trình tổ chức dữ liệu để giảm dư thừa trong database."
+  },
+  {
+    "question": "Cache là gì",
+    "answer": "Cache là bộ nhớ tạm giúp tăng tốc truy xuất dữ liệu."
+  },
+  {
+    "question": "Docker là gì",
+    "answer": "Docker là nền tảng đóng gói ứng dụng cùng môi trường chạy vào container."
+  },
+  {
+    "question": "Container là gì",
+    "answer": "Container là môi trường chạy ứng dụng cô lập nhẹ, chia sẻ kernel với host."
+  },
+  {
+    "question": "Docker image là gì",
+    "answer": "Docker image là template chứa ứng dụng và môi trường cần thiết để chạy container."
+  },
+  {
+    "question": "Docker compose là gì",
+    "answer": "Docker Compose là công cụ định nghĩa và chạy nhiều container cùng lúc."
+  },
+  {
+    "question": "Kubernetes là gì",
+    "answer": "Kubernetes là nền tảng điều phối container ở quy mô lớn."
+  },
+  {
+    "question": "CI CD là gì",
+    "answer": "CI/CD là tập hợp quy trình tự động build, test và deploy phần mềm."
+  },
+  {
+    "question": "Continuous integration là gì",
+    "answer": "Continuous Integration là thực hành tự động kiểm tra và tích hợp code thường xuyên."
+  },
+  {
+    "question": "Continuous deployment là gì",
+    "answer": "Continuous Deployment là tự động triển khai code sau khi vượt qua kiểm thử."
+  },
+  {
+    "question": "DevOps là gì",
+    "answer": "DevOps là phương pháp kết hợp development và operations để tăng tốc phát triển phần mềm."
+  },
+  {
+    "question": "Environment variable là gì",
+    "answer": "Environment variable là biến cấu hình hệ thống dùng để lưu thông tin cấu hình runtime."
+  },
+  {
+    "question": "Logging là gì",
+    "answer": "Logging là quá trình ghi lại sự kiện và hoạt động của hệ thống."
+  },
+  {
+    "question": "Monitoring là gì",
+    "answer": "Monitoring là việc theo dõi trạng thái và hiệu năng của hệ thống."
+  },
+  {
+    "question": "Load balancing là gì",
+    "answer": "Load balancing là kỹ thuật phân phối traffic giữa nhiều server."
+  },
+  {
+    "question": "Scaling là gì",
+    "answer": "Scaling là quá trình tăng khả năng xử lý của hệ thống khi tải tăng."
+  },
+  {
+    "question": "Horizontal scaling là gì",
+    "answer": "Horizontal scaling là mở rộng hệ thống bằng cách thêm nhiều máy hoặc instance."
+  },
+  {
+    "question": "Vertical scaling là gì",
+    "answer": "Vertical scaling là mở rộng hệ thống bằng cách tăng tài nguyên cho một máy."
+  },
+  {
+    "question": "Microservice là gì",
+    "answer": "Microservice là kiến trúc chia hệ thống thành nhiều service nhỏ độc lập."
+  },
+  {
+    "question": "Monolith là gì",
+    "answer": "Monolith là kiến trúc ứng dụng mà toàn bộ chức năng nằm trong một codebase thống nhất."
+  },
+  {
+    "question": "WebSocket là gì",
+    "answer": "WebSocket là giao thức cho phép client và server giao tiếp hai chiều theo thời gian thực."
+  },
+  {
+    "question": "HTTP là gì",
+    "answer": "HTTP là giao thức truyền tải dữ liệu giữa client và web server."
+  },
+  {
+    "question": "HTTPS là gì",
+    "answer": "HTTPS là phiên bản bảo mật của HTTP có mã hóa TLS/SSL."
+  },
+  {
+    "question": "TCP là gì",
+    "answer": "TCP là giao thức truyền dữ liệu đáng tin cậy đảm bảo dữ liệu đến đúng thứ tự."
+  },
+  {
+    "question": "UDP là gì",
+    "answer": "UDP là giao thức truyền dữ liệu nhanh nhưng không đảm bảo độ tin cậy như TCP."
+  },
+  {
+    "question": "DNS là gì",
+    "answer": "DNS là hệ thống chuyển đổi tên miền thành địa chỉ IP."
+  },
+  {
+    "question": "IP là gì",
+    "answer": "IP là địa chỉ định danh thiết bị trên mạng."
+  },
+  {
+    "question": "Port là gì",
+    "answer": "Port là cổng logic dùng để xác định dịch vụ mạng cụ thể trên thiết bị."
+  },
+  {
+    "question": "Firewall là gì",
+    "answer": "Firewall là hệ thống kiểm soát lưu lượng mạng để bảo vệ hệ thống."
+  },
+  {
+    "question": "VPN là gì",
+    "answer": "VPN là mạng riêng ảo giúp mã hóa kết nối và ẩn địa chỉ IP."
+  },
+  {
+    "question": "Git là gì",
+    "answer": "Git là hệ thống quản lý phiên bản phân tán dùng để theo dõi thay đổi mã nguồn."
+  },
+  {
+    "question": "GitHub là gì",
+    "answer": "GitHub là nền tảng lưu trữ và cộng tác mã nguồn dựa trên Git."
+  },
+  {
+    "question": "Git branch là gì",
+    "answer": "Git branch là nhánh phát triển độc lập trong repository Git."
+  },
+  {
+    "question": "Pull request là gì",
+    "answer": "Pull request là yêu cầu hợp nhất code từ branch này sang branch khác sau review."
+  },
+  {
+    "question": "Merge conflict là gì",
+    "answer": "Merge conflict xảy ra khi Git không thể tự động hợp nhất các thay đổi xung đột."
+  },
+  {
+    "question": "REST API là gì",
+    "answer": "REST API là kiểu thiết kế giao diện lập trình ứng dụng dựa trên giao thức HTTP và các nguyên tắc tài nguyên, thường dùng trong hệ thống web."
+  },
+  {
+    "question": "GraphQL là gì",
+    "answer": "GraphQL là ngôn ngữ truy vấn API cho phép client yêu cầu chính xác dữ liệu cần lấy."
+  },
+  {
+    "question": "JSON là gì",
+    "answer": "JSON là định dạng dữ liệu dạng văn bản nhẹ, thường dùng để trao đổi dữ liệu giữa client và server."
+  },
+  {
+    "question": "XML là gì",
+    "answer": "XML là định dạng đánh dấu dùng để lưu trữ và truyền dữ liệu có cấu trúc."
+  },
+  {
+    "question": "YAML là gì",
+    "answer": "YAML là định dạng serialization dễ đọc thường dùng cho file cấu hình."
+  },
+  {
+    "question": "JWT là gì",
+    "answer": "JWT là chuẩn token dạng JSON dùng để xác thực và truyền thông tin an toàn giữa các bên."
+  },
+  {
+    "question": "OAuth là gì",
+    "answer": "OAuth là giao thức ủy quyền cho phép ứng dụng truy cập tài nguyên thay mặt người dùng mà không cần biết mật khẩu."
+  },
+  {
+    "question": "Session là gì",
+    "answer": "Session là cơ chế lưu trạng thái người dùng trên server giữa nhiều request."
+  },
+  {
+    "question": "Cookie là gì",
+    "answer": "Cookie là dữ liệu nhỏ trình duyệt lưu để ghi nhớ trạng thái và thông tin người dùng."
+  },
+  {
+    "question": "Cache là gì",
+    "answer": "Cache là vùng lưu trữ tạm dữ liệu để tăng tốc truy cập cho các lần sử dụng sau."
+  },
+  {
+    "question": "Redis là gì",
+    "answer": "Redis là in-memory data store thường dùng cho cache, queue và session storage."
+  },
+  {
+    "question": "Message Queue là gì",
+    "answer": "Message Queue là hệ thống trung gian giúp các service giao tiếp bất đồng bộ qua hàng đợi tin nhắn."
+  },
+  {
+    "question": "RabbitMQ là gì",
+    "answer": "RabbitMQ là message broker phổ biến dùng để xử lý hàng đợi và giao tiếp bất đồng bộ."
+  },
+  {
+    "question": "Kafka là gì",
+    "answer": "Kafka là nền tảng xử lý stream dữ liệu phân tán hiệu năng cao."
+  },
+  {
+    "question": "Microservices là gì",
+    "answer": "Microservices là kiến trúc chia ứng dụng thành nhiều service nhỏ độc lập."
+  },
+  {
+    "question": "Monolith là gì",
+    "answer": "Monolith là kiến trúc phần mềm trong đó toàn bộ hệ thống được xây thành một ứng dụng thống nhất."
+  },
+  {
+    "question": "Load Balancer là gì",
+    "answer": "Load Balancer là thành phần phân phối lưu lượng đến nhiều server để tăng hiệu năng và độ sẵn sàng."
+  },
+  {
+    "question": "Reverse Proxy là gì",
+    "answer": "Reverse Proxy là server trung gian nhận request từ client rồi chuyển tiếp tới backend server."
+  },
+  {
+    "question": "Nginx là gì",
+    "answer": "Nginx là web server và reverse proxy hiệu năng cao."
+  },
+  {
+    "question": "Apache là gì",
+    "answer": "Apache là web server phổ biến dùng để phục vụ website và ứng dụng web."
+  },
+  {
+    "question": "CI CD là gì",
+    "answer": "CI/CD là quy trình tự động build, test và deploy phần mềm liên tục."
+  },
+  {
+    "question": "Unit test là gì",
+    "answer": "Unit test là kiểm thử một đơn vị nhỏ của chương trình như hàm hoặc class."
+  },
+  {
+    "question": "Integration test là gì",
+    "answer": "Integration test là kiểm thử sự phối hợp giữa nhiều thành phần của hệ thống."
+  },
+  {
+    "question": "End to End test là gì",
+    "answer": "End-to-end test là kiểm thử toàn bộ luồng hệ thống từ đầu đến cuối như người dùng thật."
+  },
+  {
+    "question": "Refactor là gì",
+    "answer": "Refactor là việc cải thiện cấu trúc mã nguồn mà không thay đổi hành vi bên ngoài."
+  },
+  {
+    "question": "Technical debt là gì",
+    "answer": "Technical debt là chi phí phát sinh trong tương lai do chọn giải pháp kỹ thuật tạm thời hoặc kém tối ưu."
+  },
+  {
+    "question": "Agile là gì",
+    "answer": "Agile là phương pháp phát triển phần mềm linh hoạt theo chu kỳ ngắn và phản hồi liên tục."
+  },
+  {
+    "question": "Scrum là gì",
+    "answer": "Scrum là framework Agile tổ chức công việc theo sprint và các nghi thức định kỳ."
+  },
+  {
+    "question": "Sprint là gì",
+    "answer": "Sprint là khoảng thời gian làm việc cố định trong Scrum để hoàn thành một tập mục tiêu."
+  },
+  {
+    "question": "Backlog là gì",
+    "answer": "Backlog là danh sách các công việc, tính năng hoặc yêu cầu cần thực hiện trong dự án."
+  },
+  {
+    "question": "Bug là gì",
+    "answer": "Bug là lỗi hoặc hành vi không mong muốn trong phần mềm."
+  },
+  {
+    "question": "Debug là gì",
+    "answer": "Debug là quá trình tìm và sửa lỗi trong chương trình."
+  },
+  {
+    "question": "IDE là gì",
+    "answer": "IDE là môi trường phát triển tích hợp hỗ trợ viết, chạy và debug mã nguồn."
+  },
+  {
+    "question": "VS Code là gì",
+    "answer": "VS Code là trình soạn thảo mã nguồn phổ biến do Microsoft phát triển."
+  },
+  {
+    "question": "Regex là gì",
+    "answer": "Regex là biểu thức chính quy dùng để tìm kiếm và xử lý chuỗi theo mẫu."
+  },
+  {
+    "question": "Cron job là gì",
+    "answer": "Cron job là tác vụ được lập lịch chạy tự động theo thời gian định sẵn."
+  },
+  {
+    "question": "Webhook là gì",
+    "answer": "Webhook là cơ chế hệ thống tự gửi HTTP callback khi sự kiện xảy ra."
+  },
+  {
+    "question": "Rate limit là gì",
+    "answer": "Rate limit là giới hạn số request trong khoảng thời gian nhất định để bảo vệ hệ thống."
+  },
+  {
+    "question": "Latency là gì",
+    "answer": "Latency là độ trễ giữa lúc gửi yêu cầu và nhận phản hồi."
+  },
+  {
+    "question": "Throughput là gì",
+    "answer": "Throughput là lượng công việc hoặc dữ liệu hệ thống xử lý được trong một đơn vị thời gian."
+  },
+  {
+    "question": "Scalability là gì",
+    "answer": "Scalability là khả năng hệ thống mở rộng để xử lý tải lớn hơn."
+  },
+  {
+    "question": "Horizontal scaling là gì",
+    "answer": "Horizontal scaling là mở rộng hệ thống bằng cách thêm nhiều máy hoặc node."
+  },
+  {
+    "question": "Vertical scaling là gì",
+    "answer": "Vertical scaling là mở rộng bằng cách tăng tài nguyên cho một máy hiện có."
+  },
+  {
+    "question": "Concurrency là gì",
+    "answer": "Concurrency là khả năng xử lý nhiều tác vụ chồng lấp về thời gian."
+  },
+  {
+    "question": "Parallelism là gì",
+    "answer": "Parallelism là việc thực thi nhiều tác vụ đồng thời thực sự trên nhiều lõi hoặc máy."
+  },
+  {
+    "question": "Thread là gì",
+    "answer": "Thread là luồng thực thi nhỏ nhất trong một tiến trình."
+  },
+  {
+    "question": "Process là gì",
+    "answer": "Process là một chương trình đang chạy với không gian bộ nhớ riêng."
+  },
+  {
+    "question": "Async là gì",
+    "answer": "Async là mô hình lập trình bất đồng bộ cho phép không chặn luồng khi chờ tác vụ I/O."
+  },
+  {
+    "question": "Synchronous là gì",
+    "answer": "Synchronous là mô hình xử lý tuần tự trong đó tác vụ sau chờ tác vụ trước hoàn thành."
+  },
+  {
+    "question": "ORM là gì",
+    "answer": "ORM là kỹ thuật ánh xạ dữ liệu giữa database quan hệ và object trong code."
+  },
+  {
+    "question": "SQL Injection là gì",
+    "answer": "SQL Injection là lỗ hổng bảo mật cho phép chèn câu lệnh SQL độc hại vào truy vấn."
+  },
+  {
+    "question": "XSS là gì",
+    "answer": "XSS là lỗ hổng cho phép chèn mã script độc hại vào trang web."
+  },
+  {
+    "question": "CSRF là gì",
+    "answer": "CSRF là tấn công lợi dụng phiên đăng nhập của người dùng để gửi request trái phép."
+  },
+  {
+    "question": "Encryption là gì",
+    "answer": "Encryption là quá trình mã hóa dữ liệu để chỉ người có khóa mới đọc được."
+  },
+  {
+    "question": "Hashing là gì",
+    "answer": "Hashing là quá trình biến dữ liệu thành chuỗi cố định không thể đảo ngược trực tiếp."
+  },
+  {
+    "question": "Salt trong bảo mật là gì",
+    "answer": "Salt là dữ liệu ngẫu nhiên thêm vào trước khi hash để tăng bảo mật mật khẩu."
+  },
+  {
+    "question": "Open source là gì",
+    "answer": "Open source là phần mềm có mã nguồn được công khai cho phép xem và chỉnh sửa."
+  },
+  {
+    "question": "Proprietary software là gì",
+    "answer": "Proprietary software là phần mềm sở hữu độc quyền với mã nguồn không công khai."
+  },
+  {
+    "question": "Transformer là gì",
+    "answer": "Transformer là kiến trúc mạng nơ-ron sử dụng cơ chế attention để xử lý dữ liệu tuần tự hiệu quả, đặc biệt phổ biến trong NLP."
+  },
+  {
+    "question": "Attention mechanism là gì",
+    "answer": "Attention mechanism là kỹ thuật cho phép mô hình tập trung vào những phần quan trọng của đầu vào khi xử lý dữ liệu."
+  },
+  {
+    "question": "Self-attention là gì",
+    "answer": "Self-attention là cơ chế attention trong đó mỗi phần tử của đầu vào đánh giá mức liên quan với các phần tử khác trong cùng chuỗi."
+  },
+  {
+    "question": "Prompt engineering là gì",
+    "answer": "Prompt engineering là quá trình thiết kế prompt để tối ưu chất lượng phản hồi từ mô hình AI."
+  },
+  {
+    "question": "Zero-shot learning là gì",
+    "answer": "Zero-shot learning là khả năng mô hình xử lý nhiệm vụ chưa từng được huấn luyện trực tiếp trước đó."
+  },
+  {
+    "question": "Few-shot learning là gì",
+    "answer": "Few-shot learning là kỹ thuật hướng dẫn mô hình bằng một số ít ví dụ trong prompt."
+  },
+  {
+    "question": "Context window là gì",
+    "answer": "Context window là lượng token tối đa mô hình có thể xem xét trong một lần suy luận."
+  },
+  {
+    "question": "Inference là gì",
+    "answer": "Inference là quá trình mô hình đã huấn luyện tạo dự đoán hoặc phản hồi trên dữ liệu mới."
+  },
+  {
+    "question": "Quantization là gì",
+    "answer": "Quantization là kỹ thuật giảm độ chính xác số học của mô hình để giảm bộ nhớ và tăng tốc inference."
+  },
+  {
+    "question": "LoRA là gì",
+    "answer": "LoRA là kỹ thuật fine-tuning hiệu quả bằng cách huấn luyện một số lượng nhỏ tham số bổ sung."
+  },
+  {
+    "question": "Checkpoint trong machine learning là gì",
+    "answer": "Checkpoint là bản lưu trạng thái mô hình tại một thời điểm trong quá trình huấn luyện."
+  },
+  {
+    "question": "Loss function là gì",
+    "answer": "Loss function là hàm đo sai lệch giữa dự đoán của mô hình và giá trị thực tế."
+  },
+  {
+    "question": "Gradient descent là gì",
+    "answer": "Gradient descent là thuật toán tối ưu dùng gradient để cập nhật tham số mô hình theo hướng giảm loss."
+  },
+  {
+    "question": "Backpropagation là gì",
+    "answer": "Backpropagation là thuật toán lan truyền ngược sai số để tính gradient trong mạng nơ-ron."
+  },
+  {
+    "question": "Activation function là gì",
+    "answer": "Activation function là hàm phi tuyến áp dụng lên đầu ra neuron để mô hình học quan hệ phức tạp."
+  },
+  {
+    "question": "ReLU là gì",
+    "answer": "ReLU là hàm kích hoạt phổ biến trả về max(0, x), giúp huấn luyện mạng sâu hiệu quả."
+  },
+  {
+    "question": "Softmax là gì",
+    "answer": "Softmax là hàm chuyển vector thành phân phối xác suất thường dùng trong phân loại đa lớp."
+  },
+  {
+    "question": "Classification là gì",
+    "answer": "Classification là bài toán dự đoán nhãn rời rạc cho dữ liệu đầu vào."
+  },
+  {
+    "question": "Regression là gì",
+    "answer": "Regression là bài toán dự đoán giá trị liên tục từ dữ liệu đầu vào."
+  },
+  {
+    "question": "Clustering là gì",
+    "answer": "Clustering là kỹ thuật nhóm dữ liệu tương đồng mà không cần nhãn trước."
+  },
+  {
+    "question": "Supervised learning là gì",
+    "answer": "Supervised learning là học máy sử dụng dữ liệu có nhãn để huấn luyện mô hình."
+  },
+  {
+    "question": "Unsupervised learning là gì",
+    "answer": "Unsupervised learning là học máy trên dữ liệu không có nhãn để khám phá cấu trúc tiềm ẩn."
+  },
+  {
+    "question": "Reinforcement learning là gì",
+    "answer": "Reinforcement learning là phương pháp học thông qua thử nghiệm và phần thưởng."
+  },
+  {
+    "question": "Confusion matrix là gì",
+    "answer": "Confusion matrix là bảng đánh giá hiệu suất mô hình phân loại dựa trên dự đoán đúng và sai."
+  },
+  {
+    "question": "Precision là gì",
+    "answer": "Precision là tỷ lệ dự đoán dương tính đúng trên tổng số dự đoán dương tính."
+  },
+  {
+    "question": "Recall là gì",
+    "answer": "Recall là tỷ lệ phát hiện đúng mẫu dương tính trên tổng số mẫu dương tính thực tế."
+  },
+  {
+    "question": "F1 Score là gì",
+    "answer": "F1 Score là trung bình điều hòa giữa precision và recall."
+  },
+  {
+    "question": "Accuracy là gì",
+    "answer": "Accuracy là tỷ lệ dự đoán đúng trên tổng số mẫu."
+  },
+  {
+    "question": "Normalization là gì",
+    "answer": "Normalization là quá trình chuẩn hóa dữ liệu về cùng thang đo."
+  },
+  {
+    "question": "Standardization là gì",
+    "answer": "Standardization là chuẩn hóa dữ liệu về phân phối có trung bình 0 và độ lệch chuẩn 1."
+  },
+  {
+    "question": "Feature engineering là gì",
+    "answer": "Feature engineering là quá trình tạo và biến đổi đặc trưng để cải thiện mô hình."
+  },
+  {
+    "question": "One-hot encoding là gì",
+    "answer": "One-hot encoding là kỹ thuật biểu diễn biến phân loại thành vector nhị phân."
+  },
+  {
+    "question": "Train test split là gì",
+    "answer": "Train test split là việc chia dữ liệu thành tập huấn luyện và tập kiểm thử."
+  },
+  {
+    "question": "Cross validation là gì",
+    "answer": "Cross validation là kỹ thuật đánh giá mô hình bằng nhiều lần chia dữ liệu."
+  },
+  {
+    "question": "Hyperparameter là gì",
+    "answer": "Hyperparameter là tham số cấu hình mô hình được thiết lập trước khi huấn luyện."
+  },
+  {
+    "question": "Grid search là gì",
+    "answer": "Grid search là phương pháp thử nhiều tổ hợp hyperparameter để tìm cấu hình tốt nhất."
+  },
+  {
+    "question": "Random forest là gì",
+    "answer": "Random Forest là thuật toán ensemble kết hợp nhiều cây quyết định."
+  },
+  {
+    "question": "Decision tree là gì",
+    "answer": "Decision Tree là mô hình phân nhánh quyết định dựa trên điều kiện dữ liệu."
+  },
+  {
+    "question": "SVM là gì",
+    "answer": "SVM là thuật toán phân loại tìm siêu phẳng tối ưu để tách dữ liệu."
+  },
+  {
+    "question": "KNN là gì",
+    "answer": "KNN là thuật toán dự đoán dựa trên các điểm dữ liệu gần nhất."
+  },
+  {
+    "question": "Pandas là gì",
+    "answer": "Pandas là thư viện Python dùng để xử lý và phân tích dữ liệu dạng bảng."
+  },
+  {
+    "question": "NumPy là gì",
+    "answer": "NumPy là thư viện Python hỗ trợ tính toán mảng và toán học hiệu năng cao."
+  },
+  {
+    "question": "Matplotlib là gì",
+    "answer": "Matplotlib là thư viện Python dùng để trực quan hóa dữ liệu."
+  },
+  {
+    "question": "Seaborn là gì",
+    "answer": "Seaborn là thư viện trực quan hóa dữ liệu xây trên Matplotlib với giao diện đơn giản hơn."
+  },
+  {
+    "question": "TensorFlow là gì",
+    "answer": "TensorFlow là framework machine learning và deep learning do Google phát triển."
+  },
+  {
+    "question": "PyTorch là gì",
+    "answer": "PyTorch là framework deep learning phổ biến với khả năng dynamic graph linh hoạt."
+  },
+  {
+    "question": "Hugging Face là gì",
+    "answer": "Hugging Face là nền tảng và thư viện phổ biến cho NLP, transformer và mô hình AI mã nguồn mở."
+  },
+  {
+    "question": "Whisper là gì",
+    "answer": "Whisper là mô hình speech-to-text của OpenAI dùng để chuyển giọng nói thành văn bản."
+  },
+  {
+    "question": "TTS là gì",
+    "answer": "TTS là công nghệ chuyển văn bản thành giọng nói."
+  },
+  {
+    "question": "STT là gì",
+    "answer": "STT là công nghệ chuyển giọng nói thành văn bản."
+  },
+  {
+    "question": "Wake word là gì",
+    "answer": "Wake word là từ khóa kích hoạt trợ lý giọng nói như 'Hey Siri' hoặc 'OK Google'."
+  },
+  {
+    "question": "Intent classification là gì",
+    "answer": "Intent classification là bài toán xác định mục đích của câu lệnh người dùng."
+  },
+  {
+    "question": "Named Entity Recognition là gì",
+    "answer": "NER là kỹ thuật trích xuất thực thể như tên người, ngày giờ, địa điểm từ văn bản."
+  },
+  {
+    "question": "Slot filling là gì",
+    "answer": "Slot filling là quá trình trích xuất tham số cần thiết từ câu lệnh người dùng."
+  },
+  {
+    "question": "Knowledge base là gì",
+    "answer": "Knowledge base là tập hợp tri thức có cấu trúc để hệ thống truy xuất thông tin."
+  },
+  {
+    "question": "Semantic search là gì",
+    "answer": "Semantic search là tìm kiếm dựa trên ngữ nghĩa thay vì khớp từ khóa chính xác."
+  },
+  {
+    "question": "Cosine similarity là gì",
+    "answer": "Cosine similarity là độ đo mức tương đồng giữa hai vector dựa trên góc giữa chúng."
+  },
+  {
+    "question": "Nearest neighbor search là gì",
+    "answer": "Nearest neighbor search là bài toán tìm vector gần nhất trong không gian embedding."
+  },
+  {
+    "question": "Latency optimization là gì",
+    "answer": "Latency optimization là quá trình giảm thời gian phản hồi của hệ thống."
+  },
+  {
+    "question": "Bottleneck là gì",
+    "answer": "Bottleneck là thành phần giới hạn hiệu năng tổng thể của hệ thống."
+  }
+]

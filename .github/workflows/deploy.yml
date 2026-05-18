@@ -1,0 +1,32 @@
+name: Production Deploy Voice Assistant
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Deploy via SSH
+        uses: appleboy/ssh-action@v1.0.3
+        with:
+          host: ${{ secrets.VPS_HOST }}
+          username: ${{ secrets.VPS_USER }}
+          key: ${{ secrets.VPS_SSH_KEY }}
+
+          script: |
+            set -e
+
+            cd ~/services/voice-assistant
+
+            echo "📥 Pull latest code"
+            git fetch origin master
+            git reset --hard origin/master
+
+            echo "🐳 Rebuild & restart containers"
+            docker compose -f docker-compose.production.yml up -d --build
+
+            echo "✅ Deploy completed"

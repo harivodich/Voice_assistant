@@ -1,0 +1,1498 @@
+﻿id,raw_text,normalized_text,label,split,normalized_no_accent
+393,Kỹ năng mềm là gì?,kỹ năng mềm là gì,qa,train,ky nang mem la gi
+745,Cách dậy sớm hiệu quả?,cách dậy sớm hiệu quả,qa,validation,cach day som hieu qua
+1231,Tại sao AI cần training data?,tại sao ai cần training data,qa,test,tai sao ai can training data
+1142,Nhắc tôi ngủ sớm lúc 11h.,nhắc tôi ngủ sớm lúc h,calendar,test,nhac toi ngu som luc h
+666,Thế nào là lối sống lành mạnh?,thế nào là lối sống lành mạnh,qa,train,the nao la loi song lanh manh
+991,Ghi âm cuộc gọi này!,ghi âm cuộc gọi này,control_device,train,ghi am cuoc goi nay
+1111,Fp16 là gì?,fp là gì,qa,train,fp la gi
+603,Tại sao cần nghỉ ngơi?,tại sao cần nghỉ ngơi,qa,train,tai sao can nghi ngoi
+511,Chiều nay tôi có ca ShopeeFood không?,chiều nay tôi có ca shopeefood không,calendar,train,chieu nay toi co ca shopeefood khong
+1295,Vào gmail luôn!,vào gmail luôn,control_device,train,vao gmail luon
+1241,Xem giúp lịch ngày kia.,xem giúp lịch ngày kia,calendar,train,xem giup lich ngay kia
+90,Cách bảo quản rau trong tủ lạnh?,cách bảo quản rau trong tủ lạnh,qa,train,cach bao quan rau trong tu lanh
+1478,HTTP và HTTPS khác nhau sao?,http và khác nhau sao,qa,test,http va khac nhau sao
+863,Mở máy tính!,mở máy tính,control_device,test,mo may tinh
+947,Cách bảo dưỡng xe định kỳ?,cách bảo dưỡng xe định kỳ,qa,train,cach bao duong xe đinh ky
+399,Xem ca làm việc chiều nay.,xem ca làm việc chiều nay,calendar,train,xem ca lam viec chieu nay
+621,Tuần sau có bận không?,tuần sau có bận không,calendar,train,tuan sau co ban khong
+939,Lưu sở thích của tôi.,lưu sở thích của tôi,personalize,train,luu so thich cua toi
+1059,Docker compose là gì?,docker compose là gì,qa,train,docker compose la gi
+1417,Tôi thích nhạc không lời lúc làm việc.,tôi thích nhạc không lời lúc làm việc,personalize,train,toi thich nhac khong loi luc lam viec
+1183,Mở Google Calendar!,mở google calendar,control_device,train,mo google calendar
+1095,Tiền xử lý dữ liệu là gì?,tiền xử lý dữ liệu là gì,qa,train,tien xu ly du lieu la gi
+1032,Websocket là gì?,websocket là gì,qa,train,websocket la gi
+295,Cách tiết kiệm tiền hiệu quả?,cách tiết kiệm tiền hiệu quả,qa,validation,cach tiet kiem tien hieu qua
+1355,Bật wifi lên đi!,bật wifi lên đi,control_device,train,bat wifi len đi
+1194,Mở Docs!,mở docs,control_device,train,mo docs
+683,Cách pha cà phê phin ngon?,cách pha cà phê phin ngon,qa,test,cach pha ca phe phin ngon
+1519,Mình thích assistant nói chuyện casual thôi.,mình thích assistant nói chuyện casual thôi,personalize,test,minh thich assistant noi chuyen casual thoi
+1227,Machine learning có cần toán không?,machine learning có cần toán không,qa,test,machine learning co can toan khong
+823,Vì sao cần ôn tập thường xuyên?,vì sao cần ôn tập thường xuyên,qa,train,vi sao can on tap thuong xuyen
+758,Tôi muốn tập thể dục mỗi ngày.,tôi muốn tập thể dục mỗi ngày,personalize,train,toi muon tap the duc moi ngay
+479,Nhắc tôi kiểm tra tài khoản.,nhắc tôi kiểm tra tài khoản,calendar,train,nhac toi kiem tra tai khoan
+578,Nhắc tôi kiểm tra deadline.,nhắc tôi kiểm tra deadline,calendar,train,nhac toi kiem tra deadline
+1440,Vì sao AI cần dữ liệu nhiều thế?,vì sao ai cần dữ liệu nhiều thế,qa,test,vi sao ai can du lieu nhieu the
+677,Previous bài!,previous bài,control_device,train,previous bai
+593,Phân biệt ML và DL?,phân biệt ml và dl,qa,train,phan biet ml va dl
+845,Ngày mai có cuộc họp không?,ngày mai có cuộc họp không,calendar,train,ngay mai co cuoc hop khong
+3,Mở danh bạ điện thoại!,mở danh bạ điện thoại,control_device,train,mo danh ba đien thoai
+1348,Mai có lịch thi không?,mai có lịch thi không,calendar,train,mai co lich thi khong
+702,"Từ ""sustainable"" nghĩa là gì?",từ sustainable nghĩa là gì,qa,train,tu sustainable nghia la gi
+282,Cách nấu phở bò ngon như thế nào?,cách nấu phở bò ngon như thế nào,qa,train,cach nau pho bo ngon nhu the nao
+953,Tôi ưu tiên dùng điện thoại.,tôi ưu tiên dùng điện thoại,personalize,train,toi uu tien dung đien thoai
+594,Mở thư viện ảnh!,mở thư viện ảnh,control_device,train,mo thu vien anh
+78,Bao nhiêu calo trong một quả táo?,bao nhiêu calo trong một quả táo,qa,test,bao nhieu calo trong mot qua tao
+515,Tôi nghe podcast mỗi tối.,tôi nghe podcast mỗi tối,personalize,validation,toi nghe podcast moi toi
+912,Tôi đang trong chế độ giảm cân.,tôi đang trong chế độ giảm cân,personalize,train,toi đang trong che đo giam can
+210,Mở thùng rác!,mở thùng rác,control_device,train,mo thung rac
+326,Tại sao giao thông cần luật lệ?,tại sao giao thông cần luật lệ,qa,train,tai sao giao thong can luat le
+826,Chuyển sang ứng dụng khác!,chuyển sang ứng dụng khác,control_device,train,chuyen sang ung dung khac
+733,Bật lại âm thanh!,bật lại âm thanh,control_device,validation,bat lai am thanh
+82,Gần đây có rạp phim nào không?,gần đây có rạp phim nào không,qa,train,gan đay co rap phim nao khong
+151,Xin chào!,xin chào,qa,train,xin chao
+1471,MCP là gì trong AI agent?,mcp là gì trong ai agent,qa,train,mcp la gi trong ai agent
+144,Vì sao lãi kép quan trọng?,vì sao lãi kép quan trọng,qa,train,vi sao lai kep quan trong
+1005,Lên lịch học Python lúc 14 giờ hôm nay.,lên lịch học python lúc giờ hôm nay,calendar,train,len lich hoc python luc gio hom nay
+1121,Vì sao websocket nhanh?,vì sao websocket nhanh,qa,train,vi sao websocket nhanh
+1305,Mai có phải họp không nhỉ?,mai có phải họp không nhỉ,calendar,train,mai co phai hop khong nhi
+1421,Vì sao transformer xử lý ngôn ngữ tốt vậy?,vì sao transformer xử lý ngôn ngữ tốt vậy,qa,test,vi sao transformer xu ly ngon ngu tot vay
+1303,Thêm giúp tôi cái lịch học tối nay.,thêm giúp tôi cái lịch học tối nay,calendar,train,them giup toi cai lich hoc toi nay
+789,Thêm lịch chuyển tiền vào sáng mai.,thêm lịch chuyển tiền vào sáng mai,calendar,test,them lich chuyen tien vao sang mai
+740,Mở ứng dụng gallery!,mở ứng dụng gallery,control_device,train,mo ung dung gallery
+525,Chụp ảnh ngay bây giờ!,chụp ảnh ngay bây giờ,control_device,train,chup anh ngay bay gio
+1430,Vì sao websocket không cần polling liên tục?,vì sao websocket không cần polling liên tục,qa,validation,vi sao websocket khong can polling lien tuc
+1314,Mai nhớ gọi tôi lúc 6h nha.,mai nhớ gọi tôi lúc h nha,calendar,train,mai nho goi toi luc h nha
+1254,Đặt lịch đi khám 8h sáng thứ 6.,đặt lịch đi khám h sáng thứ,calendar,train,đat lich đi kham h sang thu
+757,Tôi thường order đồ ăn online.,tôi thường order đồ ăn online,personalize,train,toi thuong order đo an online
+1357,Tắt bluetooth giúp mình!,tắt bluetooth giúp mình,control_device,train,tat bluetooth giup minh
+1206,Mở du túp!,mở du túp,control_device,validation,mo du tup
+1514,Vector embedding tạo như thế nào?,vector embedding tạo như thế nào,qa,test,vector embedding tao nhu the nao
+1062,JSON là gì?,json là gì,qa,validation,json la gi
+237,Lên lịch chơi game tối nay.,lên lịch chơi game tối nay,calendar,train,len lich choi game toi nay
+1055,Vector là gì?,vector là gì,qa,train,vector la gi
+1377,Cho tôi vào Facebook!,cho tôi vào facebook,control_device,train,cho toi vao facebook
+1307,Check xem mai tôi rảnh không?,check xem mai tôi rảnh không,calendar,train,check xem mai toi ranh khong
+688,Tại sao ánh sáng xanh ảnh hưởng đến giấc ngủ?,tại sao ánh sáng xanh ảnh hưởng đến giấc ngủ,qa,train,tai sao anh sang xanh anh huong đen giac ngu
+924,Tôi đi xe điện mỗi ngày.,tôi đi xe điện mỗi ngày,personalize,train,toi đi xe đien moi ngay
+160,Làm việc nhóm có lợi ích gì?,làm việc nhóm có lợi ích gì,qa,train,lam viec nhom co loi ich gi
+481,Mở ứng dụng ghi chú!,mở ứng dụng ghi chú,control_device,train,mo ung dung ghi chu
+70,Lưu thông tin này lại.,lưu thông tin này lại,personalize,train,luu thong tin nay lai
+153,Tên bạn là gì?,tên bạn là gì,qa,train,ten ban la gi
+1321,Xóa cái lịch vừa tạo đi.,xóa cái lịch vừa tạo đi,calendar,train,xoa cai lich vua tao đi
+484,Khóa màn hình ngay!,khóa màn hình ngay,control_device,train,khoa man hinh ngay
+1398,Mình khá hướng nội.,mình khá hướng nội,personalize,train,minh kha huong noi
+35,Đóng Excel lại!,đóng excel lại,control_device,train,đong excel lai
+183,Mở gmail!,mở gmail,control_device,train,mo gmail
+936,Kết thúc cuộc gọi!,kết thúc cuộc gọi,control_device,train,ket thuc cuoc goi
+802,Ghi nhớ lịch trình của tôi.,ghi nhớ lịch trình của tôi,personalize,train,ghi nho lich trinh cua toi
+211,Giảm độ sáng màn hình!,giảm độ sáng màn hình,control_device,test,giam đo sang man hinh
+427,Mở file Word gần nhất!,mở file word gần nhất,control_device,train,mo file word gan nhat
+801,Nhắc tôi uống nước mỗi 2 tiếng.,nhắc tôi uống nước mỗi tiếng,calendar,train,nhac toi uong nuoc moi tieng
+871,Tôi thích không gian yên tĩnh.,tôi thích không gian yên tĩnh,personalize,train,toi thich khong gian yen tinh
+589,Mã OTP là gì?,mã otp là gì,qa,train,ma otp la gi
+1378,Phát playlist yêu thích đi!,phát playlist yêu thích đi,control_device,train,phat playlist yeu thich đi
+73,Tôi thích ánh sáng nhẹ.,tôi thích ánh sáng nhẹ,personalize,train,toi thich anh sang nhe
+258,Tạo lịch đi ăn trưa lúc 12 giờ.,tạo lịch đi ăn trưa lúc giờ,calendar,train,tao lich đi an trua luc gio
+350,Tôi hay xem phim ban đêm.,tôi hay xem phim ban đêm,personalize,train,toi hay xem phim ban đem
+736,Cầu Vàng thuộc tỉnh nào?,cầu vàng thuộc tỉnh nào,qa,train,cau vang thuoc tinh nao
+1172,Mình làm Backend Developer.,mình làm backend developer,personalize,train,minh lam backend developer
+919,Lên lịch luyện nói IELTS vào buổi tối.,lên lịch luyện nói ielts vào buổi tối,calendar,train,len lich luyen noi ielts vao buoi toi
+458,Sáng nay có lịch học không?,sáng nay có lịch học không,calendar,train,sang nay co lich hoc khong
+1114,Tensorflow là gì?,tensorflow là gì,qa,train,tensorflow la gi
+321,Lịch ngày mai như thế nào?,lịch ngày mai như thế nào,calendar,train,lich ngay mai nhu the nao
+601,Gọi điện cho số gần nhất!,gọi điện cho số gần nhất,control_device,train,goi đien cho so gan nhat
+1069,Microservice là gì?,microservice là gì,qa,train,microservice la gi
+1384,GPU là gì vậy?,gpu là gì vậy,qa,validation,gpu la gi vay
+178,Nhớ là tôi không thích ồn ào.,nhớ là tôi không thích ồn ào,personalize,train,nho la toi khong thich on ao
+461,Cách sống tích cực hơn mỗi ngày?,cách sống tích cực hơn mỗi ngày,qa,train,cach song tich cuc hon moi ngay
+56,Tôi có rảnh chiều nay không?,tôi có rảnh chiều nay không,calendar,train,toi co ranh chieu nay khong
+846,Lập lịch đi chơi vào cuối tuần.,lập lịch đi chơi vào cuối tuần,calendar,train,lap lich đi choi vao cuoi tuan
+340,Chuyển bài tiếp theo!,chuyển bài tiếp theo,control_device,train,chuyen bai tiep theo
+1388,Tui thích code đêm.,tui thích code đêm,personalize,train,tui thich code đem
+1039,Internet hoạt động sao?,internet hoạt động sao,qa,test,internet hoat đong sao
+1482,Xóa cái reminder hồi nãy đi!,xóa cái reminder hồi nãy đi,calendar,train,xoa cai reminder hoi nay đi
+106,Giảm âm lượng xuống!,giảm âm lượng xuống,control_device,train,giam am luong xuong
+1143,Mai rảnh không?,mai rảnh không,calendar,train,mai ranh khong
+323,Tạo lịch cập nhật tin tức.,tạo lịch cập nhật tin tức,calendar,train,tao lich cap nhat tin tuc
+239,Mở ứng dụng chỉnh sửa video!,mở ứng dụng chỉnh sửa video,control_device,train,mo ung dung chinh sua video
+309,Lịch tháng này ra sao?,lịch tháng này ra sao,calendar,validation,lich thang nay ra sao
+109,Tạo lịch họp nhóm vào chiều mai.,tạo lịch họp nhóm vào chiều mai,calendar,train,tao lich hop nhom vao chieu mai
+433,Lưu lại địa điểm trường học.,lưu lại địa điểm trường học,personalize,train,luu lai đia điem truong hoc
+436,Mở ứng dụng học tập!,mở ứng dụng học tập,control_device,train,mo ung dung hoc tap
+1326,Đặt lịch họp team sáng thứ 2.,đặt lịch họp team sáng thứ,calendar,train,đat lich hop team sang thu
+1275,Món khoái khẩu của tôi là bún bò.,món khoái khẩu của tôi là bún bò,personalize,train,mon khoai khau cua toi la bun bo
+1552,Wifi 5ghz khác gì 2.4ghz?,wifi ghz khác gì ghz,qa,train,wifi ghz khac gi ghz
+903,Nhắc tôi gọi điện vào cuối tuần.,nhắc tôi gọi điện vào cuối tuần,calendar,train,nhac toi goi đien vao cuoi tuan
+608,Mở nhạc trên YouTube!,mở nhạc trên youtube,control_device,train,mo nhac tren youtube
+132,Đóng tất cả tab!,đóng tất cả tab,control_device,train,đong tat ca tab
+457,Thêm lịch ăn sáng lúc 7 giờ.,thêm lịch ăn sáng lúc giờ,calendar,train,them lich an sang luc gio
+31,Nhắc tôi xem thông báo lúc 9 giờ.,nhắc tôi xem thông báo lúc giờ,calendar,train,nhac toi xem thong bao luc gio
+55,Khi nào hôm nay tôi rảnh?,khi nào hôm nay tôi rảnh,calendar,train,khi nao hom nay toi ranh
+1497,Lịch mai có kín không vậy?,lịch mai có kín không vậy,calendar,train,lich mai co kin khong vay
+715,Tắt đèn pin đi!,tắt đèn pin đi,control_device,train,tat đen pin đi
+1106,Multi agent là gì?,multi agent là gì,qa,train,multi agent la gi
+1270,Nói chuyện casual thôi.,nói chuyện casual thôi,personalize,train,noi chuyen casual thoi
+1085,Qwen là model gì?,qwen là model gì,qa,train,qwen la model gi
+173,Lên lịch họp công ty vào sáng thứ hai.,lên lịch họp công ty vào sáng thứ hai,calendar,train,len lich hop cong ty vao sang thu hai
+606,Gọi cho mẹ!,gọi cho mẹ,control_device,train,goi cho me
+448,Thêm lịch học lúc 6 giờ sáng mai.,thêm lịch học lúc giờ sáng mai,calendar,train,them lich hoc luc gio sang mai
+1119,Streaming audio là gì?,streaming audio là gì,qa,train,streaming audio la gi
+776,Lịch ngày 30/3 thế nào?,lịch ngày thế nào,calendar,train,lich ngay the nao
+573,Tôi hay xem tin công nghệ mỗi sáng.,tôi hay xem tin công nghệ mỗi sáng,personalize,train,toi hay xem tin cong nghe moi sang
+655,Chiều tôi hay bị mất tập trung.,chiều tôi hay bị mất tập trung,personalize,train,chieu toi hay bi mat tap trung
+841,Tại sao cần ăn rau?,tại sao cần ăn rau,qa,test,tai sao can an rau
+26,Lịch học tiếng Anh tối nay thế nào?,lịch học tiếng anh tối nay thế nào,calendar,train,lich hoc tieng anh toi nay the nao
+1077,Nginx là gì?,nginx là gì,qa,train,nginx la gi
+1207,Gô gồ machine learning!,gô gồ machine learning,control_device,train,go go machine learning
+1135,Thêm lịch đi cà phê tối nay.,thêm lịch đi cà phê tối nay,calendar,train,them lich đi ca phe toi nay
+54,Thói quen buổi sáng tốt là gì?,thói quen buổi sáng tốt là gì,qa,test,thoi quen buoi sang tot la gi
+69,Tại sao cần version control như Git?,tại sao cần version control như git,qa,train,tai sao can version control nhu git
+1521,Đặt lịch đi cf học nhóm tối mai.,đặt lịch đi cf học nhóm tối mai,calendar,validation,đat lich đi cf hoc nhom toi mai
+370,Đặt lịch bảo trì xe điện.,đặt lịch bảo trì xe điện,calendar,train,đat lich bao tri xe đien
+462,Tạm dừng nhạc lại!,tạm dừng nhạc lại,control_device,train,tam dung nhac lai
+1123,Vad filtering là gì?,vad filtering là gì,qa,train,vad filtering la gi
+1473,Websocket stream audio kiểu gì?,websocket stream audio kiểu gì,qa,train,websocket stream audio kieu gi
+534,Thêm lịch meeting vào ngày mai.,thêm lịch meeting vào ngày mai,calendar,train,them lich meeting vao ngay mai
+1010,Kiểm tra lịch giúp tôi.,kiểm tra lịch giúp tôi,calendar,test,kiem tra lich giup toi
+389,Tuần sau có kế hoạch gì?,tuần sau có kế hoạch gì,calendar,train,tuan sau co ke hoach gi
+1041,Linux là gì?,linux là gì,qa,train,linux la gi
+496,Sáng nay tôi có lịch gì?,sáng nay tôi có lịch gì,calendar,train,sang nay toi co lich gi
+1465,Cache dùng để làm gì?,cache dùng để làm gì,qa,train,cache dung đe lam gi
+262,Tối nay có trận bóng nào?,tối nay có trận bóng nào,qa,train,toi nay co tran bong nao
+663,Lịch học IELTS hôm nay lúc mấy giờ?,lịch học ielts hôm nay lúc mấy giờ,calendar,train,lich hoc ielts hom nay luc may gio
+792,Nhớ điều này cho tôi.,nhớ điều này cho tôi,personalize,train,nho đieu nay cho toi
+721,Ổ cứng SSD khác gì HDD?,ổ cứng ssd khác gì hdd,qa,train,o cung ssd khac gi hdd
+112,Lịch gần nhất của tôi là gì?,lịch gần nhất của tôi là gì,calendar,train,lich gan nhat cua toi la gi
+1411,Tôi hay thức tới 2h sáng.,tôi hay thức tới h sáng,personalize,train,toi hay thuc toi h sang
+771,Mở ứng dụng camera!,mở ứng dụng camera,control_device,validation,mo ung dung camera
+911,Tại sao trọng lực giữ chúng ta trên mặt đất?,tại sao trọng lực giữ chúng ta trên mặt đất,qa,train,tai sao trong luc giu chung ta tren mat đat
+432,Xem lịch làm việc hôm nay.,xem lịch làm việc hôm nay,calendar,train,xem lich lam viec hom nay
+1228,Docker giúp gì cho deploy?,docker giúp gì cho deploy,qa,train,docker giup gi cho deploy
+959,Cách giảm cân an toàn là gì?,cách giảm cân an toàn là gì,qa,train,cach giam can an toan la gi
+962,Thêm lịch gặp bạn lúc 8h.,thêm lịch gặp bạn lúc h,calendar,train,them lich gap ban luc h
+686,Vì sao cần luyện nói thường xuyên?,vì sao cần luyện nói thường xuyên,qa,train,vi sao can luyen noi thuong xuyen
+847,Hãy nhớ tôi hay đặt đồ ăn qua ShopeeFood.,hãy nhớ tôi hay đặt đồ ăn qua shopeefood,personalize,train,hay nho toi hay đat đo an qua shopeefood
+1393,Mở nó lên đi!,mở nó lên đi,control_device,train,mo no len đi
+25,Tại sao cần kỹ năng giao tiếp?,tại sao cần kỹ năng giao tiếp,qa,train,tai sao can ky nang giao tiep
+45,Mở Zalo!,mở zalo,control_device,train,mo zalo
+835,Lên lịch sửa đồ vào cuối tuần.,lên lịch sửa đồ vào cuối tuần,calendar,train,len lich sua đo vao cuoi tuan
+287,Xem lịch tuần sau giúp tôi.,xem lịch tuần sau giúp tôi,calendar,train,xem lich tuan sau giup toi
+1424,Vì sao docker nhẹ hơn virtual machine?,vì sao docker nhẹ hơn virtual machine,qa,train,vi sao docker nhe hon virtual machine
+895,Tôi không thích ồn ào.,tôi không thích ồn ào,personalize,train,toi khong thich on ao
+1509,Mình thích ngồi góc yên tĩnh học bài.,mình thích ngồi góc yên tĩnh học bài,personalize,validation,minh thich ngoi goc yen tinh hoc bai
+882,Tạo một sự kiện mới vào ngày mai.,tạo một sự kiện mới vào ngày mai,calendar,train,tao mot su kien moi vao ngay mai
+1116,Sentence transformer là gì?,sentence transformer là gì,qa,train,sentence transformer la gi
+553,Vì sao nên đọc sách tiếng Anh?,vì sao nên đọc sách tiếng anh,qa,train,vi sao nen đoc sach tieng anh
+1209,Hệ điều hành dùng để làm gì?,hệ điều hành dùng để làm gì,qa,train,he đieu hanh dung đe lam gi
+40,Làm sáng màn hình hơn!,làm sáng màn hình hơn,control_device,validation,lam sang man hinh hon
+1460,Ubuntu khác Windows thế nào?,ubuntu khác windows thế nào,qa,train,ubuntu khac windows the nao
+1065,HTTPS là gì?,là gì,qa,train,la gi
+124,Căn bậc hai của 144 bằng bao nhiêu?,căn bậc hai của bằng bao nhiêu,qa,train,can bac hai cua bang bao nhieu
+355,Nhớ là tôi dị ứng đậu phộng nhé.,nhớ là tôi dị ứng đậu phộng nhé,personalize,validation,nho la toi di ung đau phong nhe
+51,Tôi thích nghe nhạc khi học.,tôi thích nghe nhạc khi học,personalize,test,toi thich nghe nhac khi hoc
+894,Đặt lịch họp vào 14 giờ.,đặt lịch họp vào giờ,calendar,validation,đat lich hop vao gio
+1555,Đi bộ mỗi ngày có lợi gì cho tim mạch?,đi bộ mỗi ngày có lợi gì cho tim mạch,qa,validation,đi bo moi ngay co loi gi cho tim mach
+888,Bật bluetooth!,bật bluetooth,control_device,train,bat bluetooth
+1223,Cơ sở dữ liệu quan hệ là gì?,cơ sở dữ liệu quan hệ là gì,qa,validation,co so du lieu quan he la gi
+1290,Search blockchain tutorial!,search blockchain tutorial,control_device,train,search blockchain tutorial
+1159,Mình thích chơi game.,mình thích chơi game,personalize,train,minh thich choi game
+390,Liệt kê lịch hôm nay.,liệt kê lịch hôm nay,calendar,train,liet ke lich hom nay
+1544,Ăn khuya có ảnh hưởng gì không?,ăn khuya có ảnh hưởng gì không,qa,train,an khuya co anh huong gi khong
+891,Tìm kiếm file trên máy!,tìm kiếm file trên máy,control_device,train,tim kiem file tren may
+1178,Vào YouTube đi!,vào youtube đi,control_device,train,vao youtube đi
+1252,Tạo reminder uống nước mỗi sáng.,tạo reminder uống nước mỗi sáng,calendar,validation,tao reminder uong nuoc moi sang
+987,Chạy Notepad!,chạy notepad,control_device,train,chay notepad
+703,Tôi đang xây dựng lối sống healthy.,tôi đang xây dựng lối sống healthy,personalize,train,toi đang xay dung loi song healthy
+1543,Sao ngủ ít lại đau đầu?,sao ngủ ít lại đau đầu,qa,train,sao ngu it lai đau đau
+1512,Frontend với UI UX khác nhau sao?,frontend với ui ux khác nhau sao,qa,train,frontend voi ui ux khac nhau sao
+1506,Tôi cực thích backend luôn.,tôi cực thích backend luôn,personalize,train,toi cuc thich backend luon
+1152,Tôi thích màu xanh.,tôi thích màu xanh,personalize,train,toi thich mau xanh
+192,Mở word lên!,mở word lên,control_device,train,mo word len
+154,Bạn là ai?,bạn là ai,qa,train,ban la ai
+1298,Mở lịch Google Calendar!,mở lịch google calendar,control_device,train,mo lich google calendar
+1477,Vì sao cosine similarity hữu ích?,vì sao cosine similarity hữu ích,qa,train,vi sao cosine similarity huu ich
+718,Ngày kia tôi có lịch gì không?,ngày kia tôi có lịch gì không,calendar,train,ngay kia toi co lich gi khong
+518,Tôi ưu tiên đường nhanh.,tôi ưu tiên đường nhanh,personalize,test,toi uu tien đuong nhanh
+639,Tăng độ sáng màn hình!,tăng độ sáng màn hình,control_device,train,tang đo sang man hinh
+751,Nhắc tôi xem phim vào tối nay.,nhắc tôi xem phim vào tối nay,calendar,train,nhac toi xem phim vao toi nay
+304,Tôi hay dùng điện thoại buổi tối.,tôi hay dùng điện thoại buổi tối,personalize,test,toi hay dung đien thoai buoi toi
+1488,Restart máy dùm cái!,restart máy dùm cái,control_device,train,restart may dum cai
+588,Bao nhiêu phút là 1 giờ?,bao nhiêu phút là giờ,qa,train,bao nhieu phut la gio
+1391,Mai có gì không?,mai có gì không,calendar,test,mai co gi khong
+42,Sáng mai tôi có rảnh không?,sáng mai tôi có rảnh không,calendar,train,sang mai toi co ranh khong
+762,Tại sao cần học ngoại ngữ?,tại sao cần học ngoại ngữ,qa,train,tai sao can hoc ngoai ngu
+1234,Text embedding là gì?,text embedding là gì,qa,train,text embedding la gi
+806,Vì sao cơ thể cần protein để phát triển?,vì sao cơ thể cần protein để phát triển,qa,test,vi sao co the can protein đe phat trien
+1546,Não bộ ghi nhớ thông tin kiểu gì?,não bộ ghi nhớ thông tin kiểu gì,qa,train,nao bo ghi nho thong tin kieu gi
+1276,Mình ở Cầu Giấy.,mình ở cầu giấy,personalize,train,minh o cau giay
+1412,Mình thích đi đường tránh đông xe.,mình thích đi đường tránh đông xe,personalize,validation,minh thich đi đuong tranh đong xe
+571,Ngày mai tôi có lịch gì không?,ngày mai tôi có lịch gì không,calendar,validation,ngay mai toi co lich gi khong
+437,Giúp tôi thêm lịch học lúc 7h tối.,giúp tôi thêm lịch học lúc h tối,calendar,train,giup toi them lich hoc luc h toi
+122,Giảm độ sáng giúp tôi dễ chịu hơn.,giảm độ sáng giúp tôi dễ chịu hơn,personalize,train,giam đo sang giup toi de chiu hon
+306,Mở ứng dụng email!,mở ứng dụng email,control_device,train,mo ung dung email
+1150,Schedule cuộc họp lúc 10h.,schedule cuộc họp lúc h,calendar,train,schedule cuoc hop luc h
+46,Lịch tháng 4 của tôi ra sao?,lịch tháng của tôi ra sao,calendar,train,lich thang cua toi ra sao
+675,Tôi có rảnh tối nay không?,tôi có rảnh tối nay không,calendar,train,toi co ranh toi nay khong
+575,Tháng này có deadline nào?,tháng này có deadline nào,calendar,test,thang nay co deadline nao
+213,Hôm nay có deadline nào không?,hôm nay có deadline nào không,calendar,validation,hom nay co deadline nao khong
+1347,Nhắc tôi đóng tiền điện cuối tháng.,nhắc tôi đóng tiền điện cuối tháng,calendar,test,nhac toi đong tien đien cuoi thang
+834,Diện tích Việt Nam là bao nhiêu?,diện tích việt nam là bao nhiêu,qa,train,dien tich viet nam la bao nhieu
+877,Xe máy nên thay dầu bao lâu một lần?,xe máy nên thay dầu bao lâu một lần,qa,train,xe may nen thay dau bao lau mot lan
+1472,FastAPI dùng để làm gì?,fastapi dùng để làm gì,qa,train,fastapi dung đe lam gi
+692,Tạo nhắc nhở uống nước đều đặn.,tạo nhắc nhở uống nước đều đặn,calendar,train,tao nhac nho uong nuoc đeu đan
+564,Tạo nhắc nhở đi chạy bộ lúc 6 giờ.,tạo nhắc nhở đi chạy bộ lúc giờ,calendar,train,tao nhac nho đi chay bo luc gio
+497,Sự kiện tiếp theo là gì?,sự kiện tiếp theo là gì,calendar,train,su kien tiep theo la gi
+1267,Tôi làm Frontend Developer.,tôi làm frontend developer,personalize,train,toi lam frontend developer
+276,Tại sao nên ghi chú khi học?,tại sao nên ghi chú khi học,qa,train,tai sao nen ghi chu khi hoc
+464,Dán file vào thư mục!,dán file vào thư mục,control_device,test,dan file vao thu muc
+644,Lên lịch đi siêu thị chiều nay.,lên lịch đi siêu thị chiều nay,calendar,train,len lich đi sieu thi chieu nay
+537,Khi nào nên rửa xe?,khi nào nên rửa xe,qa,train,khi nao nen rua xe
+460,Tắt YouTube!,tắt youtube,control_device,train,tat youtube
+269,Thêm lịch tập thể dục sáng mai.,thêm lịch tập thể dục sáng mai,calendar,train,them lich tap the duc sang mai
+1370,Mở settings hệ thống!,mở settings hệ thống,control_device,train,mo settings he thong
+1453,LLM là viết tắt của gì?,llm là viết tắt của gì,qa,train,llm la viet tat cua gi
+419,Đỉnh núi cao nhất Việt Nam tên gì?,đỉnh núi cao nhất việt nam tên gì,qa,train,đinh nui cao nhat viet nam ten gi
+488,Tôi hay học vào ban đêm.,tôi hay học vào ban đêm,personalize,test,toi hay hoc vao ban đem
+281,Biến trong lập trình là gì vậy?,biến trong lập trình là gì vậy,qa,train,bien trong lap trinh la gi vay
+1425,GPU train AI nhanh hơn CPU bao nhiêu?,gpu train ai nhanh hơn cpu bao nhiêu,qa,train,gpu train ai nhanh hon cpu bao nhieu
+260,Tôi hay đi ngủ lúc 11h.,tôi hay đi ngủ lúc h,personalize,train,toi hay đi ngu luc h
+753,Cách kéo dài tuổi thọ pin điện thoại?,cách kéo dài tuổi thọ pin điện thoại,qa,train,cach keo dai tuoi tho pin đien thoai
+739,Tắt bluetooth giúp tôi!,tắt bluetooth giúp tôi,control_device,train,tat bluetooth giup toi
+797,Sông nào dài nhất trên thế giới vậy?,sông nào dài nhất trên thế giới vậy,qa,train,song nao dai nhat tren the gioi vay
+1201,YouTube blockchain!,youtube blockchain,control_device,test,youtube blockchain
+492,Tạo lịch họp nhóm dự án lúc 10 giờ sáng mai.,tạo lịch họp nhóm dự án lúc giờ sáng mai,calendar,train,tao lich hop nhom du an luc gio sang mai
+12,Vì sao việc tự học quan trọng?,vì sao việc tự học quan trọng,qa,test,vi sao viec tu hoc quan trong
+849,Ghi lại thông tin cá nhân của tôi.,ghi lại thông tin cá nhân của tôi,personalize,train,ghi lai thong tin ca nhan cua toi
+1007,Lịch tuần này có gì đáng chú ý?,lịch tuần này có gì đáng chú ý,calendar,train,lich tuan nay co gi đang chu y
+1096,Noise data là gì?,noise data là gì,qa,train,noise data la gi
+647,Trong tháng 4 tôi có những lịch nào?,trong tháng tôi có những lịch nào,calendar,train,trong thang toi co nhung lich nao
+636,Công thức tính diện tích hình tròn là gì?,công thức tính diện tích hình tròn là gì,qa,train,cong thuc tinh dien tich hinh tron la gi
+1140,Bỏ lịch họp chiều mai.,bỏ lịch họp chiều mai,calendar,test,bo lich hop chieu mai
+39,Mở camera!,mở camera,control_device,train,mo camera
+746,Cách cải thiện tâm trạng khi buồn?,cách cải thiện tâm trạng khi buồn,qa,train,cach cai thien tam trang khi buon
+1261,Mình tên Khánh.,mình tên khánh,personalize,train,minh ten khanh
+790,Cloud computing hoạt động như thế nào?,cloud computing hoạt động như thế nào,qa,train,cloud computing hoat đong nhu the nao
+495,Tại sao nên bảo dưỡng xe định kỳ?,tại sao nên bảo dưỡng xe định kỳ,qa,train,tai sao nen bao duong xe đinh ky
+247,Hôm nay có cuộc hẹn nào không?,hôm nay có cuộc hẹn nào không,calendar,train,hom nay co cuoc hen nao khong
+576,Chiều nay tôi có bận không?,chiều nay tôi có bận không,calendar,validation,chieu nay toi co ban khong
+609,Phát nhạc tiếp!,phát nhạc tiếp,control_device,train,phat nhac tiep
+9,Mở Messenger!,mở messenger,control_device,train,mo messenger
+807,Tôi thích học vào buổi tối.,tôi thích học vào buổi tối,personalize,train,toi thich hoc vao buoi toi
+423,Chiều nay tôi có lịch gì?,chiều nay tôi có lịch gì,calendar,test,chieu nay toi co lich gi
+1407,Tôi thường quên uống nước.,tôi thường quên uống nước,personalize,train,toi thuong quen uong nuoc
+2,Tại sao cần sử dụng hệ điều hành?,tại sao cần sử dụng hệ điều hành,qa,test,tai sao can su dung he đieu hanh
+904,Mở Spotify!,mở spotify,control_device,train,mo spotify
+115,Hôm nay có mưa không?,hôm nay có mưa không,qa,train,hom nay co mua khong
+974,1 inch bằng bao nhiêu cm vậy?,inch bằng bao nhiêu cm vậy,qa,train,inch bang bao nhieu cm vay
+527,Thêm lịch đi làm lúc 8 giờ sáng.,thêm lịch đi làm lúc giờ sáng,calendar,validation,them lich đi lam luc gio sang
+1099,Classification là gì?,classification là gì,qa,train,classification la gi
+1375,Tắt tất cả ứng dụng đang chạy!,tắt tất cả ứng dụng đang chạy,control_device,test,tat tat ca ung dung đang chay
+530,Tuần này tôi có lịch gì?,tuần này tôi có lịch gì,calendar,train,tuan nay toi co lich gi
+1112,Cuda là gì?,cuda là gì,qa,validation,cuda la gi
+586,Cách duy trì lối sống lành mạnh?,cách duy trì lối sống lành mạnh,qa,train,cach duy tri loi song lanh manh
+205,Ngày mai tôi có bao nhiêu cuộc họp?,ngày mai tôi có bao nhiêu cuộc họp,calendar,validation,ngay mai toi co bao nhieu cuoc hop
+215,Thêm lịch nghe nhạc buổi tối.,thêm lịch nghe nhạc buổi tối,calendar,test,them lich nghe nhac buoi toi
+30,Nhớ là tôi luôn bật wifi.,nhớ là tôi luôn bật wifi,personalize,train,nho la toi luon bat wifi
+896,Nhắc tôi sạc xe tối nay.,nhắc tôi sạc xe tối nay,calendar,train,nhac toi sac xe toi nay
+1127,Nhắc tôi họp lúc 8 giờ sáng.,nhắc tôi họp lúc giờ sáng,calendar,validation,nhac toi hop luc gio sang
+428,Tôi học tốt hơn vào buổi tối.,tôi học tốt hơn vào buổi tối,personalize,train,toi hoc tot hon vao buoi toi
+1316,Thêm lịch học AI tối nay.,thêm lịch học ai tối nay,calendar,test,them lich hoc ai toi nay
+369,Truy cập thư mục Download!,truy cập thư mục download,control_device,train,truy cap thu muc download
+964,Tôi cần yên tĩnh để tập trung.,tôi cần yên tĩnh để tập trung,personalize,train,toi can yen tinh đe tap trung
+312,Bộ nhớ RAM dùng để làm gì?,bộ nhớ ram dùng để làm gì,qa,validation,bo nho ram dung đe lam gi
+672,Họp nhóm dự án diễn ra khi nào?,họp nhóm dự án diễn ra khi nào,calendar,train,hop nhom du an dien ra khi nao
+297,Sự khác nhau giữa HTTP và HTTPS là gì?,sự khác nhau giữa http và là gì,qa,train,su khac nhau giua http va la gi
+81,Chạy ứng dụng Edge!,chạy ứng dụng edge,control_device,train,chay ung dung edge
+513,Lịch tuần này như thế nào?,lịch tuần này như thế nào,calendar,test,lich tuan nay nhu the nao
+33,Bật dữ liệu di động!,bật dữ liệu di động,control_device,test,bat du lieu di đong
+1271,Đừng trả lời quá dài.,đừng trả lời quá dài,personalize,train,đung tra loi qua dai
+264,Thêm lịch gọi điện buổi sáng.,thêm lịch gọi điện buổi sáng,calendar,train,them lich goi đien buoi sang
+1,Lên lịch họp ngày mai.,lên lịch họp ngày mai,calendar,train,len lich hop ngay mai
+422,Tắt ứng dụng Chrome!,tắt ứng dụng chrome,control_device,train,tat ung dung chrome
+723,Tại sao con người cần ngủ mỗi ngày?,tại sao con người cần ngủ mỗi ngày,qa,train,tai sao con nguoi can ngu moi ngay
+1533,Tôi thích assistant trả lời giống người thật.,tôi thích assistant trả lời giống người thật,personalize,validation,toi thich assistant tra loi giong nguoi that
+259,Thêm lịch kiểm tra tài chính.,thêm lịch kiểm tra tài chính,calendar,validation,them lich kiem tra tai chinh
+93,Thẻ ATM dùng để làm gì?,thẻ atm dùng để làm gì,qa,train,the atm dung đe lam gi
+53,Thêm lịch đá bóng lúc 5 giờ chiều thứ bảy.,thêm lịch đá bóng lúc giờ chiều thứ bảy,calendar,train,them lich đa bong luc gio chieu thu bay
+642,Làm sao để không thức khuya?,làm sao để không thức khuya,qa,train,lam sao đe khong thuc khuya
+1259,Màu tôi thích nhất là đen.,màu tôi thích nhất là đen,personalize,train,mau toi thich nhat la đen
+512,Xem thông tin hệ thống!,xem thông tin hệ thống,control_device,train,xem thong tin he thong
+1266,Mình mê đá bóng.,mình mê đá bóng,personalize,validation,minh me đa bong
+1023,Frontend là gì?,frontend là gì,qa,validation,frontend la gi
+566,Khi nào hôm nay tôi trống?,khi nào hôm nay tôi trống,calendar,train,khi nao hom nay toi trong
+201,Hôm nay có lịch học không?,hôm nay có lịch học không,calendar,test,hom nay co lich hoc khong
+710,Lịch trình ngày mai ra sao?,lịch trình ngày mai ra sao,calendar,train,lich trinh ngay mai ra sao
+734,Lịch tuần sau ra sao?,lịch tuần sau ra sao,calendar,test,lich tuan sau ra sao
+280,Tạo nhắc nhở nộp bài ATmega128.,tạo nhắc nhở nộp bài atmega,calendar,train,tao nhac nho nop bai atmega
+490,Mặt trời thường mọc hướng nào?,mặt trời thường mọc hướng nào,qa,test,mat troi thuong moc huong nao
+916,Lưu cài đặt âm thanh vòm cho tai nghe.,lưu cài đặt âm thanh vòm cho tai nghe,personalize,train,luu cai đat am thanh vom cho tai nghe
+766,Bật lại thông báo!,bật lại thông báo,control_device,train,bat lai thong bao
+923,Tuần này có việc gì quan trọng không?,tuần này có việc gì quan trọng không,calendar,test,tuan nay co viec gi quan trong khong
+1503,Vào YouTube phát nhạc học bài đi!,vào youtube phát nhạc học bài đi,control_device,train,vao youtube phat nhac hoc bai đi
+1401,Tôi dễ buồn ngủ vào buổi chiều.,tôi dễ buồn ngủ vào buổi chiều,personalize,train,toi de buon ngu vao buoi chieu
+1125,Semantic retrieval là gì?,semantic retrieval là gì,qa,train,semantic retrieval la gi
+605,Tôi không thích trời quá nóng.,tôi không thích trời quá nóng,personalize,train,toi khong thich troi qua nong
+250,Thêm lịch học online lúc 10 giờ sáng.,thêm lịch học online lúc giờ sáng,calendar,train,them lich hoc online luc gio sang
+1467,Internet hoạt động như thế nào?,internet hoạt động như thế nào,qa,train,internet hoat đong nhu the nao
+1122,STT nghĩa là gì?,stt nghĩa là gì,qa,train,stt nghia la gi
+800,Mở thư mục desktop!,mở thư mục desktop,control_device,train,mo thu muc desktop
+1419,LLM tạo câu trả lời bằng cách nào?,llm tạo câu trả lời bằng cách nào,qa,train,llm tao cau tra loi bang cach nao
+1367,Mở camera giúp tôi!,mở camera giúp tôi,control_device,train,mo camera giup toi
+1079,Client server là gì?,client server là gì,qa,train,client server la gi
+1061,Pip là gì?,pip là gì,qa,train,pip la gi
+967,Tắt tiếng đi!,tắt tiếng đi,control_device,train,tat tieng đi
+226,Mở thư mục file!,mở thư mục file,control_device,train,mo thu muc file
+1197,Mở TikTok đi!,mở tiktok đi,control_device,validation,mo tiktok đi
+874,Chiều nay có việc gì không?,chiều nay có việc gì không,calendar,train,chieu nay co viec gi khong
+811,Làm sao để lái xe an toàn?,làm sao để lái xe an toàn,qa,train,lam sao đe lai xe an toan
+843,Thói quen nào giúp tăng năng suất làm việc?,thói quen nào giúp tăng năng suất làm việc,qa,train,thoi quen nao giup tang nang suat lam viec
+1100,Regression là gì?,regression là gì,qa,validation,regression la gi
+208,Làm sao để tự tin hơn?,làm sao để tự tin hơn,qa,train,lam sao đe tu tin hon
+937,Phát wifi từ điện thoại!,phát wifi từ điện thoại,control_device,train,phat wifi tu đien thoai
+48,Mở file explorer!,mở file explorer,control_device,train,mo file explorer
+782,Tắt âm thanh!,tắt âm thanh,control_device,train,tat am thanh
+816,Tắt màn hình ngay!,tắt màn hình ngay,control_device,train,tat man hinh ngay
+907,Lịch tháng này có gì đáng chú ý?,lịch tháng này có gì đáng chú ý,calendar,train,lich thang nay co gi đang chu y
+1405,Tôi hay procrastinate vào buổi tối.,tôi hay procrastinate vào buổi tối,personalize,train,toi hay procrastinate vao buoi toi
+707,Tôi cần ngủ đủ giấc.,tôi cần ngủ đủ giấc,personalize,train,toi can ngu đu giac
+1042,Ubuntu là gì?,ubuntu là gì,qa,train,ubuntu la gi
+783,Tôi hay bật wifi cả ngày.,tôi hay bật wifi cả ngày,personalize,train,toi hay bat wifi ca ngay
+660,Lịch trong vài ngày tới như thế nào?,lịch trong vài ngày tới như thế nào,calendar,train,lich trong vai ngay toi nhu the nao
+616,Ngày kia có lịch gì không?,ngày kia có lịch gì không,calendar,train,ngay kia co lich gi khong
+303,Lưu lại sở thích của tôi.,lưu lại sở thích của tôi,personalize,train,luu lai so thich cua toi
+747,Thêm lịch đi ăn tối lúc 7 giờ.,thêm lịch đi ăn tối lúc giờ,calendar,train,them lich đi an toi luc gio
+1280,Vào GitHub giúp tôi!,vào github giúp tôi,control_device,validation,vao github giup toi
+23,Nhắc tôi uống thuốc lúc 8 giờ sáng.,nhắc tôi uống thuốc lúc giờ sáng,calendar,train,nhac toi uong thuoc luc gio sang
+772,Cách học nhanh hơn là gì?,cách học nhanh hơn là gì,qa,train,cach hoc nhanh hon la gi
+180,Mở cài đặt wifi!,mở cài đặt wifi,control_device,train,mo cai đat wifi
+701,Tôi tránh uống cà phê buổi tối.,tôi tránh uống cà phê buổi tối,personalize,train,toi tranh uong ca phe buoi toi
+86,Nhắc tôi làm bài tập tối nay.,nhắc tôi làm bài tập tối nay,calendar,train,nhac toi lam bai tap toi nay
+317,Mở phần cài đặt hệ thống!,mở phần cài đặt hệ thống,control_device,test,mo phan cai đat he thong
+290,Dọn dẹp bộ nhớ máy!,dọn dẹp bộ nhớ máy,control_device,test,don dep bo nho may
+110,Nhắc lại lịch ngày mai.,nhắc lại lịch ngày mai,calendar,train,nhac lai lich ngay mai
+968,Nấu cơm bằng nồi điện mất bao lâu?,nấu cơm bằng nồi điện mất bao lâu,qa,validation,nau com bang noi đien mat bao lau
+1019,Docker là gì vậy?,docker là gì vậy,qa,train,docker la gi vay
+1015,Tắt tiếng máy!,tắt tiếng máy,control_device,validation,tat tieng may
+1054,Prompt engineering là gì?,prompt engineering là gì,qa,test,prompt engineering la gi
+872,Lên lịch gặp bạn vào ngày mai.,lên lịch gặp bạn vào ngày mai,calendar,train,len lich gap ban vao ngay mai
+752,Tạo lịch ăn tối lúc 7 giờ.,tạo lịch ăn tối lúc giờ,calendar,train,tao lich an toi luc gio
+1531,Tôi thường tập trung tốt sau 9h tối.,tôi thường tập trung tốt sau h tối,personalize,train,toi thuong tap trung tot sau h toi
+270,Tại sao việc thực hành quan trọng hơn lý thuyết?,tại sao việc thực hành quan trọng hơn lý thuyết,qa,validation,tai sao viec thuc hanh quan trong hon ly thuyet
+212,Google được thành lập khi nào?,google được thành lập khi nào,qa,train,google đuoc thanh lap khi nao
+1408,Mình đang cố cải thiện tiếng Anh giao tiếp.,mình đang cố cải thiện tiếng anh giao tiếp,personalize,train,minh đang co cai thien tieng anh giao tiep
+1064,HTTP là gì?,http là gì,qa,validation,http la gi
+159,Nấu phở bò cần những gì?,nấu phở bò cần những gì,qa,train,nau pho bo can nhung gi
+694,Cấu trúc bài thi IELTS gồm những gì?,cấu trúc bài thi ielts gồm những gì,qa,train,cau truc bai thi ielts gom nhung gi
+337,Tạo nhắc ngủ sớm lúc 11h.,tạo nhắc ngủ sớm lúc h,calendar,train,tao nhac ngu som luc h
+900,Nhắc tôi họp lúc 9 giờ sáng mai.,nhắc tôi họp lúc giờ sáng mai,calendar,train,nhac toi hop luc gio sang mai
+1124,Beam search là gì?,beam search là gì,qa,train,beam search la gi
+136,Dừng nhạc lại!,dừng nhạc lại,control_device,train,dung nhac lai
+1057,SQL là gì?,sql là gì,qa,train,sql la gi
+1268,Đồ uống mình thích là coca.,đồ uống mình thích là coca,personalize,train,đo uong minh thich la coca
+483,Tôi thích nghe nhạc.,tôi thích nghe nhạc,personalize,train,toi thich nghe nhac
+291,Tôi muốn sống lành mạnh hơn.,tôi muốn sống lành mạnh hơn,personalize,train,toi muon song lanh manh hon
+1415,Tôi đang luyện speaking IELTS mỗi ngày.,tôi đang luyện speaking ielts mỗi ngày,personalize,train,toi đang luyen speaking ielts moi ngay
+1269,Hãy trả lời chi tiết hơn.,hãy trả lời chi tiết hơn,personalize,train,hay tra loi chi tiet hon
+243,Lịch hôm nay có gì đáng chú ý?,lịch hôm nay có gì đáng chú ý,calendar,train,lich hom nay co gi đang chu y
+1432,Vector database lưu dữ liệu như thế nào?,vector database lưu dữ liệu như thế nào,qa,test,vector database luu du lieu nhu the nao
+394,Tôi thích đọc tin công nghệ vào buổi sáng.,tôi thích đọc tin công nghệ vào buổi sáng,personalize,train,toi thich đoc tin cong nghe vao buoi sang
+922,GPU dùng để làm gì trong AI?,gpu dùng để làm gì trong ai,qa,test,gpu dung đe lam gi trong ai
+441,Bật wifi lên!,bật wifi lên,control_device,test,bat wifi len
+1524,Schedule demo project thứ 6 giúp tôi.,schedule demo project thứ giúp tôi,calendar,validation,schedule demo project thu giup toi
+658,Bật Calculator!,bật calculator,control_device,train,bat calculator
+58,Đặt nhắc nhở học từ vựng mỗi sáng.,đặt nhắc nhở học từ vựng mỗi sáng,calendar,validation,đat nhac nho hoc tu vung moi sang
+633,Vì sao nên duy trì thói quen tốt?,vì sao nên duy trì thói quen tốt,qa,train,vi sao nen duy tri thoi quen tot
+1193,Mở Stack Overflow!,mở stack overflow,control_device,train,mo stack overflow
+417,Thời gian nào hôm nay tôi trống?,thời gian nào hôm nay tôi trống,calendar,train,thoi gian nao hom nay toi trong
+335,Tôi rất thích bánh ngọt.,tôi rất thích bánh ngọt,personalize,train,toi rat thich banh ngot
+257,Khởi động lại máy tính!,khởi động lại máy tính,control_device,train,khoi đong lai may tinh
+261,Tắt nhạc đang phát!,tắt nhạc đang phát,control_device,train,tat nhac đang phat
+1035,Semantic search là gì?,semantic search là gì,qa,train,semantic search la gi
+510,Hôm nay có lịch gì?,hôm nay có lịch gì,calendar,train,hom nay co lich gi
+817,Dữ liệu lớn nghĩa là gì?,dữ liệu lớn nghĩa là gì,qa,train,du lieu lon nghia la gi
+994,Thoát khỏi chương trình hiện tại!,thoát khỏi chương trình hiện tại,control_device,train,thoat khoi chuong trinh hien tai
+409,Từ Hà Nội đến Bắc Ninh bao nhiêu km?,từ hà nội đến bắc ninh bao nhiêu km,qa,train,tu ha noi đen bac ninh bao nhieu km
+1508,Tôi ghét bị spam notification.,tôi ghét bị spam notification,personalize,test,toi ghet bi spam notification
+764,Tạo lịch video call lúc 9 giờ tối.,tạo lịch video call lúc giờ tối,calendar,train,tao lich video call luc gio toi
+770,Sáng thứ bảy có rảnh không?,sáng thứ bảy có rảnh không,calendar,test,sang thu bay co ranh khong
+1132,Chiều mai tôi có bận không?,chiều mai tôi có bận không,calendar,train,chieu mai toi co ban khong
+550,Lịch của tôi hiện tại thế nào?,lịch của tôi hiện tại thế nào,calendar,train,lich cua toi hien tai the nao
+1498,Hủy cái lịch hồi chiều đi giúp tôi.,hủy cái lịch hồi chiều đi giúp tôi,calendar,train,huy cai lich hoi chieu đi giup toi
+156,Microcontroller là gì?,microcontroller là gì,qa,train,microcontroller la gi
+198,Lưu thói quen uống nước mỗi 2 tiếng.,lưu thói quen uống nước mỗi tiếng,personalize,train,luu thoi quen uong nuoc moi tieng
+251,Xem Netflix!,xem netflix,control_device,train,xem netflix
+862,Tạo lịch học vẽ vào cuối tuần.,tạo lịch học vẽ vào cuối tuần,calendar,train,tao lich hoc ve vao cuoi tuan
+1072,Python async là gì?,python async là gì,qa,train,python async la gi
+392,Hãy ghi nhớ thói quen này.,hãy ghi nhớ thói quen này,personalize,train,hay ghi nho thoi quen nay
+438,Vì sao xe tiêu hao nhiên liệu khác nhau?,vì sao xe tiêu hao nhiên liệu khác nhau,qa,test,vi sao xe tieu hao nhien lieu khac nhau
+915,Trong tuần này tôi rảnh lúc nào?,trong tuần này tôi rảnh lúc nào,calendar,test,trong tuan nay toi ranh luc nao
+1014,Gửi tin nhắn mới!,gửi tin nhắn mới,control_device,train,gui tin nhan moi
+574,Vì sao nước sôi ở 100 độ C?,vì sao nước sôi ở độ c,qa,train,vi sao nuoc soi o đo c
+619,Cách dùng thì hiện tại hoàn thành?,cách dùng thì hiện tại hoàn thành,qa,train,cach dung thi hien tai hoan thanh
+1091,Gemma là gì?,gemma là gì,qa,train,gemma la gi
+687,Tại sao cần uống đủ nước mỗi ngày?,tại sao cần uống đủ nước mỗi ngày,qa,train,tai sao can uong đu nuoc moi ngay
+1545,Vì sao uống cà phê tối dễ mất ngủ?,vì sao uống cà phê tối dễ mất ngủ,qa,train,vi sao uong ca phe toi de mat ngu
+362,Tăng âm lượng lên mức cao!,tăng âm lượng lên mức cao,control_device,train,tang am luong len muc cao
+585,Đặt lịch giúp tôi tối nay.,đặt lịch giúp tôi tối nay,calendar,train,đat lich giup toi toi nay
+670,Vì sao tập thể dục buổi sáng hiệu quả hơn?,vì sao tập thể dục buổi sáng hiệu quả hơn,qa,train,vi sao tap the duc buoi sang hieu qua hon
+867,Nhắc tôi đi đá bóng cuối tuần.,nhắc tôi đi đá bóng cuối tuần,calendar,train,nhac toi đi đa bong cuoi tuan
+412,Cuối tuần có kế hoạch gì?,cuối tuần có kế hoạch gì,calendar,train,cuoi tuan co ke hoach gi
+631,Cuộc hẹn tiếp theo khi nào?,cuộc hẹn tiếp theo khi nào,calendar,train,cuoc hen tiep theo khi nao
+1107,MCP là gì?,mcp là gì,qa,train,mcp la gi
+1504,Search cách fix docker error!,search cách fix docker error,control_device,train,search cach fix docker error
+837,Lên lịch chạy ShopeeFood từ 11h đến 14h.,lên lịch chạy shopeefood từ h đến h,calendar,test,len lich chay shopeefood tu h đen h
+652,√144 là bao nhiêu?,là bao nhiêu,qa,train,la bao nhieu
+592,Tôi học Đại học Khoa học Tự nhiên.,tôi học đại học khoa học tự nhiên,personalize,train,toi hoc đai hoc khoa hoc tu nhien
+398,Xem lịch tuần này.,xem lịch tuần này,calendar,validation,xem lich tuan nay
+203,Ngày mai có việc gì cần làm?,ngày mai có việc gì cần làm,calendar,validation,ngay mai co viec gi can lam
+625,Mở Google Maps!,mở google maps,control_device,train,mo google maps
+1499,Mai tôi có phải lên trường không ta?,mai tôi có phải lên trường không ta,calendar,validation,mai toi co phai len truong khong ta
+1226,Vì sao GPU mạnh cho AI?,vì sao gpu mạnh cho ai,qa,train,vi sao gpu manh cho ai
+493,Cầu Vàng ở đâu?,cầu vàng ở đâu,qa,train,cau vang o đau
+1459,Linux là gì vậy?,linux là gì vậy,qa,test,linux la gi vay
+1185,Mở ChatGPT!,mở chatgpt,control_device,train,mo chatgpt
+570,Sáng nay tôi có rảnh không?,sáng nay tôi có rảnh không,calendar,validation,sang nay toi co ranh khong
+1189,Google docker là gì!,google docker là gì,control_device,train,google docker la gi
+1017,Blockchain hoạt động sao?,blockchain hoạt động sao,qa,train,blockchain hoat đong sao
+113,Tạo sự kiện họp online tối nay.,tạo sự kiện họp online tối nay,calendar,train,tao su kien hop online toi nay
+344,Tối nay có lịch học tiếng Anh không?,tối nay có lịch học tiếng anh không,calendar,train,toi nay co lich hoc tieng anh khong
+99,Khi nào nên nghỉ ngơi trong lúc làm việc?,khi nào nên nghỉ ngơi trong lúc làm việc,qa,train,khi nao nen nghi ngoi trong luc lam viec
+315,Tối nay có kế hoạch gì?,tối nay có kế hoạch gì,calendar,train,toi nay co ke hoach gi
+445,Tại sao điều hòa không mát?,tại sao điều hòa không mát,qa,train,tai sao đieu hoa khong mat
+145,Sấm sét hình thành như thế nào?,sấm sét hình thành như thế nào,qa,train,sam set hinh thanh nhu the nao
+1293,Google fastapi websocket!,google fastapi websocket,control_device,train,google fastapi websocket
+452,Đặt lịch học ngày mai 6 giờ.,đặt lịch học ngày mai giờ,calendar,train,đat lich hoc ngay mai gio
+851,Nhắc tôi làm bài reading IELTS chủ nhật.,nhắc tôi làm bài reading ielts chủ nhật,calendar,train,nhac toi lam bai reading ielts chu nhat
+1272,Tôi thích coding ban đêm.,tôi thích coding ban đêm,personalize,train,toi thich coding ban đem
+1356,Restart máy tính hộ cái!,restart máy tính hộ cái,control_device,train,restart may tinh ho cai
+217,Restart máy tính!,restart máy tính,control_device,train,restart may tinh
+990,Tôi không thích thức khuya.,tôi không thích thức khuya,personalize,train,toi khong thich thuc khuya
+478,Bây giờ là mấy giờ?,bây giờ là mấy giờ,qa,train,bay gio la may gio
+1174,Đừng dài dòng quá.,đừng dài dòng quá,personalize,train,đung dai dong qua
+830,Cách ChatGPT trả lời câu hỏi?,cách chatgpt trả lời câu hỏi,qa,train,cach chatgpt tra loi cau hoi
+892,Tắt dữ liệu mạng!,tắt dữ liệu mạng,control_device,train,tat du lieu mang
+803,Lãi suất ngân hàng là gì?,lãi suất ngân hàng là gì,qa,train,lai suat ngan hang la gi
+614,Tôi không thích tiếng ồn.,tôi không thích tiếng ồn,personalize,train,toi khong thich tieng on
+503,Ngày kia có việc gì không?,ngày kia có việc gì không,calendar,train,ngay kia co viec gi khong
+404,Mở Excel lên!,mở excel lên,control_device,train,mo excel len
+651,Dân số Hà Nội bao nhiêu?,dân số hà nội bao nhiêu,qa,train,dan so ha noi bao nhieu
+1236,Retrieval Augmented Generation là gì?,retrieval augmented generation là gì,qa,train,retrieval augmented generation la gi
+693,Tôi có rảnh cuối tuần không?,tôi có rảnh cuối tuần không,calendar,train,toi co ranh cuoi tuan khong
+908,Vì sao con người cần nghỉ ngơi?,vì sao con người cần nghỉ ngơi,qa,train,vi sao con nguoi can nghi ngoi
+1324,Nhắc tôi nộp bài vào tối mai.,nhắc tôi nộp bài vào tối mai,calendar,train,nhac toi nop bai vao toi mai
+905,Nhắc tôi nộp báo cáo vi điều khiển vào thứ hai.,nhắc tôi nộp báo cáo vi điều khiển vào thứ hai,calendar,train,nhac toi nop bao cao vi đieu khien vao thu hai
+729,Mở Google Chrome!,mở google chrome,control_device,train,mo google chrome
+1235,Vì sao AI đôi lúc trả lời sai?,vì sao ai đôi lúc trả lời sai,qa,train,vi sao ai đoi luc tra loi sai
+1284,Mở Twitch đi!,mở twitch đi,control_device,validation,mo twitch đi
+87,Ngày hôm nay bận hay rảnh?,ngày hôm nay bận hay rảnh,calendar,train,ngay hom nay ban hay ranh
+41,Địa chỉ nhà tôi là Bắc Ninh.,địa chỉ nhà tôi là bắc ninh,personalize,train,đia chi nha toi la bac ninh
+274,Nhớ là tôi hay thức khuya.,nhớ là tôi hay thức khuya,personalize,train,nho la toi hay thuc khuya
+1136,Mai có cuộc họp nào không?,mai có cuộc họp nào không,calendar,validation,mai co cuoc hop nao khong
+727,Khởi động Google Chrome!,khởi động google chrome,control_device,train,khoi đong google chrome
+331,Tôi rất thích đồ ăn cay.,tôi rất thích đồ ăn cay,personalize,train,toi rat thich đo an cay
+1040,Wifi là gì?,wifi là gì,qa,train,wifi la gi
+1494,API là gì vậy?,api là gì vậy,qa,train,api la gi vay
+98,Mở đèn pin!,mở đèn pin,control_device,train,mo đen pin
+1218,Vì sao semantic search tốt hơn keyword search?,vì sao semantic search tốt hơn keyword search,qa,validation,vi sao semantic search tot hon keyword search
+684,Tôi thích làm việc buổi tối.,tôi thích làm việc buổi tối,personalize,validation,toi thich lam viec buoi toi
+963,Tôi thích ăn đồ cay.,tôi thích ăn đồ cay,personalize,train,toi thich an đo cay
+134,Bật chế độ tiết kiệm pin đi!,bật chế độ tiết kiệm pin đi,control_device,test,bat che đo tiet kiem pin đi
+532,Nhắc tôi nghỉ ngơi lúc 10 giờ tối.,nhắc tôi nghỉ ngơi lúc giờ tối,calendar,test,nhac toi nghi ngoi luc gio toi
+611,Tôi thường tập gym lúc 2 giờ chiều.,tôi thường tập gym lúc giờ chiều,personalize,train,toi thuong tap gym luc gio chieu
+498,Bật Microsoft Word!,bật microsoft word,control_device,train,bat microsoft word
+15,Ghi lại thói quen dùng tai nghe của tôi.,ghi lại thói quen dùng tai nghe của tôi,personalize,validation,ghi lai thoi quen dung tai nghe cua toi
+200,Tôi làm việc hiệu quả vào buổi sáng.,tôi làm việc hiệu quả vào buổi sáng,personalize,train,toi lam viec hieu qua vao buoi sang
+556,Tôi ít khi dùng bluetooth.,tôi ít khi dùng bluetooth,personalize,train,toi it khi dung bluetooth
+71,Đóng tất cả ứng dụng đang chạy!,đóng tất cả ứng dụng đang chạy,control_device,train,đong tat ca ung dung đang chay
+491,Thêm lịch ôn thi vào buổi tối.,thêm lịch ôn thi vào buổi tối,calendar,validation,them lich on thi vao buoi toi
+38,Cách viết CV xin việc?,cách viết cv xin việc,qa,train,cach viet cv xin viec
+858,Nhắc tôi thanh toán hóa đơn tối nay.,nhắc tôi thanh toán hóa đơn tối nay,calendar,train,nhac toi thanh toan hoa đon toi nay
+1468,Docker compose có tác dụng gì?,docker compose có tác dụng gì,qa,train,docker compose co tac dung gi
+1103,F1 score là gì?,f score là gì,qa,train,f score la gi
+466,Tôi không thích uống nước lạnh.,tôi không thích uống nước lạnh,personalize,train,toi khong thich uong nuoc lanh
+442,Cuối tuần này có việc gì không?,cuối tuần này có việc gì không,calendar,validation,cuoi tuan nay co viec gi khong
+913,Ngày mai có phải đi làm không?,ngày mai có phải đi làm không,calendar,train,ngay mai co phai đi lam khong
+255,Thêm lịch đi ngân hàng ngày mai.,thêm lịch đi ngân hàng ngày mai,calendar,train,them lich đi ngan hang ngay mai
+909,Chạy Spotify!,chạy spotify,control_device,train,chay spotify
+1445,Python có dễ học không?,python có dễ học không,qa,train,python co de hoc khong
+92,Mở Chrome!,mở chrome,control_device,validation,mo chrome
+860,Tôi thường uống trà buổi tối.,tôi thường uống trà buổi tối,personalize,validation,toi thuong uong tra buoi toi
+1265,Tôi thích xem phim khoa học viễn tưởng.,tôi thích xem phim khoa học viễn tưởng,personalize,test,toi thich xem phim khoa hoc vien tuong
+189,Bao lâu nên vệ sinh máy lạnh?,bao lâu nên vệ sinh máy lạnh,qa,train,bao lau nen ve sinh may lanh
+1323,Thứ 7 này có lịch gì không?,thứ này có lịch gì không,calendar,train,thu nay co lich gi khong
+1541,Vì sao điện thoại nóng lên khi chơi game?,vì sao điện thoại nóng lên khi chơi game,qa,train,vi sao đien thoai nong len khi choi game
+720,Tắt ứng dụng đang chạy!,tắt ứng dụng đang chạy,control_device,train,tat ung dung đang chay
+956,Tạm dừng bài hát!,tạm dừng bài hát,control_device,train,tam dung bai hat
+1448,Semantic search khác keyword search thế nào?,semantic search khác keyword search thế nào,qa,train,semantic search khac keyword search the nao
+520,Sự khác biệt giữa CPU và GPU?,sự khác biệt giữa cpu và gpu,qa,train,su khac biet giua cpu va gpu
+1137,Xem lịch hôm nay.,xem lịch hôm nay,calendar,train,xem lich hom nay
+971,Tắt âm thanh hệ thống!,tắt âm thanh hệ thống,control_device,train,tat am thanh he thong
+1317,Mai có cuộc họp nào không ta?,mai có cuộc họp nào không ta,calendar,train,mai co cuoc hop nao khong ta
+1277,Tôi thích nhạc chill.,tôi thích nhạc chill,personalize,train,toi thich nhac chill
+424,Thế nào là kỹ năng mềm?,thế nào là kỹ năng mềm,qa,train,the nao la ky nang mem
+813,Thêm ca chạy đơn buổi trưa.,thêm ca chạy đơn buổi trưa,calendar,validation,them ca chay đon buoi trua
+1550,Camera điện thoại lấy nét kiểu gì?,camera điện thoại lấy nét kiểu gì,qa,train,camera đien thoai lay net kieu gi
+1349,Đặt lịch học nhóm lúc 2h chiều.,đặt lịch học nhóm lúc h chiều,calendar,train,đat lich hoc nhom luc h chieu
+447,Tôi thích không gian mát mẻ.,tôi thích không gian mát mẻ,personalize,test,toi thich khong gian mat me
+756,Cuối tuần tôi thường đi bộ.,cuối tuần tôi thường đi bộ,personalize,train,cuoi tuan toi thuong đi bo
+1433,Semantic retrieval khác database search thường sao?,semantic retrieval khác database search thường sao,qa,train,semantic retrieval khac database search thuong sao
+126,Tôi không thích thông báo bằng âm thanh.,tôi không thích thông báo bằng âm thanh,personalize,train,toi khong thich thong bao bang am thanh
+788,Buổi sáng tôi làm việc tốt nhất.,buổi sáng tôi làm việc tốt nhất,personalize,test,buoi sang toi lam viec tot nhat
+638,Vì sao âm thanh truyền được trong không khí?,vì sao âm thanh truyền được trong không khí,qa,train,vi sao am thanh truyen đuoc trong khong khi
+353,Lên lịch kiểm tra hệ thống.,lên lịch kiểm tra hệ thống,calendar,train,len lich kiem tra he thong
+357,Mùa hè ngày dài hơn đêm vì sao?,mùa hè ngày dài hơn đêm vì sao,qa,train,mua he ngay dai hon đem vi sao
+188,Tại sao đầu tư có rủi ro?,tại sao đầu tư có rủi ro,qa,test,tai sao đau tu co rui ro
+522,Ngày mai có kế hoạch gì?,ngày mai có kế hoạch gì,calendar,train,ngay mai co ke hoach gi
+1031,FastAPI là gì?,fastapi là gì,qa,train,fastapi la gi
+724,Tháng này tôi có lịch gì?,tháng này tôi có lịch gì,calendar,train,thang nay toi co lich gi
+716,Tiếp tục phát nhạc!,tiếp tục phát nhạc,control_device,train,tiep tuc phat nhac
+76,Cách tăng năng suất làm việc?,cách tăng năng suất làm việc,qa,train,cach tang nang suat lam viec
+650,Mở Task Manager!,mở task manager,control_device,train,mo task manager
+49,Chạy cmd!,chạy cmd,control_device,validation,chay cmd
+1164,Đồ uống yêu thích của tôi là trà sữa.,đồ uống yêu thích của tôi là trà sữa,personalize,train,đo uong yeu thich cua toi la tra sua
+1458,Redis hoạt động kiểu gì?,redis hoạt động kiểu gì,qa,test,redis hoat đong kieu gi
+529,Nhớ nhắc tôi học bài lúc 8h.,nhớ nhắc tôi học bài lúc h,calendar,train,nho nhac toi hoc bai luc h
+1237,Transformer model hoạt động sao?,transformer model hoạt động sao,qa,train,transformer model hoat đong sao
+885,Tiếp tục phát bài hát!,tiếp tục phát bài hát,control_device,train,tiep tuc phat bai hat
+1245,Lịch tuần này của tôi thế nào?,lịch tuần này của tôi thế nào,calendar,train,lich tuan nay cua toi the nao
+296,Vitamin C có tác dụng gì?,vitamin c có tác dụng gì,qa,validation,vitamin c co tac dung gi
+1246,Hủy reminder vừa thêm.,hủy reminder vừa thêm,calendar,train,huy reminder vua them
+539,Tăng độ sáng màn hình lên!,tăng độ sáng màn hình lên,control_device,train,tang đo sang man hinh len
+1243,Xóa cuộc hẹn sáng mai.,xóa cuộc hẹn sáng mai,calendar,train,xoa cuoc hen sang mai
+1155,Tôi 21 tuổi.,tôi tuổi,personalize,train,toi tuoi
+1110,Int8 là gì?,int là gì,qa,train,int la gi
+1225,Deep neural network là gì?,deep neural network là gì,qa,train,deep neural network la gi
+149,Hello!,hello,qa,train,hello
+1256,Cancel cuộc họp ngày mai.,cancel cuộc họp ngày mai,calendar,train,cancel cuoc hop ngay mai
+832,Mở ứng dụng gọi video!,mở ứng dụng gọi video,control_device,train,mo ung dung goi video
+669,Kích hoạt chế độ im lặng!,kích hoạt chế độ im lặng,control_device,train,kich hoat che đo im lang
+828,Ghi lại thói quen ngủ trưa của tôi.,ghi lại thói quen ngủ trưa của tôi,personalize,test,ghi lai thoi quen ngu trua cua toi
+439,Tôi không ăn quá mặn.,tôi không ăn quá mặn,personalize,train,toi khong an qua man
+254,Lịch thi đấu bóng đá hôm nay?,lịch thi đấu bóng đá hôm nay,qa,train,lich thi đau bong đa hom nay
+28,Làm sao cải thiện kỹ năng listening?,làm sao cải thiện kỹ năng listening,qa,validation,lam sao cai thien ky nang listening
+459,Thời tiết hôm nay thế nào?,thời tiết hôm nay thế nào,qa,validation,thoi tiet hom nay the nao
+465,Tính diện tích hình tròn như thế nào?,tính diện tích hình tròn như thế nào,qa,train,tinh dien tich hinh tron nhu the nao
+1283,Truy cập Messenger!,truy cập messenger,control_device,validation,truy cap messenger
+1463,Chatbot hiểu câu hỏi kiểu gì?,chatbot hiểu câu hỏi kiểu gì,qa,train,chatbot hieu cau hoi kieu gi
+1341,Mai còn cuộc hẹn nào không?,mai còn cuộc hẹn nào không,calendar,train,mai con cuoc hen nao khong
+587,Sông dài nhất thế giới là sông nào?,sông dài nhất thế giới là sông nào,qa,train,song dai nhat the gioi la song nao
+348,Trong ngày hôm nay tôi rảnh lúc nào?,trong ngày hôm nay tôi rảnh lúc nào,calendar,train,trong ngay hom nay toi ranh luc nao
+1495,Mai nhớ gọi tôi dậy nha chứ tôi sợ ngủ quên.,mai nhớ gọi tôi dậy nha chứ tôi sợ ngủ quên,calendar,train,mai nho goi toi day nha chu toi so ngu quen
+1413,Tôi thường order đồ ăn khuya.,tôi thường order đồ ăn khuya,personalize,train,toi thuong order đo an khuya
+875,Tôi đang học tiếng Anh để thi IELTS.,tôi đang học tiếng anh để thi ielts,personalize,test,toi đang hoc tieng anh đe thi ielts
+227,Khóa điện thoại ngay!,khóa điện thoại ngay,control_device,train,khoa đien thoai ngay
+654,Tôi thích sống tối giản.,tôi thích sống tối giản,personalize,test,toi thich song toi gian
+791,Tôi thích đi đường ít kẹt xe.,tôi thích đi đường ít kẹt xe,personalize,train,toi thich đi đuong it ket xe
+289,Sự khác nhau giữa tiết kiệm và đầu tư?,sự khác nhau giữa tiết kiệm và đầu tư,qa,train,su khac nhau giua tiet kiem va đau tu
+1203,Open GitHub!,open github,control_device,train,open github
+700,Nhắc tôi đi họp lúc 10 giờ.,nhắc tôi đi họp lúc giờ,calendar,train,nhac toi đi hop luc gio
+1251,Xóa lịch đi chơi cuối tuần.,xóa lịch đi chơi cuối tuần,calendar,train,xoa lich đi choi cuoi tuan
+641,Nhắc tôi uống thuốc tối nay.,nhắc tôi uống thuốc tối nay,calendar,train,nhac toi uong thuoc toi nay
+531,Ghi lại là tôi không uống được đá lạnh.,ghi lại là tôi không uống được đá lạnh,personalize,train,ghi lai la toi khong uong đuoc đa lanh
+995,Cách làm trà sữa tại nhà?,cách làm trà sữa tại nhà,qa,train,cach lam tra sua tai nha
+283,Tạo lịch họp lúc 9h sáng.,tạo lịch họp lúc h sáng,calendar,validation,tao lich hop luc h sang
+1157,Tôi sống ở Hà Nội.,tôi sống ở hà nội,personalize,train,toi song o ha noi
+175,Tạo lịch làm việc giao hàng tối thứ sáu.,tạo lịch làm việc giao hàng tối thứ sáu,calendar,validation,tao lich lam viec giao hang toi thu sau
+21,Tại sao cần lập kế hoạch mỗi ngày?,tại sao cần lập kế hoạch mỗi ngày,qa,train,tai sao can lap ke hoach moi ngay
+763,Có lịch nào sắp diễn ra không?,có lịch nào sắp diễn ra không,calendar,train,co lich nao sap dien ra khong
+1387,Nhắc tui học AI lúc 8 giờ tối.,nhắc tui học ai lúc giờ tối,calendar,train,nhac tui hoc ai luc gio toi
+1051,Speech to text là gì?,speech to text là gì,qa,train,speech to text la gi
+141,Nhắc tôi dọn bàn làm việc.,nhắc tôi dọn bàn làm việc,calendar,train,nhac toi don ban lam viec
+507,Mở PyCharm!,mở pycharm,control_device,train,mo pycharm
+626,Tôi có mấy cuộc họp ngày mai?,tôi có mấy cuộc họp ngày mai,calendar,train,toi co may cuoc hop ngay mai
+1278,Nói chuyện formal hơn nhé.,nói chuyện formal hơn nhé,personalize,train,noi chuyen formal hon nhe
+1372,Vào drive giúp cái!,vào drive giúp cái,control_device,test,vao drive giup cai
+108,Ghi lại thói quen tập gym của tôi.,ghi lại thói quen tập gym của tôi,personalize,train,ghi lai thoi quen tap gym cua toi
+514,Tạo lịch dọn dẹp nhà cửa.,tạo lịch dọn dẹp nhà cửa,calendar,test,tao lich don dep nha cua
+20,Tắt camera!,tắt camera,control_device,train,tat camera
+440,Bỏ chế độ máy bay!,bỏ chế độ máy bay,control_device,test,bo che đo may bay
+983,Dừng video lại!,dừng video lại,control_device,train,dung video lai
+324,Tại sao thiền giúp giảm căng thẳng?,tại sao thiền giúp giảm căng thẳng,qa,train,tai sao thien giup giam cang thang
+955,Làm sao để tập trung tốt hơn?,làm sao để tập trung tốt hơn,qa,train,lam sao đe tap trung tot hon
+557,Tắt màn hình!,tắt màn hình,control_device,train,tat man hinh
+138,Ngày mốt có việc gì không?,ngày mốt có việc gì không,calendar,test,ngay mot co viec gi khong
+435,Tôi thích theo dõi tin tức chứng khoán.,tôi thích theo dõi tin tức chứng khoán,personalize,train,toi thich theo doi tin tuc chung khoan
+1004,Quay lại bài trước!,quay lại bài trước,control_device,test,quay lai bai truoc
+1427,RAG có cần fine tuning không?,rag có cần fine tuning không,qa,train,rag co can fine tuning khong
+63,Tạo lịch đọc báo lúc 7 giờ sáng.,tạo lịch đọc báo lúc giờ sáng,calendar,train,tao lich đoc bao luc gio sang
+1442,Machine learning hoạt động sao?,machine learning hoạt động sao,qa,train,machine learning hoat đong sao
+279,Tháng này có sự kiện nào không?,tháng này có sự kiện nào không,calendar,train,thang nay co su kien nao khong
+965,Buổi thực hành vi điều khiển bắt đầu lúc mấy giờ?,buổi thực hành vi điều khiển bắt đầu lúc mấy giờ,calendar,test,buoi thuc hanh vi đieu khien bat đau luc may gio
+1205,Gmail giúp tôi!,gmail giúp tôi,control_device,validation,gmail giup toi
+563,Tại sao lá cây có màu xanh?,tại sao lá cây có màu xanh,qa,train,tai sao la cay co mau xanh
+1001,Việc tiếp theo tôi cần làm là gì?,việc tiếp theo tôi cần làm là gì,calendar,train,viec tiep theo toi can lam la gi
+656,Hôm nay ngày mấy âm lịch?,hôm nay ngày mấy âm lịch,qa,train,hom nay ngay may am lich
+798,Đăng xuất tài khoản!,đăng xuất tài khoản,control_device,train,đang xuat tai khoan
+1195,Mở Google Sheet!,mở google sheet,control_device,train,mo google sheet
+1179,Open YouTube!,open youtube,control_device,validation,open youtube
+204,Thêm lịch học guitar tối nay.,thêm lịch học guitar tối nay,calendar,train,them lich hoc guitar toi nay
+1071,OOP là gì?,oop là gì,qa,train,oop la gi
+1190,Tìm video python trên YouTube!,tìm video python trên youtube,control_device,train,tim video python tren youtube
+696,Tắt tất cả ứng dụng!,tắt tất cả ứng dụng,control_device,train,tat tat ca ung dung
+1556,Vì sao stress làm khó ngủ?,vì sao stress làm khó ngủ,qa,train,vi sao stress lam kho ngu
+1080,Internet of Things là gì?,internet of things là gì,qa,train,internet of things la gi
+1210,Vì sao cần database?,vì sao cần database,qa,train,vi sao can database
+102,Nhớ là tôi đang tìm hiểu Python.,nhớ là tôi đang tìm hiểu python,personalize,train,nho la toi đang tim hieu python
+123,Tại sao xe điện thân thiện môi trường?,tại sao xe điện thân thiện môi trường,qa,train,tai sao xe đien than thien moi truong
+27,Mở trình duyệt web!,mở trình duyệt web,control_device,train,mo trinh duyet web
+22,Tôi hay lập kế hoạch trước.,tôi hay lập kế hoạch trước,personalize,train,toi hay lap ke hoach truoc
+443,Mở file PDF!,mở file pdf,control_device,validation,mo file pdf
+216,Thoát Zalo!,thoát zalo,control_device,train,thoat zalo
+607,Vì sao con người cần giao tiếp xã hội?,vì sao con người cần giao tiếp xã hội,qa,train,vi sao con nguoi can giao tiep xa hoi
+591,Ai là tổng thống Mỹ?,ai là tổng thống mỹ,qa,train,ai la tong thong my
+182,Mở lịch lên!,mở lịch lên,control_device,test,mo lich len
+1176,Sở thích của tôi là đọc sách.,sở thích của tôi là đọc sách,personalize,train,so thich cua toi la đoc sach
+194,Tối nay tôi có kế hoạch gì không?,tối nay tôi có kế hoạch gì không,calendar,train,toi nay toi co ke hoach gi khong
+197,Có sự kiện nào sắp diễn ra không?,có sự kiện nào sắp diễn ra không,calendar,test,co su kien nao sap dien ra khong
+10,Thêm lịch xem YouTube.,thêm lịch xem youtube,calendar,test,them lich xem youtube
+487,Tháng này có kế hoạch gì?,tháng này có kế hoạch gì,calendar,train,thang nay co ke hoach gi
+831,Chạy ứng dụng camera trước!,chạy ứng dụng camera trước,control_device,train,chay ung dung camera truoc
+383,Có việc gì sắp đến không?,có việc gì sắp đến không,calendar,train,co viec gi sap đen khong
+1354,Mở YouTube giúp tôi!,mở youtube giúp tôi,control_device,train,mo youtube giup toi
+1230,Vector search hoạt động ra sao?,vector search hoạt động ra sao,qa,train,vector search hoat đong ra sao
+1186,Mở Gemini!,mở gemini,control_device,train,mo gemini
+285,Tăng âm lượng thêm một chút!,tăng âm lượng thêm một chút,control_device,train,tang am luong them mot chut
+1285,Search deep learning trên Google!,search deep learning trên google,control_device,train,search deep learning tren google
+814,Ngày 30 tháng 3 tôi có lịch gì?,ngày tháng tôi có lịch gì,calendar,train,ngay thang toi co lich gi
+1146,Đặt lịch sinh nhật mẹ chủ nhật.,đặt lịch sinh nhật mẹ chủ nhật,calendar,test,đat lich sinh nhat me chu nhat
+690,Tôi thích đi xe máy hơn ô tô.,tôi thích đi xe máy hơn ô tô,personalize,train,toi thich đi xe may hon o to
+147,Thêm lịch gọi điện lúc 8 giờ.,thêm lịch gọi điện lúc giờ,calendar,train,them lich goi đien luc gio
+1098,Feature engineering là gì?,feature engineering là gì,qa,train,feature engineering la gi
+168,Tôi đang muốn cải thiện cân nặng.,tôi đang muốn cải thiện cân nặng,personalize,validation,toi đang muon cai thien can nang
+186,Đổi 100 USD sang VND như thế nào?,đổi usd sang vnd như thế nào,qa,train,đoi usd sang vnd nhu the nao
+320,Xem có bản update không!,xem có bản update không,control_device,train,xem co ban update khong
+1516,Chị ơi nhắc em mai nộp bài nha.,chị ơi nhắc em mai nộp bài nha,calendar,train,chi oi nhac em mai nop bai nha
+354,Sự khác nhau giữa frontend và backend?,sự khác nhau giữa frontend và backend,qa,train,su khac nhau giua frontend va backend
+119,Tôi muốn giảm cân.,tôi muốn giảm cân,personalize,train,toi muon giam can
+1093,Vì sao embedding hữu ích?,vì sao embedding hữu ích,qa,train,vi sao embedding huu ich
+1012,Việt Nam có bao nhiêu tỉnh?,việt nam có bao nhiêu tỉnh,qa,train,viet nam co bao nhieu tinh
+612,Mở Netflix xem phim!,mở netflix xem phim,control_device,train,mo netflix xem phim
+1474,Deep learning khác machine learning sao?,deep learning khác machine learning sao,qa,train,deep learning khac machine learning sao
+1255,Show calendar hôm nay.,show calendar hôm nay,calendar,train,show calendar hom nay
+1322,Đặt reminder học IELTS tối nay.,đặt reminder học ielts tối nay,calendar,train,đat reminder hoc ielts toi nay
+993,Khi nào nên ưu tiên công việc quan trọng?,khi nào nên ưu tiên công việc quan trọng,qa,train,khi nao nen uu tien cong viec quan trong
+1300,Tối nay tôi có gì cần làm không?,tối nay tôi có gì cần làm không,calendar,train,toi nay toi co gi can lam khong
+1397,PostgreSQL có tốt hơn MySQL không?,postgresql có tốt hơn mysql không,qa,train,postgresql co tot hon mysql khong
+1302,Chiều mai tôi có cuộc hẹn nào không?,chiều mai tôi có cuộc hẹn nào không,calendar,train,chieu mai toi co cuoc hen nao khong
+401,Nhắc tôi gọi về nhà vào chủ nhật.,nhắc tôi gọi về nhà vào chủ nhật,calendar,train,nhac toi goi ve nha vao chu nhat
+925,Giảm độ sáng xuống chút!,giảm độ sáng xuống chút,control_device,train,giam đo sang xuong chut
+950,Thủ đô của Nhật là gì?,thủ đô của nhật là gì,qa,train,thu đo cua nhat la gi
+784,Khởi động lại thiết bị!,khởi động lại thiết bị,control_device,train,khoi đong lai thiet bi
+648,1 cộng 1 bằng mấy?,cộng bằng mấy,qa,train,cong bang may
+187,Kích hoạt tiết kiệm pin!,kích hoạt tiết kiệm pin,control_device,train,kich hoat tiet kiem pin
+1148,Cancel lịch tối nay.,cancel lịch tối nay,calendar,test,cancel lich toi nay
+972,Khởi động Excel!,khởi động excel,control_device,test,khoi đong excel
+100,Mở Word giúp tôi!,mở word giúp tôi,control_device,train,mo word giup toi
+1141,Lên lịch học AI tối nay.,lên lịch học ai tối nay,calendar,validation,len lich hoc ai toi nay
+373,Vì sao cần đa dạng hóa tài chính?,vì sao cần đa dạng hóa tài chính,qa,train,vi sao can đa dang hoa tai chinh
+253,Thêm lịch họp team vào thứ ba.,thêm lịch họp team vào thứ ba,calendar,train,them lich hop team vao thu ba
+1410,Mình muốn assistant nói tự nhiên hơn.,mình muốn assistant nói tự nhiên hơn,personalize,test,minh muon assistant noi tu nhien hon
+698,Tuần sau có kế hoạch gì không?,tuần sau có kế hoạch gì không,calendar,train,tuan sau co ke hoach gi khong
+1451,Tại sao websocket realtime hơn HTTP?,tại sao websocket realtime hơn,qa,train,tai sao websocket realtime hon
+1063,CSV là gì?,csv là gì,qa,train,csv la gi
+232,Vì sao có hiện tượng thủy triều?,vì sao có hiện tượng thủy triều,qa,validation,vi sao co hien tuong thuy trieu
+94,Tôi thích nghe nhạc khi làm việc.,tôi thích nghe nhạc khi làm việc,personalize,train,toi thich nghe nhac khi lam viec
+95,Bật wifi!,bật wifi,control_device,train,bat wifi
+316,Chụp màn hình giúp tôi!,chụp màn hình giúp tôi,control_device,train,chup man hinh giup toi
+91,Tôi thích không gian yên tĩnh khi học.,tôi thích không gian yên tĩnh khi học,personalize,validation,toi thich khong gian yen tinh khi hoc
+1202,Google Machine Learning!,google machine learning,control_device,train,google machine learning
+139,Tại sao cảm xúc ảnh hưởng đến quyết định?,tại sao cảm xúc ảnh hưởng đến quyết định,qa,train,tai sao cam xuc anh huong đen quyet đinh
+665,Ngày kia tôi có lịch gì?,ngày kia tôi có lịch gì,calendar,train,ngay kia toi co lich gi
+450,Tắt bluetooth!,tắt bluetooth,control_device,test,tat bluetooth
+943,Tôi có rảnh ngày mai không?,tôi có rảnh ngày mai không,calendar,train,toi co ranh ngay mai khong
+7,Tôi thích nghe nhạc Lo-Fi.,tôi thích nghe nhạc lo fi,personalize,train,toi thich nghe nhac lo fi
+902,Tôi bị dị ứng với đậu phộng.,tôi bị dị ứng với đậu phộng,personalize,train,toi bi di ung voi đau phong
+118,Tiền điện tính như thế nào?,tiền điện tính như thế nào,qa,train,tien đien tinh nhu the nao
+152,Bạn khỏe không?,bạn khỏe không,qa,train,ban khoe khong
+311,Cho tôi đặt lịch họp vào ngày mai.,cho tôi đặt lịch họp vào ngày mai,calendar,train,cho toi đat lich hop vao ngay mai
+1046,Cách học Machine Learning?,cách học machine learning,qa,train,cach hoc machine learning
+1502,Mở Google Chrome giúp tui!,mở google chrome giúp tui,control_device,train,mo google chrome giup tui
+1409,Tôi thích câu trả lời ngắn thôi.,tôi thích câu trả lời ngắn thôi,personalize,train,toi thich cau tra loi ngan thoi
+382,Khoảng cách Hà Nội Bắc Ninh là bao xa?,khoảng cách hà nội bắc ninh là bao xa,qa,validation,khoang cach ha noi bac ninh la bao xa
+1102,Recall precision là gì?,recall precision là gì,qa,train,recall precision la gi
+977,Khởi động bản đồ!,khởi động bản đồ,control_device,train,khoi đong ban đo
+1368,Tắt wifi đi nha!,tắt wifi đi nha,control_device,train,tat wifi đi nha
+794,Tôi cần deadline cụ thể để làm việc.,tôi cần deadline cụ thể để làm việc,personalize,train,toi can deadline cu the đe lam viec
+1029,Mô hình Transformer là gì?,mô hình transformer là gì,qa,validation,mo hinh transformer la gi
+1437,Microservice khó hơn monolithic ở đâu?,microservice khó hơn monolithic ở đâu,qa,train,microservice kho hon monolithic o đau
+1166,Nói tự nhiên thôi.,nói tự nhiên thôi,personalize,train,noi tu nhien thoi
+67,Để phòng ở mức 25 độ là hợp với tôi.,để phòng ở mức độ là hợp với tôi,personalize,train,đe phong o muc đo la hop voi toi
+349,Chấm writing IELTS dựa trên gì?,chấm writing ielts dựa trên gì,qa,train,cham writing ielts dua tren gi
+548,Tại sao bầu trời chuyển màu vào lúc hoàng hôn?,tại sao bầu trời chuyển màu vào lúc hoàng hôn,qa,validation,tai sao bau troi chuyen mau vao luc hoang hon
+584,Cầu vồng xuất hiện khi nào?,cầu vồng xuất hiện khi nào,qa,train,cau vong xuat hien khi nao
+946,Tuần này có bận không?,tuần này có bận không,calendar,train,tuan nay co ban khong
+101,Vì sao nên đi đúng làn đường?,vì sao nên đi đúng làn đường,qa,train,vi sao nen đi đung lan đuong
+1559,Tôi thường nghe white noise để ngủ.,tôi thường nghe white noise để ngủ,personalize,train,toi thuong nghe white noise đe ngu
+1139,Đặt nhắc nhở uống thuốc 9h.,đặt nhắc nhở uống thuốc h,calendar,train,đat nhac nho uong thuoc h
+1250,Thêm lịch tập gym chiều mai.,thêm lịch tập gym chiều mai,calendar,train,them lich tap gym chieu mai
+1400,Mình thường học sau 10h tối.,mình thường học sau h tối,personalize,train,minh thuong hoc sau h toi
+910,Mở notepad!,mở notepad,control_device,validation,mo notepad
+501,Làm sao để cân bằng công việc và cuộc sống?,làm sao để cân bằng công việc và cuộc sống,qa,train,lam sao đe can bang cong viec va cuoc song
+426,Nước nào rộng nhất thế giới?,nước nào rộng nhất thế giới,qa,train,nuoc nao rong nhat the gioi
+1435,LLM hallucination là gì vậy?,llm hallucination là gì vậy,qa,train,llm hallucination la gi vay
+1117,Bạn giải thích websocket đi!,bạn giải thích websocket đi,qa,train,ban giai thich websocket đi
+11,Bao nhiêu ngày trong một năm?,bao nhiêu ngày trong một năm,qa,train,bao nhieu ngay trong mot nam
+1196,Vào Instagram!,vào instagram,control_device,train,vao instagram
+68,Đổi inch sang cm như thế nào?,đổi inch sang cm như thế nào,qa,train,đoi inch sang cm nhu the nao
+1515,Anh ơi mở youtube giúp em với!,anh ơi mở youtube giúp em với,control_device,train,anh oi mo youtube giup em voi
+661,Tuần sau có họp không?,tuần sau có họp không,calendar,train,tuan sau co hop khong
+1360,Mở chrome lẹ đi!,mở chrome lẹ đi,control_device,train,mo chrome le đi
+812,Sustainable là gì vậy?,sustainable là gì vậy,qa,train,sustainable la gi vay
+57,Mở Netflix!,mở netflix,control_device,train,mo netflix
+475,Tôi hay đi bộ vào cuối tuần.,tôi hay đi bộ vào cuối tuần,personalize,train,toi hay đi bo vao cuoi tuan
+815,Khi nào cần thay lốp xe?,khi nào cần thay lốp xe,qa,validation,khi nao can thay lop xe
+1534,Mình không thích nói chuyện quá formal.,mình không thích nói chuyện quá formal,personalize,train,minh khong thich noi chuyen qua formal
+840,Nhớ tắt đèn sau nửa đêm.,nhớ tắt đèn sau nửa đêm,personalize,train,nho tat đen sau nua đem
+1299,Mai nhớ kêu tôi dậy lúc 6h.,mai nhớ kêu tôi dậy lúc h,calendar,train,mai nho keu toi day luc h
+489,Tôi ghét thời tiết nóng.,tôi ghét thời tiết nóng,personalize,train,toi ghet thoi tiet nong
+233,Thêm lịch tập thể dục buổi sáng.,thêm lịch tập thể dục buổi sáng,calendar,test,them lich tap the duc buoi sang
+1353,Check lịch tối nay giúp tôi.,check lịch tối nay giúp tôi,calendar,train,check lich toi nay giup toi
+1068,Session là gì?,session là gì,qa,test,session la gi
+978,Thời gian nướng thịt bao lâu là chín?,thời gian nướng thịt bao lâu là chín,qa,train,thoi gian nuong thit bao lau la chin
+1182,Mở Gmail đi!,mở gmail đi,control_device,validation,mo gmail đi
+542,Đặt lịch học nhóm vào chiều mai.,đặt lịch học nhóm vào chiều mai,calendar,validation,đat lich hoc nhom vao chieu mai
+165,AI là gì?,ai là gì,qa,train,ai la gi
+36,Tôi hay xem phim hành động.,tôi hay xem phim hành động,personalize,train,toi hay xem phim hanh đong
+852,Đóng Chrome!,đóng chrome,control_device,train,đong chrome
+1376,Mở Task Manager giúp tôi!,mở task manager giúp tôi,control_device,validation,mo task manager giup toi
+1281,Open Stack Overflow!,open stack overflow,control_device,train,open stack overflow
+77,Cho tôi xem lịch hôm nay.,cho tôi xem lịch hôm nay,calendar,train,cho toi xem lich hom nay
+561,Tôi có khoảng trống nào không?,tôi có khoảng trống nào không,calendar,train,toi co khoang trong nao khong
+1441,GPU khác CPU ở điểm nào?,gpu khác cpu ở điểm nào,qa,validation,gpu khac cpu o điem nao
+416,Vì sao có hiện tượng nhật thực?,vì sao có hiện tượng nhật thực,qa,train,vi sao co hien tuong nhat thuc
+966,Tại sao HTTPS an toàn hơn HTTP?,tại sao an toàn hơn,qa,train,tai sao an toan hon
+944,Tôi thường làm việc theo kế hoạch.,tôi thường làm việc theo kế hoạch,personalize,train,toi thuong lam viec theo ke hoach
+1257,Remind tôi ngủ lúc 12h.,remind tôi ngủ lúc h,calendar,train,remind toi ngu luc h
+975,Vào phần settings!,vào phần settings,control_device,train,vao phan settings
+787,Tắt flashlight!,tắt flashlight,control_device,train,tat flashlight
+252,Cách sử dụng máy giặt đúng cách?,cách sử dụng máy giặt đúng cách,qa,train,cach su dung may giat đung cach
+1053,Vì sao AI hallucination?,vì sao ai hallucination,qa,train,vi sao ai hallucination
+1074,Process là gì?,process là gì,qa,train,process la gi
+948,Số pi bằng bao nhiêu vậy?,số pi bằng bao nhiêu vậy,qa,train,so pi bang bao nhieu vay
+1260,Tôi cực thích uống cà phê.,tôi cực thích uống cà phê,personalize,train,toi cuc thich uong ca phe
+899,Tắt trình duyệt hiện tại!,tắt trình duyệt hiện tại,control_device,train,tat trinh duyet hien tai
+1351,Thêm lịch chạy bộ sáng mai.,thêm lịch chạy bộ sáng mai,calendar,train,them lich chay bo sang mai
+191,Tuần sau có việc gì quan trọng?,tuần sau có việc gì quan trọng,calendar,train,tuan sau co viec gi quan trong
+322,Nhắc tôi liên hệ đối tác chiều mai.,nhắc tôi liên hệ đối tác chiều mai,calendar,train,nhac toi lien he đoi tac chieu mai
+88,Sáng nay có việc gì không?,sáng nay có việc gì không,calendar,train,sang nay co viec gi khong
+1009,Tại sao nên quản lý chi tiêu cá nhân?,tại sao nên quản lý chi tiêu cá nhân,qa,train,tai sao nen quan ly chi tieu ca nhan
+1373,Chụp màn hình luôn đi!,chụp màn hình luôn đi,control_device,train,chup man hinh luon đi
+50,Làm sao để tăng tốc wifi?,làm sao để tăng tốc wifi,qa,train,lam sao đe tang toc wifi
+1374,Mở PyCharm hộ mình!,mở pycharm hộ mình,control_device,train,mo pycharm ho minh
+981,Núi cao nhất ở Việt Nam là gì?,núi cao nhất ở việt nam là gì,qa,train,nui cao nhat o viet nam la gi
+521,Tháng này có lịch học không?,tháng này có lịch học không,calendar,train,thang nay co lich hoc khong
+543,Tôi thích uống trà.,tôi thích uống trà,personalize,train,toi thich uong tra
+116,Bao lâu nên tập thể dục một lần?,bao lâu nên tập thể dục một lần,qa,train,bao lau nen tap the duc mot lan
+184,Tôi không uống cà phê.,tôi không uống cà phê,personalize,train,toi khong uong ca phe
+679,Lên lịch cafe vào chiều mai.,lên lịch cafe vào chiều mai,calendar,train,len lich cafe vao chieu mai
+1038,CPU khác GPU thế nào?,cpu khác gpu thế nào,qa,train,cpu khac gpu the nao
+474,Mặt trăng có ánh sáng không?,mặt trăng có ánh sáng không,qa,train,mat trang co anh sang khong
+1335,Thêm lịch đi gym chiều mai.,thêm lịch đi gym chiều mai,calendar,train,them lich đi gym chieu mai
+361,Cách luyện nghe tiếng Anh hiệu quả?,cách luyện nghe tiếng anh hiệu quả,qa,validation,cach luyen nghe tieng anh hieu qua
+129,Tối nay có lịch gì không?,tối nay có lịch gì không,calendar,train,toi nay co lich gi khong
+397,Cuối tuần này có đi đâu không?,cuối tuần này có đi đâu không,calendar,train,cuoi tuan nay co đi đau khong
+755,Tôi muốn tăng cân.,tôi muốn tăng cân,personalize,train,toi muon tang can
+1392,Tôi mệt quá.,tôi mệt quá,qa,validation,toi met qua
+1328,Cuối tuần này có deadline gì không?,cuối tuần này có deadline gì không,calendar,train,cuoi tuan nay co deadline gi khong
+1553,Vì sao pin iphone chai theo thời gian?,vì sao pin iphone chai theo thời gian,qa,train,vi sao pin iphone chai theo thoi gian
+765,Lưu giờ ăn sáng của tôi.,lưu giờ ăn sáng của tôi,personalize,train,luu gio an sang cua toi
+861,Hôm nay có gì cần làm không?,hôm nay có gì cần làm không,calendar,train,hom nay co gi can lam khong
+1037,GPU dùng để làm gì?,gpu dùng để làm gì,qa,train,gpu dung đe lam gi
+249,Gọi điện cho Đan!,gọi điện cho đan,control_device,train,goi đien cho đan
+595,Cuối tuần có kế hoạch gì không?,cuối tuần có kế hoạch gì không,calendar,train,cuoi tuan co ke hoach gi khong
+32,Tôi muốn tránh đường đông.,tôi muốn tránh đường đông,personalize,train,toi muon tranh đuong đong
+754,Ngôn ngữ Python có tác dụng gì?,ngôn ngữ python có tác dụng gì,qa,train,ngon ngu python co tac dung gi
+1188,Tìm blockchain trên Google!,tìm blockchain trên google,control_device,train,tim blockchain tren google
+808,Nhắc tôi kiểm tra email sau 1 giờ.,nhắc tôi kiểm tra email sau giờ,calendar,train,nhac toi kiem tra email sau gio
+810,Tại sao nên học từ vựng theo ngữ cảnh?,tại sao nên học từ vựng theo ngữ cảnh,qa,train,tai sao nen hoc tu vung theo ngu canh
+268,Tại sao ăn quá nhiều đường lại gây hại?,tại sao ăn quá nhiều đường lại gây hại,qa,train,tai sao an qua nhieu đuong lai gay hai
+1301,Ngày mai xem giúp tôi có lịch gì?,ngày mai xem giúp tôi có lịch gì,calendar,train,ngay mai xem giup toi co lich gi
+229,Tắt wifi ngay!,tắt wifi ngay,control_device,train,tat wifi ngay
+1258,Thêm lịch làm assignment tối nay.,thêm lịch làm assignment tối nay,calendar,test,them lich lam assignment toi nay
+1129,Xóa lịch chiều nay.,xóa lịch chiều nay,calendar,train,xoa lich chieu nay
+1020,AI khác Machine Learning chỗ nào?,ai khác machine learning chỗ nào,qa,validation,ai khac machine learning cho nao
+1382,Mở YouTube đi!,mở youtube đi,control_device,train,mo youtube đi
+722,Tạo lịch giải trí cuối tuần.,tạo lịch giải trí cuối tuần,calendar,train,tao lich giai tri cuoi tuan
+1060,Virtualenv là gì?,virtualenv là gì,qa,train,virtualenv la gi
+1513,Websocket có dùng cho game realtime được không?,websocket có dùng cho game realtime được không,qa,test,websocket co dung cho game realtime đuoc khong
+615,Giấy phép lái xe cần những gì?,giấy phép lái xe cần những gì,qa,test,giay phep lai xe can nhung gi
+367,Làm sao để tiết kiệm điện trong nhà?,làm sao để tiết kiệm điện trong nhà,qa,train,lam sao đe tiet kiem đien trong nha
+906,Uống đủ nước có tác dụng gì?,uống đủ nước có tác dụng gì,qa,train,uong đu nuoc co tac dung gi
+893,Nhắc tôi đi ăn với bạn vào tối nay.,nhắc tôi đi ăn với bạn vào tối nay,calendar,train,nhac toi đi an voi ban vao toi nay
+265,Chiều nay tôi rảnh lúc nào?,chiều nay tôi rảnh lúc nào,calendar,train,chieu nay toi ranh luc nao
+1247,Check giúp tôi lịch tối nay.,check giúp tôi lịch tối nay,calendar,train,check giup toi lich toi nay
+610,Thêm lịch theo dõi công việc.,thêm lịch theo dõi công việc,calendar,train,them lich theo doi cong viec
+17,Tôi thích dùng điện thoại hơn laptop.,tôi thích dùng điện thoại hơn laptop,personalize,train,toi thich dung đien thoai hon laptop
+685,Tại sao multitasking không hiệu quả?,tại sao multitasking không hiệu quả,qa,train,tai sao multitasking khong hieu qua
+1385,Mở du túp nhạc Lo-Fi!,mở du túp nhạc lo fi,control_device,validation,mo du tup nhac lo fi
+1134,Tạo lịch gym 6h sáng mai.,tạo lịch gym h sáng mai,calendar,train,tao lich gym h sang mai
+1052,Text to speech là gì?,text to speech là gì,qa,validation,text to speech la gi
+64,Lịch hôm nay của tôi.,lịch hôm nay của tôi,calendar,train,lich hom nay cua toi
+469,Lịch hôm nay của tôi ra sao?,lịch hôm nay của tôi ra sao,calendar,train,lich hom nay cua toi ra sao
+414,Nhắc tôi đi ngủ lúc 11 giờ tối.,nhắc tôi đi ngủ lúc giờ tối,calendar,train,nhac toi đi ngu luc gio toi
+1418,Vì sao websocket phù hợp voice assistant?,vì sao websocket phù hợp voice assistant,qa,test,vi sao websocket phu hop voice assistant
+821,Tạo lịch đi dạo vào buổi tối.,tạo lịch đi dạo vào buổi tối,calendar,train,tao lich đi dao vao buoi toi
+429,Sáng thứ hai tôi có họp không?,sáng thứ hai tôi có họp không,calendar,train,sang thu hai toi co hop khong
+451,Chạy PowerPoint!,chạy powerpoint,control_device,train,chay powerpoint
+24,Mở ShopeeFood!,mở shopeefood,control_device,train,mo shopeefood
+1455,Vì sao GPU phù hợp train AI?,vì sao gpu phù hợp train ai,qa,test,vi sao gpu phu hop train ai
+1213,AI học từ dữ liệu kiểu gì?,ai học từ dữ liệu kiểu gì,qa,train,ai hoc tu du lieu kieu gi
+171,Mở command prompt!,mở command prompt,control_device,train,mo command prompt
+1350,Xóa reminder uống nước đi.,xóa reminder uống nước đi,calendar,train,xoa reminder uong nuoc đi
+713,Mở danh bạ!,mở danh bạ,control_device,test,mo danh ba
+376,Những sự kiện sắp tới là gì?,những sự kiện sắp tới là gì,calendar,train,nhung su kien sap toi la gi
+855,Tôi không ăn được đậu phộng.,tôi không ăn được đậu phộng,personalize,train,toi khong an đuoc đau phong
+547,Tạo lịch làm đề reading vào sáng chủ nhật.,tạo lịch làm đề reading vào sáng chủ nhật,calendar,train,tao lich lam đe reading vao sang chu nhat
+209,Vì sao nên đặt câu hỏi khi học?,vì sao nên đặt câu hỏi khi học,qa,train,vi sao nen đat cau hoi khi hoc
+824,Cuối tuần này lịch trình thế nào?,cuối tuần này lịch trình thế nào,calendar,test,cuoi tuan nay lich trinh the nao
+1404,Mình thích nghe piano khi code.,mình thích nghe piano khi code,personalize,test,minh thich nghe piano khi code
+653,Kết thúc tiến trình!,kết thúc tiến trình,control_device,train,ket thuc tien trinh
+1000,Giá trị của Pi là gì?,giá trị của pi là gì,qa,train,gia tri cua pi la gi
+555,Học online hiệu quả như thế nào?,học online hiệu quả như thế nào,qa,train,hoc online hieu qua nhu the nao
+408,100 đô bằng bao nhiêu tiền Việt?,đô bằng bao nhiêu tiền việt,qa,validation,đo bang bao nhieu tien viet
+552,Tại sao uống nhiều nước lại tốt cho da?,tại sao uống nhiều nước lại tốt cho da,qa,train,tai sao uong nhieu nuoc lai tot cho da
+657,Mở Terminal giúp tôi!,mở terminal giúp tôi,control_device,train,mo terminal giup toi
+72,Làm sao để ngủ ngon?,làm sao để ngủ ngon,qa,train,lam sao đe ngu ngon
+927,Sáng nay tôi có bận không?,sáng nay tôi có bận không,calendar,train,sang nay toi co ban khong
+388,Làm sao để không bị trì hoãn?,làm sao để không bị trì hoãn,qa,train,lam sao đe khong bi tri hoan
+378,Làm sao để giảm stress?,làm sao để giảm stress,qa,train,lam sao đe giam stress
+207,Vì sao học qua phim ảnh hiệu quả?,vì sao học qua phim ảnh hiệu quả,qa,train,vi sao hoc qua phim anh hieu qua
+883,Khi nào đến giờ học IELTS?,khi nào đến giờ học ielts,calendar,train,khi nao đen gio hoc ielts
+84,Bật app đặt đồ ăn!,bật app đặt đồ ăn,control_device,train,bat app đat đo an
+568,Mở ứng dụng ghi chú nhanh!,mở ứng dụng ghi chú nhanh,control_device,train,mo ung dung ghi chu nhanh
+299,Mấy giờ học vi điều khiển?,mấy giờ học vi điều khiển,calendar,train,may gio hoc vi đieu khien
+482,Mở YouTube!,mở youtube,control_device,train,mo youtube
+1128,Mai có lịch gì không?,mai có lịch gì không,calendar,train,mai co lich gi khong
+1147,Thêm reminder họp team 8h.,thêm reminder họp team h,calendar,train,them reminder hop team h
+332,Tôi không thích video quá dài.,tôi không thích video quá dài,personalize,validation,toi khong thich video qua dai
+1163,Tôi làm ở Google.,tôi làm ở google,personalize,train,toi lam o google
+1352,Hôm nay có việc gì quan trọng không?,hôm nay có việc gì quan trọng không,calendar,train,hom nay co viec gi quan trong khong
+839,Nước chiếm bao nhiêu phần trăm cơ thể?,nước chiếm bao nhiêu phần trăm cơ thể,qa,test,nuoc chiem bao nhieu phan tram co the
+300,Thêm lịch làm việc buổi sáng.,thêm lịch làm việc buổi sáng,calendar,train,them lich lam viec buoi sang
+220,Tại sao nên lập kế hoạch trước?,tại sao nên lập kế hoạch trước,qa,train,tai sao nen lap ke hoach truoc
+704,Mở ứng dụng thời tiết!,mở ứng dụng thời tiết,control_device,validation,mo ung dung thoi tiet
+146,Nhắc tôi đi làm mỗi sáng 8h.,nhắc tôi đi làm mỗi sáng h,calendar,train,nhac toi đi lam moi sang h
+1481,Check lịch dùm tôi với!,check lịch dùm tôi với,calendar,train,check lich dum toi voi
+842,Tạo lịch chi tiêu hàng tháng.,tạo lịch chi tiêu hàng tháng,calendar,train,tao lich chi tieu hang thang
+949,Thêm sự kiện đi chơi tối nay.,thêm sự kiện đi chơi tối nay,calendar,validation,them su kien đi choi toi nay
+16,Mở khóa màn hình!,mở khóa màn hình,control_device,test,mo khoa man hinh
+1044,Học AI bắt đầu từ đâu?,học ai bắt đầu từ đâu,qa,train,hoc ai bat đau tu đau
+1547,Vì sao học bằng hình ảnh dễ nhớ hơn?,vì sao học bằng hình ảnh dễ nhớ hơn,qa,train,vi sao hoc bang hinh anh de nho hon
+600,Tuần này có lịch học không?,tuần này có lịch học không,calendar,train,tuan nay co lich hoc khong
+230,Tuần sau tôi có lịch gì?,tuần sau tôi có lịch gì,calendar,train,tuan sau toi co lich gi
+468,Tuần sau có lịch học không?,tuần sau có lịch học không,calendar,train,tuan sau co lich hoc khong
+988,Tôi uống cà phê mỗi sáng.,tôi uống cà phê mỗi sáng,personalize,train,toi uong ca phe moi sang
+523,Thêm lịch luyện speaking IELTS lúc 8 giờ tối mỗi ngày.,thêm lịch luyện speaking ielts lúc giờ tối mỗi ngày,calendar,train,them lich luyen speaking ielts luc gio toi moi ngay
+1517,Máy lag quá restart giúp mình cái!,máy lag quá restart giúp mình cái,control_device,validation,may lag qua restart giup minh cai
+957,Thêm lịch đi du lịch cuối tháng.,thêm lịch đi du lịch cuối tháng,calendar,train,them lich đi du lich cuoi thang
+1198,Tìm AI Agent!,tìm ai agent,control_device,train,tim ai agent
+1308,Đặt hộ tôi lịch họp sáng mai.,đặt hộ tôi lịch họp sáng mai,calendar,train,đat ho toi lich hop sang mai
+1165,Hãy trả lời ngắn gọn thôi.,hãy trả lời ngắn gọn thôi,personalize,train,hay tra loi ngan gon thoi
+569,Ngày mai có kiểm tra gì không?,ngày mai có kiểm tra gì không,calendar,train,ngay mai co kiem tra gi khong
+940,Lên lịch tập gym chiều nay.,lên lịch tập gym chiều nay,calendar,train,len lich tap gym chieu nay
+365,Ăn táo có tốt không?,ăn táo có tốt không,qa,train,an tao co tot khong
+1101,Clustering là gì?,clustering là gì,qa,train,clustering la gi
+1340,Nhắc tôi check mail lúc 9h sáng.,nhắc tôi check mail lúc h sáng,calendar,train,nhac toi check mail luc h sang
+242,Khởi động lại máy!,khởi động lại máy,control_device,train,khoi đong lai may
+649,Hôm nay tôi có lịch gì quan trọng không?,hôm nay tôi có lịch gì quan trọng không,calendar,validation,hom nay toi co lich gi quan trong khong
+969,Tháng này có bận không?,tháng này có bận không,calendar,train,thang nay co ban khong
+941,Nhắc tôi uống nước mỗi 2 giờ.,nhắc tôi uống nước mỗi giờ,calendar,train,nhac toi uong nuoc moi gio
+524,Bật chế độ im lặng!,bật chế độ im lặng,control_device,train,bat che đo im lang
+162,Bật chế độ không làm phiền!,bật chế độ không làm phiền,control_device,train,bat che đo khong lam phien
+741,Lịch làm việc tuần này thế nào?,lịch làm việc tuần này thế nào,calendar,train,lich lam viec tuan nay the nao
+506,Tôi thường đọc sách trước khi ngủ.,tôi thường đọc sách trước khi ngủ,personalize,train,toi thuong đoc sach truoc khi ngu
+37,Đặt báo thức lúc 7 giờ sáng!,đặt báo thức lúc giờ sáng,control_device,test,đat bao thuc luc gio sang
+630,Sáng thứ bảy tôi có trống lịch không?,sáng thứ bảy tôi có trống lịch không,calendar,train,sang thu bay toi co trong lich khong
+343,Kỹ năng giao tiếp quan trọng ra sao?,kỹ năng giao tiếp quan trọng ra sao,qa,validation,ky nang giao tiep quan trong ra sao
+960,Đóng ứng dụng Zalo!,đóng ứng dụng zalo,control_device,train,đong ung dung zalo
+1027,RAG là gì?,rag là gì,qa,train,rag la gi
+761,Lên lịch họp online ngày mai.,lên lịch họp online ngày mai,calendar,validation,len lich hop online ngay mai
+374,Python dùng để làm gì?,python dùng để làm gì,qa,train,python dung đe lam gi
+387,Tại sao cần kiểm tra xe trước khi đi xa?,tại sao cần kiểm tra xe trước khi đi xa,qa,train,tai sao can kiem tra xe truoc khi đi xa
+1332,Mai có phải đi học không nhỉ?,mai có phải đi học không nhỉ,calendar,train,mai co phai đi hoc khong nhi
+59,Thêm lịch yoga vào buổi sáng.,thêm lịch yoga vào buổi sáng,calendar,train,them lich yoga vao buoi sang
+773,Cách kiểm tra xe trước khi đi xa?,cách kiểm tra xe trước khi đi xa,qa,train,cach kiem tra xe truoc khi đi xa
+384,Ngày mai tôi có kế hoạch gì?,ngày mai tôi có kế hoạch gì,calendar,train,ngay mai toi co ke hoach gi
+272,Thêm sinh nhật mẹ ngày 30 tháng 7.,thêm sinh nhật mẹ ngày tháng,calendar,train,them sinh nhat me ngay thang
+1211,Công dụng của docker là gì?,công dụng của docker là gì,qa,train,cong dung cua docker la gi
+590,Ngày kia có lịch học không?,ngày kia có lịch học không,calendar,train,ngay kia co lich hoc khong
+117,Tắt chế độ máy bay!,tắt chế độ máy bay,control_device,train,tat che đo may bay
+1443,RAG là gì thế?,rag là gì thế,qa,test,rag la gi the
+1217,Mô hình ngôn ngữ lớn là gì?,mô hình ngôn ngữ lớn là gì,qa,train,mo hinh ngon ngu lon la gi
+1138,Check lịch ngày mai.,check lịch ngày mai,calendar,train,check lich ngay mai
+864,Mở chế độ máy bay!,mở chế độ máy bay,control_device,train,mo che đo may bay
+176,Lợi ích của việc uống nhiều nước?,lợi ích của việc uống nhiều nước,qa,train,loi ich cua viec uong nhieu nuoc
+844,Tạo lịch nghỉ ngơi cuối tuần.,tạo lịch nghỉ ngơi cuối tuần,calendar,train,tao lich nghi ngoi cuoi tuan
+1457,JSON dùng để làm gì?,json dùng để làm gì,qa,train,json dung đe lam gi
+271,Ngày mai có gì không?,ngày mai có gì không,calendar,train,ngay mai co gi khong
+391,Hôm nay tôi bận không?,hôm nay tôi bận không,calendar,train,hom nay toi ban khong
+785,Tại sao nước biển mặn?,tại sao nước biển mặn,qa,train,tai sao nuoc bien man
+662,Cách học ngoại ngữ hiệu quả?,cách học ngoại ngữ hiệu quả,qa,train,cach hoc ngoai ngu hieu qua
+1081,Smart home là gì?,smart home là gì,qa,train,smart home la gi
+1345,Thêm reminder uống thuốc 8h tối.,thêm reminder uống thuốc h tối,calendar,train,them reminder uong thuoc h toi
+958,Cách kiểm tra tốc độ mạng?,cách kiểm tra tốc độ mạng,qa,test,cach kiem tra toc đo mang
+562,Vì sao giấc ngủ ảnh hưởng đến tâm trạng?,vì sao giấc ngủ ảnh hưởng đến tâm trạng,qa,train,vi sao giac ngu anh huong đen tam trang
+827,Lên lịch luyện đề vào cuối tuần.,lên lịch luyện đề vào cuối tuần,calendar,train,len lich luyen đe vao cuoi tuan
+449,Tôi thích làm việc theo deadline rõ ràng.,tôi thích làm việc theo deadline rõ ràng,personalize,validation,toi thich lam viec theo deadline ro rang
+371,Nhắc tôi sinh nhật mẹ.,nhắc tôi sinh nhật mẹ,calendar,train,nhac toi sinh nhat me
+1105,AI agent là gì?,ai agent là gì,qa,train,ai agent la gi
+1109,Quantization là gì?,quantization là gì,qa,train,quantization la gi
+1480,Nhớ tôi học bài lúc 8h tối nha!,nhớ tôi học bài lúc h tối nha,calendar,test,nho toi hoc bai luc h toi nha
+680,Vì sao con người dễ bị áp lực?,vì sao con người dễ bị áp lực,qa,train,vi sao con nguoi de bi ap luc
+1291,Mở docs Google!,mở docs google,control_device,train,mo docs google
+742,Nhắc tôi bảo dưỡng xe vào cuối tháng.,nhắc tôi bảo dưỡng xe vào cuối tháng,calendar,train,nhac toi bao duong xe vao cuoi thang
+339,Tắt wifi!,tắt wifi,control_device,train,tat wifi
+288,Trí tuệ nhân tạo là gì vậy?,trí tuệ nhân tạo là gì vậy,qa,train,tri tue nhan tao la gi vay
+546,Ghi lại giúp tôi.,ghi lại giúp tôi,personalize,train,ghi lai giup toi
+1528,Vào google docs giúp tôi!,vào google docs giúp tôi,control_device,validation,vao google docs giup toi
+526,Rạp chiếu phim gần đây ở đâu?,rạp chiếu phim gần đây ở đâu,qa,test,rap chieu phim gan đay o đau
+681,Lên lịch học thêm vào tối nay.,lên lịch học thêm vào tối nay,calendar,train,len lich hoc them vao toi nay
+358,Thêm lịch check mail buổi sáng.,thêm lịch check mail buổi sáng,calendar,test,them lich check mail buoi sang
+1094,Học data mining là gì?,học data mining là gì,qa,train,hoc data mining la gi
+342,Khởi động Jupyter Notebook!,khởi động jupyter notebook,control_device,train,khoi đong jupyter notebook
+1510,AI agent khác chatbot chỗ nào?,ai agent khác chatbot chỗ nào,qa,train,ai agent khac chatbot cho nao
+854,Tôi thích xem phim hành động.,tôi thích xem phim hành động,personalize,train,toi thich xem phim hanh đong
+1431,FastAPI async có lợi gì?,fastapi async có lợi gì,qa,train,fastapi async co loi gi
+278,Làm sao để tạo thói quen tốt?,làm sao để tạo thói quen tốt,qa,validation,lam sao đe tao thoi quen tot
+533,Lên lịch trao đổi công việc vào chiều thứ sáu.,lên lịch trao đổi công việc vào chiều thứ sáu,calendar,train,len lich trao đoi cong viec vao chieu thu sau
+1273,Mình tên là Minh Anh.,mình tên là minh anh,personalize,train,minh ten la minh anh
+1131,Lịch ngày mai sao rồi?,lịch ngày mai sao rồi,calendar,train,lich ngay mai sao roi
+695,Đóng PyCharm lại!,đóng pycharm lại,control_device,train,đong pycharm lai
+476,Tắt Word đi!,tắt word đi,control_device,train,tat word đi
+945,Tạo nhắc nhở uống thuốc.,tạo nhắc nhở uống thuốc,calendar,validation,tao nhac nho uong thuoc
+725,Thêm giúp tôi một nhắc nhở lúc 6h.,thêm giúp tôi một nhắc nhở lúc h,calendar,train,them giup toi mot nhac nho luc h
+405,Tuần này có deadline nào không?,tuần này có deadline nào không,calendar,train,tuan nay co deadline nao khong
+236,Hôm nay tôi có lịch gì?,hôm nay tôi có lịch gì,calendar,train,hom nay toi co lich gi
+622,RAM ảnh hưởng thế nào đến hiệu năng máy tính?,ram ảnh hưởng thế nào đến hiệu năng máy tính,qa,train,ram anh huong the nao đen hieu nang may tinh
+1438,Qwen với Llama khác nhau thế nào?,qwen với llama khác nhau thế nào,qa,train,qwen voi llama khac nhau the nao
+1338,Xem giúp tôi lịch ngày kia.,xem giúp tôi lịch ngày kia,calendar,train,xem giup toi lich ngay kia
+18,Thêm lịch tập gym buổi chiều.,thêm lịch tập gym buổi chiều,calendar,train,them lich tap gym buoi chieu
+1359,Cho tôi vào Gmail luôn!,cho tôi vào gmail luôn,control_device,train,cho toi vao gmail luon
+759,Nhắc tôi họp nhóm vào sáng mai.,nhắc tôi họp nhóm vào sáng mai,calendar,train,nhac toi hop nhom vao sang mai
+444,Nhắc tôi đi ngủ sớm tối nay.,nhắc tôi đi ngủ sớm tối nay,calendar,train,nhac toi đi ngu som toi nay
+917,Thứ hai tới có lịch gì không?,thứ hai tới có lịch gì không,calendar,train,thu hai toi co lich gi khong
+717,Tôi đang cố gắng tập thể dục đều.,tôi đang cố gắng tập thể dục đều,personalize,validation,toi đang co gang tap the duc đeu
+1462,Prompt engineering nghĩa là gì?,prompt engineering nghĩa là gì,qa,train,prompt engineering nghia la gi
+1319,Nhắc tôi uống nước sau 30 phút nữa.,nhắc tôi uống nước sau phút nữa,calendar,train,nhac toi uong nuoc sau phut nua
+1130,Đặt lịch học lúc 7h tối.,đặt lịch học lúc h tối,calendar,train,đat lich hoc luc h toi
+778,Thêm lịch giùm tôi.,thêm lịch giùm tôi,calendar,train,them lich gium toi
+245,Làm mới màn hình desktop!,làm mới màn hình desktop,control_device,train,lam moi man hinh desktop
+505,Tại sao cần luyện phát âm?,tại sao cần luyện phát âm,qa,train,tai sao can luyen phat am
+1036,Vì sao AI cần dữ liệu?,vì sao ai cần dữ liệu,qa,train,vi sao ai can du lieu
+1297,Search semantic retrieval!,search semantic retrieval,control_device,train,search semantic retrieval
+1449,Transformer model hoạt động ra sao?,transformer model hoạt động ra sao,qa,validation,transformer model hoat đong ra sao
+500,Tôi thường nghe podcast trước khi ngủ.,tôi thường nghe podcast trước khi ngủ,personalize,test,toi thuong nghe podcast truoc khi ngu
+1339,Hủy lịch học tối nay đi.,hủy lịch học tối nay đi,calendar,train,huy lich hoc toi nay đi
+1389,Mở YouTube rồi phát nhạc chill luôn!,mở youtube rồi phát nhạc chill luôn,control_device,train,mo youtube roi phat nhac chill luon
+1434,Vì sao cosine similarity đo độ giống được?,vì sao cosine similarity đo độ giống được,qa,train,vi sao cosine similarity đo đo giong đuoc
+668,Lên lịch kiểm tra sức khỏe tháng sau.,lên lịch kiểm tra sức khỏe tháng sau,calendar,train,len lich kiem tra suc khoe thang sau
+671,Tại sao cần ngủ đủ giấc?,tại sao cần ngủ đủ giấc,qa,train,tai sao can ngu đu giac
+876,Tìm đường về nhà!,tìm đường về nhà,control_device,train,tim đuong ve nha
+277,Sao chép file!,sao chép file,control_device,train,sao chep file
+869,Tôi làm việc hiệu quả nhất vào ban đêm.,tôi làm việc hiệu quả nhất vào ban đêm,personalize,train,toi lam viec hieu qua nhat vao ban đem
+1253,Tôi có bận tối mai không?,tôi có bận tối mai không,calendar,train,toi co ban toi mai khong
+402,Bật trình duyệt Chrome!,bật trình duyệt chrome,control_device,validation,bat trinh duyet chrome
+1361,Bật chế độ tối giúp tôi!,bật chế độ tối giúp tôi,control_device,train,bat che đo toi giup toi
+1428,Whisper nhận diện giọng nói kiểu gì?,whisper nhận diện giọng nói kiểu gì,qa,train,whisper nhan dien giong noi kieu gi
+1048,Unsupervised learning là gì?,unsupervised learning là gì,qa,train,unsupervised learning la gi
+85,Tạo nhắc nhở học lúc 6 giờ sáng.,tạo nhắc nhở học lúc giờ sáng,calendar,validation,tao nhac nho hoc luc gio sang
+961,Tôi có rảnh hôm nay không?,tôi có rảnh hôm nay không,calendar,train,toi co ranh hom nay khong
+732,Tôi có rảnh tuần sau không?,tôi có rảnh tuần sau không,calendar,train,toi co ranh tuan sau khong
+623,Chiều nay có khoảng trống nào không?,chiều nay có khoảng trống nào không,calendar,train,chieu nay co khoang trong nao khong
+829,Tôi đang học lập trình Python.,tôi đang học lập trình python,personalize,test,toi đang hoc lap trinh python
+743,Tôi hay uống trà.,tôi hay uống trà,personalize,train,toi hay uong tra
+659,Thêm lịch đi khám định kỳ.,thêm lịch đi khám định kỳ,calendar,train,them lich đi kham đinh ky
+1006,Làm sao để tập trung khi học?,làm sao để tập trung khi học,qa,train,lam sao đe tap trung khi hoc
+1289,Vào TikTok luôn!,vào tiktok luôn,control_device,train,vao tiktok luon
+74,Tạo lịch đọc sách lúc 9 giờ tối.,tạo lịch đọc sách lúc giờ tối,calendar,train,tao lich đoc sach luc gio toi
+1002,Hẹn báo thức 7h sáng!,hẹn báo thức h sáng,control_device,train,hen bao thuc h sang
+456,Đặt lịch mai.,đặt lịch mai,calendar,train,đat lich mai
+1033,PostgreSQL là gì?,postgresql là gì,qa,train,postgresql la gi
+1402,Mình thích cafe yên tĩnh để học bài.,mình thích cafe yên tĩnh để học bài,personalize,train,minh thich cafe yen tinh đe hoc bai
+1557,Uống nước ngay sau khi ngủ dậy có tốt không?,uống nước ngay sau khi ngủ dậy có tốt không,qa,train,uong nuoc ngay sau khi ngu day co tot khong
+781,Đổi tên file!,đổi tên file,control_device,validation,đoi ten file
+1346,Chiều mai có họp không ta?,chiều mai có họp không ta,calendar,train,chieu mai co hop khong ta
+920,Nhớ giúp tôi những điều này.,nhớ giúp tôi những điều này,personalize,train,nho giup toi nhung đieu nay
+79,Sáng nay có cuộc họp không?,sáng nay có cuộc họp không,calendar,test,sang nay co cuoc hop khong
+111,Tôi có cuộc hẹn nào không?,tôi có cuộc hẹn nào không,calendar,train,toi co cuoc hen nao khong
+1199,YouTube nhạc chill!,youtube nhạc chill,control_device,train,youtube nhac chill
+294,Next bài hát!,next bài hát,control_device,train,next bai hat
+822,Tại sao ngủ đủ giấc lại giúp tăng trí nhớ?,tại sao ngủ đủ giấc lại giúp tăng trí nhớ,qa,validation,tai sao ngu đu giac lai giup tang tri nho
+1337,Đặt lịch ăn tối với khách hàng.,đặt lịch ăn tối với khách hàng,calendar,train,đat lich an toi voi khach hang
+857,Đóng hết cửa sổ đang mở!,đóng hết cửa sổ đang mở,control_device,validation,đong het cua so đang mo
+1047,Supervised learning là gì?,supervised learning là gì,qa,train,supervised learning la gi
+632,Ngủ bao nhiêu tiếng là đủ mỗi ngày?,ngủ bao nhiêu tiếng là đủ mỗi ngày,qa,train,ngu bao nhieu tieng la đu moi ngay
+1073,Thread là gì?,thread là gì,qa,test,thread la gi
+602,Tạo lịch họp với khách hàng vào chiều mai.,tạo lịch họp với khách hàng vào chiều mai,calendar,train,tao lich hop voi khach hang vao chieu mai
+196,Tạo lịch đi chơi vào cuối tuần.,tạo lịch đi chơi vào cuối tuần,calendar,train,tao lich đi choi vao cuoi tuan
+504,Giải phương trình bậc hai như thế nào?,giải phương trình bậc hai như thế nào,qa,train,giai phuong trinh bac hai nhu the nao
+1536,Cuda dùng để tăng tốc kiểu gì?,cuda dùng để tăng tốc kiểu gì,qa,test,cuda dung đe tang toc kieu gi
+691,Tại sao cần nghỉ ngơi hợp lý?,tại sao cần nghỉ ngơi hợp lý,qa,train,tai sao can nghi ngoi hop ly
+992,Thêm lịch đi chơi cuối tuần.,thêm lịch đi chơi cuối tuần,calendar,train,them lich đi choi cuoi tuan
+1084,Ollama dùng để làm gì?,ollama dùng để làm gì,qa,train,ollama dung đe lam gi
+926,Tại sao cơ thể cần vitamin D?,tại sao cơ thể cần vitamin d,qa,train,tai sao co the can vitamin d
+1439,Websocket là gì vậy?,websocket là gì vậy,qa,train,websocket la gi vay
+793,Tắt tất cả ứng dụng Office!,tắt tất cả ứng dụng office,control_device,train,tat tat ca ung dung office
+1486,Tắt nhạc đi!,tắt nhạc đi,control_device,train,tat nhac đi
+330,Tại sao học ngữ pháp quan trọng?,tại sao học ngữ pháp quan trọng,qa,train,tai sao hoc ngu phap quan trong
+170,Cách vượt qua áp lực?,cách vượt qua áp lực,qa,test,cach vuot qua ap luc
+169,Tại sao nên học mỗi ngày?,tại sao nên học mỗi ngày,qa,train,tai sao nen hoc moi ngay
+1390,Mai nhắc tôi họp rồi mở zoom giúp tôi.,mai nhắc tôi họp rồi mở zoom giúp tôi,calendar,train,mai nhac toi hop roi mo zoom giup toi
+865,Tại sao procrastination xảy ra?,tại sao procrastination xảy ra,qa,train,tai sao procrastination xay ra
+219,Variable là gì?,variable là gì,qa,train,variable la gi
+996,Bật điểm phát wifi!,bật điểm phát wifi,control_device,train,bat điem phat wifi
+224,Lên lịch nói chuyện với khách hàng.,lên lịch nói chuyện với khách hàng,calendar,train,len lich noi chuyen voi khach hang
+415,Vi điều khiển là gì vậy?,vi điều khiển là gì vậy,qa,test,vi đieu khien la gi vay
+951,Truy cập Facebook!,truy cập facebook,control_device,train,truy cap facebook
+999,Chia sẻ ảnh!,chia sẻ ảnh,control_device,train,chia se anh
+1364,Mở Visual Studio Code!,mở visual studio code,control_device,test,mo visual studio code
+549,Khi nào nên dùng GPU thay vì CPU?,khi nào nên dùng gpu thay vì cpu,qa,train,khi nao nen dung gpu thay vi cpu
+1487,Mở GitHub lên!,mở github lên,control_device,train,mo github len
+305,Khi nào đến lịch bảo dưỡng xe?,khi nào đến lịch bảo dưỡng xe,calendar,test,khi nao đen lich bao duong xe
+750,Tắt trình duyệt!,tắt trình duyệt,control_device,test,tat trinh duyet
+645,Tôi là fan của nhạc Lo-Fi.,tôi là fan của nhạc lo fi,personalize,train,toi la fan cua nhac lo fi
+1221,Vì sao websocket phù hợp realtime?,vì sao websocket phù hợp realtime,qa,train,vi sao websocket phu hop realtime
+148,Chào bạn!,chào bạn,qa,train,chao ban
+307,Bật đèn pin lên!,bật đèn pin lên,control_device,train,bat đen pin len
+1542,Pin lithium hoạt động như thế nào?,pin lithium hoạt động như thế nào,qa,train,pin lithium hoat đong nhu the nao
+47,Sự khác nhau giữa hiệu quả và hiệu suất?,sự khác nhau giữa hiệu quả và hiệu suất,qa,train,su khac nhau giua hieu qua va hieu suat
+933,Nhắc tôi kiểm tra email sáng mai.,nhắc tôi kiểm tra email sáng mai,calendar,validation,nhac toi kiem tra email sang mai
+499,Tôi thích nhiệt độ phòng khoảng 25 độ.,tôi thích nhiệt độ phòng khoảng độ,personalize,test,toi thich nhiet đo phong khoang đo
+65,Cách kiểm soát cảm xúc?,cách kiểm soát cảm xúc,qa,train,cach kiem soat cam xuc
+5,Cách luộc trứng lòng đào?,cách luộc trứng lòng đào,qa,train,cach luoc trung long đao
+34,Nhớ là tôi hay ngủ muộn.,nhớ là tôi hay ngủ muộn,personalize,train,nho la toi hay ngu muon
+1262,Tôi đang sống tại Đà Nẵng.,tôi đang sống tại đà nẵng,personalize,train,toi đang song tai đa nang
+879,Cách tăng chiều cao tự nhiên?,cách tăng chiều cao tự nhiên,qa,train,cach tang chieu cao tu nhien
+768,Tôi thường đi ngủ sau 12 giờ.,tôi thường đi ngủ sau giờ,personalize,train,toi thuong đi ngu sau gio
+870,Ăn chuối có lợi gì cho sức khỏe?,ăn chuối có lợi gì cho sức khỏe,qa,train,an chuoi co loi gi cho suc khoe
+1520,Thêm lịch ăn lẩu với team cuối tuần.,thêm lịch ăn lẩu với team cuối tuần,calendar,test,them lich an lau voi team cuoi tuan
+472,Vì sao luyện nghe quan trọng trong học tiếng Anh?,vì sao luyện nghe quan trọng trong học tiếng anh,qa,train,vi sao luyen nghe quan trong trong hoc tieng anh
+143,Tôi không thích ánh sáng mạnh.,tôi không thích ánh sáng mạnh,personalize,train,toi khong thich anh sang manh
+231,Thêm lịch học lập trình vào chiều nay.,thêm lịch học lập trình vào chiều nay,calendar,train,them lich hoc lap trinh vao chieu nay
+934,Tại sao nên đọc sách?,tại sao nên đọc sách,qa,train,tai sao nen đoc sach
+425,Bật ghi âm!,bật ghi âm,control_device,validation,bat ghi am
+453,Hủy lịch mai.,hủy lịch mai,calendar,train,huy lich mai
+218,Mở file PowerPoint!,mở file powerpoint,control_device,train,mo file powerpoint
+897,Tại sao cần cân bằng công việc và cuộc sống?,tại sao cần cân bằng công việc và cuộc sống,qa,train,tai sao can can bang cong viec va cuoc song
+502,Tôi có kế hoạch gì sắp tới không?,tôi có kế hoạch gì sắp tới không,calendar,train,toi co ke hoach gi sap toi khong
+308,Tôi thích làm việc vào buổi sáng.,tôi thích làm việc vào buổi sáng,personalize,train,toi thich lam viec vao buoi sang
+1496,Đặt lịch học dùm cái tối nay 8h.,đặt lịch học dùm cái tối nay h,calendar,validation,đat lich hoc dum cai toi nay h
+360,Tại sao nên duy trì thói quen đọc sách?,tại sao nên duy trì thói quen đọc sách,qa,train,tai sao nen duy tri thoi quen đoc sach
+375,Nhớ là tôi hay dậy sớm.,nhớ là tôi hay dậy sớm,personalize,train,nho la toi hay day som
+735,Tăng âm lượng lên!,tăng âm lượng lên,control_device,train,tang am luong len
+407,Cách giải ax^2 + bx + c = 0?,cách giải ax bx c,qa,train,cach giai ax bx c
+1242,Đặt nhắc nhở học bài tối nay.,đặt nhắc nhở học bài tối nay,calendar,train,đat nhac nho hoc bai toi nay
+199,Chụp screenshot!,chụp screenshot,control_device,validation,chup screenshot
+635,Tôi thích nhận thông báo dạng văn bản.,tôi thích nhận thông báo dạng văn bản,personalize,train,toi thich nhan thong bao dang van ban
+1092,Llama là gì?,llama là gì,qa,test,llama la gi
+699,Đổi sang chế độ tối!,đổi sang chế độ tối,control_device,train,đoi sang che đo toi
+1104,Accuracy là gì?,accuracy là gì,qa,train,accuracy la gi
+1527,Mở youtube coding music!,mở youtube coding music,control_device,train,mo youtube coding music
+780,Vì sao cần đội mũ bảo hiểm?,vì sao cần đội mũ bảo hiểm,qa,train,vi sao can đoi mu bao hiem
+107,Vì sao nên theo dõi thu chi hàng tháng?,vì sao nên theo dõi thu chi hàng tháng,qa,train,vi sao nen theo doi thu chi hang thang
+1511,Backend dev thường làm gì?,backend dev thường làm gì,qa,train,backend dev thuong lam gi
+1287,Google websocket python!,google websocket python,control_device,validation,google websocket python
+1333,Lịch tháng này còn trống không?,lịch tháng này còn trống không,calendar,test,lich thang nay con trong khong
+420,Chiều thứ sáu có lịch gì không?,chiều thứ sáu có lịch gì không,calendar,train,chieu thu sau co lich gi khong
+386,Tôi thường đi làm bằng xe máy điện.,tôi thường đi làm bằng xe máy điện,personalize,train,toi thuong đi lam bang xe may đien
+804,Nhà tôi ở Bắc Ninh.,nhà tôi ở bắc ninh,personalize,train,nha toi o bac ninh
+577,Big Data là gì?,big data là gì,qa,validation,big data la gi
+89,Ghi nhớ tôi thích cà phê.,ghi nhớ tôi thích cà phê,personalize,train,ghi nho toi thich ca phe
+1045,Python khó không?,python khó không,qa,train,python kho khong
+799,Thoát Word!,thoát word,control_device,train,thoat word
+667,Đóng Notepad!,đóng notepad,control_device,train,đong notepad
+1016,Machine learning là gì?,machine learning là gì,qa,train,machine learning la gi
+174,Tại sao cần giảm tốc độ khi trời mưa?,tại sao cần giảm tốc độ khi trời mưa,qa,validation,tai sao can giam toc đo khi troi mua
+731,Nhắc tôi họp lúc 3h chiều.,nhắc tôi họp lúc h chiều,calendar,validation,nhac toi hop luc h chieu
+267,Nhắn tin cho Chu!,nhắn tin cho chu,control_device,train,nhan tin cho chu
+581,Nhắc tôi họp zoom lúc 8 giờ tối.,nhắc tôi họp zoom lúc giờ tối,calendar,train,nhac toi hop zoom luc gio toi
+1501,Bật wifi lại xem mạng lag quá!,bật wifi lại xem mạng lag quá,control_device,train,bat wifi lai xem mang lag qua
+385,Ngày kia có cuộc họp không?,ngày kia có cuộc họp không,calendar,train,ngay kia co cuoc hop khong
+1491,Tôi không ăn cay được.,tôi không ăn cay được,personalize,train,toi khong an cay đuoc
+333,Cách rã đông thực phẩm nhanh?,cách rã đông thực phẩm nhanh,qa,train,cach ra đong thuc pham nhanh
+1342,Lịch tuần sau như nào nhỉ?,lịch tuần sau như nào nhỉ,calendar,train,lich tuan sau nhu nao nhi
+737,Thêm lịch xem phim tối nay.,thêm lịch xem phim tối nay,calendar,train,them lich xem phim toi nay
+1108,Fine tuning là gì?,fine tuning là gì,qa,train,fine tuning la gi
+473,Tại sao nên thiền?,tại sao nên thiền,qa,train,tai sao nen thien
+769,Thêm lịch gọi điện cho mẹ tối nay.,thêm lịch gọi điện cho mẹ tối nay,calendar,train,them lich goi đien cho me toi nay
+167,Có lịch nộp bài không hôm nay?,có lịch nộp bài không hôm nay,calendar,train,co lich nop bai khong hom nay
+848,Tạo lịch đóng tiền điện cuối tháng.,tạo lịch đóng tiền điện cuối tháng,calendar,train,tao lich đong tien đien cuoi thang
+580,Phát playlist yêu thích!,phát playlist yêu thích,control_device,train,phat playlist yeu thich
+75,Tại sao nên duy trì động lực?,tại sao nên duy trì động lực,qa,train,tai sao nen duy tri đong luc
+634,Lên lịch trả tiền nhà.,lên lịch trả tiền nhà,calendar,validation,len lich tra tien nha
+598,ChatGPT hoạt động như thế nào?,chatgpt hoạt động như thế nào,qa,train,chatgpt hoat đong nhu the nao
+749,Mở Facebook!,mở facebook,control_device,train,mo facebook
+301,Ngày mai có lịch thi không?,ngày mai có lịch thi không,calendar,train,ngay mai co lich thi khong
+455,Thêm lịch mai dậy.,thêm lịch mai dậy,calendar,train,them lich mai day
+558,Sáng nay tôi có bận gì không?,sáng nay tôi có bận gì không,calendar,train,sang nay toi co ban gi khong
+1175,Mình ở Hà Đông.,mình ở hà đông,personalize,validation,minh o ha đong
+330,Cho tôi xem các sự kiện sắp tới.,cho tôi xem các sự kiện sắp tới,calendar,train,cho toi xem cac su kien sap toi
+214,Chỉ đường về nhà giúp tôi!,chỉ đường về nhà giúp tôi,control_device,train,chi đuong ve nha giup toi
+853,Nhớ là tôi hay dùng máy tính buổi tối.,nhớ là tôi hay dùng máy tính buổi tối,personalize,test,nho la toi hay dung may tinh buoi toi
+329,Thêm lịch nấu ăn lúc 6 giờ chiều.,thêm lịch nấu ăn lúc giờ chiều,calendar,train,them lich nau an luc gio chieu
+319,Cách thanh toán online an toàn?,cách thanh toán online an toàn,qa,train,cach thanh toan online an toan
+579,Giá vàng hiện tại là bao nhiêu?,giá vàng hiện tại là bao nhiêu,qa,train,gia vang hien tai la bao nhieu
+338,Cách tính tiền nước hàng tháng?,cách tính tiền nước hàng tháng,qa,train,cach tinh tien nuoc hang thang
+1420,Embedding giúp semantic search ra sao?,embedding giúp semantic search ra sao,qa,validation,embedding giup semantic search ra sao
+1483,Mai rảnh không ta?,mai rảnh không ta,calendar,train,mai ranh khong ta
+1126,Knowledge base là gì?,knowledge base là gì,qa,train,knowledge base la gi
+748,Đóng file hiện tại!,đóng file hiện tại,control_device,train,đong file hien tai
+1076,Cache là gì?,cache là gì,qa,train,cache la gi
+1315,Chiều nay tôi có lịch gì không?,chiều nay tôi có lịch gì không,calendar,train,chieu nay toi co lich gi khong
+193,Hãy nhớ tôi thích học buổi sáng.,hãy nhớ tôi thích học buổi sáng,personalize,train,hay nho toi thich hoc buoi sang
+352,Tạo lịch gọi điện vào ngày mai.,tạo lịch gọi điện vào ngày mai,calendar,train,tao lich goi đien vao ngay mai
+4,Hủy tất cả báo thức!,hủy tất cả báo thức,control_device,train,huy tat ca bao thuc
+1120,Sự khác nhau polling websocket?,sự khác nhau polling websocket,qa,train,su khac nhau polling websocket
+719,Tại sao trời có mưa?,tại sao trời có mưa,qa,train,tai sao troi co mua
+599,Tôi có bao nhiêu lịch hôm nay?,tôi có bao nhiêu lịch hôm nay,calendar,train,toi co bao nhieu lich hom nay
+1171,Tôi tên Cảnh Nguyễn.,tôi tên cảnh nguyễn,personalize,train,toi ten canh nguyen
+1422,Cache redis giúp tăng tốc kiểu gì?,cache redis giúp tăng tốc kiểu gì,qa,train,cache redis giup tang toc kieu gi
+535,Tôi có thói quen uống cà phê buổi sáng.,tôi có thói quen uống cà phê buổi sáng,personalize,train,toi co thoi quen uong ca phe buoi sang
+554,Giảm âm lượng xuống thấp!,giảm âm lượng xuống thấp,control_device,train,giam am luong xuong thap
+114,Ghi lại rằng tôi thích trà sữa.,ghi lại rằng tôi thích trà sữa,personalize,train,ghi lai rang toi thich tra sua
+508,Chiều nay có cuộc họp không?,chiều nay có cuộc họp không,calendar,train,chieu nay co cuoc hop khong
+818,Tôi không thích làm việc nhóm.,tôi không thích làm việc nhóm,personalize,train,toi khong thich lam viec nhom
+248,Mở điểm phát wifi!,mở điểm phát wifi,control_device,train,mo điem phat wifi
+61,Đóng tab hiện tại!,đóng tab hiện tại,control_device,train,đong tab hien tai
+1154,Mình tên là Cảnh.,mình tên là cảnh,personalize,train,minh ten la canh
+1115,Sklearn là gì?,sklearn là gì,qa,validation,sklearn la gi
+1529,Mở app camera laptop!,mở app camera laptop,control_device,train,mo app camera laptop
+516,Mở Spotify phát nhạc!,mở spotify phát nhạc,control_device,train,mo spotify phat nhac
+1330,8h tối nhớ nhắc tôi họp zoom.,h tối nhớ nhắc tôi họp zoom,calendar,train,h toi nho nhac toi hop zoom
+873,Vì sao kim loại dẫn điện tốt?,vì sao kim loại dẫn điện tốt,qa,train,vi sao kim loai dan đien tot
+240,Lịch ngày 25 có gì?,lịch ngày có gì,calendar,train,lich ngay co gi
+19,Xem lịch cá nhân.,xem lịch cá nhân,calendar,train,xem lich ca nhan
+454,Hủy lịch ngày mai.,hủy lịch ngày mai,calendar,train,huy lich ngay mai
+273,IELTS có mấy phần thi?,ielts có mấy phần thi,qa,train,ielts co may phan thi
+560,Lịch sắp tới của tôi là gì?,lịch sắp tới của tôi là gì,calendar,train,lich sap toi cua toi la gi
+1554,Sao mở nhiều tab chrome lại tốn ram?,sao mở nhiều tab chrome lại tốn ram,qa,train,sao mo nhieu tab chrome lai ton ram
+1538,Ollama dùng để chạy model local à?,ollama dùng để chạy model local à,qa,train,ollama dung đe chay model local a
+467,Kiểm tra cập nhật hệ thống đi!,kiểm tra cập nhật hệ thống đi,control_device,train,kiem tra cap nhat he thong đi
+1274,Tôi làm ở Viettel.,tôi làm ở viettel,personalize,train,toi lam o viettel
+1429,Streaming realtime hoạt động ra sao?,streaming realtime hoạt động ra sao,qa,train,streaming realtime hoat đong ra sao
+1184,Vào Drive giúp tôi!,vào drive giúp tôi,control_device,train,vao drive giup toi
+166,Tại sao cần uống đủ nước?,tại sao cần uống đủ nước,qa,test,tai sao can uong đu nuoc
+1204,ChatGPT đi!,chatgpt đi,control_device,train,chatgpt đi
+1399,Tôi thích làm việc một mình hơn.,tôi thích làm việc một mình hơn,personalize,train,toi thich lam viec mot minh hon
+1239,Tạo lịch họp team lúc 9h sáng mai.,tạo lịch họp team lúc h sáng mai,calendar,train,tao lich hop team luc h sang mai
+1490,Mình hay code đêm.,mình hay code đêm,personalize,train,minh hay code đem
+551,Tôi thích đi đường ngắn nhất.,tôi thích đi đường ngắn nhất,personalize,test,toi thich đi đuong ngan nhat
+29,Sáng mai tôi có bận không?,sáng mai tôi có bận không,calendar,train,sang mai toi co ban khong
+1066,JWT là gì?,jwt là gì,qa,train,jwt la gi
+379,Xem lịch tuần sau.,xem lịch tuần sau,calendar,train,xem lich tuan sau
+1056,Cosine similarity là gì?,cosine similarity là gì,qa,test,cosine similarity la gi
+1220,Cách hoạt động của cosine similarity?,cách hoạt động của cosine similarity,qa,validation,cach hoat đong cua cosine similarity
+8,Tôi không thích ăn đồ ngọt.,tôi không thích ăn đồ ngọt,personalize,train,toi khong thich an đo ngot
+1224,Vì sao nên dùng PostgreSQL?,vì sao nên dùng postgresql,qa,train,vi sao nen dung postgresql
+1208,Mở git húp!,mở git húp,control_device,train,mo git hup
+1525,Mở github repo backend!,mở github repo backend,control_device,train,mo github repo backend
+643,Tạo lịch gọi zoom vào tối nay.,tạo lịch gọi zoom vào tối nay,calendar,validation,tao lich goi zoom vao toi nay
+486,Nhắc tôi học bài vào 8 giờ tối nay.,nhắc tôi học bài vào giờ tối nay,calendar,validation,nhac toi hoc bai vao gio toi nay
+177,Tôi thích ăn sáng nhẹ.,tôi thích ăn sáng nhẹ,personalize,validation,toi thich an sang nhe
+1026,Vector database là gì?,vector database là gì,qa,train,vector database la gi
+1158,Quê tôi ở Nam Định.,quê tôi ở nam định,personalize,train,que toi o nam đinh
+921,Đặc sản Bắc Ninh là gì nhỉ?,đặc sản bắc ninh là gì nhỉ,qa,train,đac san bac ninh la gi nhi
+275,Tôi thích làm việc có kế hoạch.,tôi thích làm việc có kế hoạch,personalize,train,toi thich lam viec co ke hoach
+866,Quốc gia nào có diện tích lớn nhất?,quốc gia nào có diện tích lớn nhất,qa,train,quoc gia nao co dien tich lon nhat
+836,Bật lại nhạc!,bật lại nhạc,control_device,train,bat lai nhac
+263,Nhắc tôi làm bài tập vào tối nay.,nhắc tôi làm bài tập vào tối nay,calendar,train,nhac toi lam bai tap vao toi nay
+1476,Computer vision dùng để làm gì?,computer vision dùng để làm gì,qa,train,computer vision dung đe lam gi
+327,Tôi ăn nhạt.,tôi ăn nhạt,personalize,validation,toi an nhat
+13,Cách quản lý thời gian hiệu quả?,cách quản lý thời gian hiệu quả,qa,train,cach quan ly thoi gian hieu qua
+1248,Đặt lịch call khách hàng 3h chiều.,đặt lịch call khách hàng h chiều,calendar,validation,đat lich call khach hang h chieu
+430,Tôi thích làm việc một mình.,tôi thích làm việc một mình,personalize,train,toi thich lam viec mot minh
+859,Chuyển người dùng!,chuyển người dùng,control_device,test,chuyen nguoi dung
+1067,Cookie là gì?,cookie là gì,qa,train,cookie la gi
+1034,Redis là gì?,redis là gì,qa,train,redis la gi
+413,Tôi thường dùng laptop vào buổi tối.,tôi thường dùng laptop vào buổi tối,personalize,train,toi thuong dung laptop vao buoi toi
+932,Nhiệt độ ảnh hưởng đến con người ra sao?,nhiệt độ ảnh hưởng đến con người ra sao,qa,train,nhiet đo anh huong đen con nguoi ra sao
+613,Nhắc tôi đóng học phí.,nhắc tôi đóng học phí,calendar,train,nhac toi đong hoc phi
+1288,Mở ChatGPT giúp tôi!,mở chatgpt giúp tôi,control_device,test,mo chatgpt giup toi
+1450,Backend với frontend khác gì nhau?,backend với frontend khác gì nhau,qa,train,backend voi frontend khac gi nhau
+421,Đi xe tiết kiệm xăng như thế nào?,đi xe tiết kiệm xăng như thế nào,qa,train,đi xe tiet kiem xang nhu the nao
+928,Khi nào nên bắt đầu đầu tư?,khi nào nên bắt đầu đầu tư,qa,train,khi nao nen bat đau đau tu
+618,Xem lịch tháng này.,xem lịch tháng này,calendar,train,xem lich thang nay
+774,Lên lịch khám sức khỏe ngày 15 tháng sau.,lên lịch khám sức khỏe ngày tháng sau,calendar,train,len lich kham suc khoe ngay thang sau
+1318,Đặt lịch cafe với Long lúc 7h tối.,đặt lịch cafe với long lúc h tối,calendar,test,đat lich cafe voi long luc h toi
+1396,Tôi làm ở Samsung.,tôi làm ở samsung,personalize,test,toi lam o samsung
+372,Tôi không hay dùng bluetooth.,tôi không hay dùng bluetooth,personalize,train,toi khong hay dung bluetooth
+142,Mở trình quản lý tác vụ!,mở trình quản lý tác vụ,control_device,test,mo trinh quan ly tac vu
+172,Lịch tuần sau có gì?,lịch tuần sau có gì,calendar,train,lich tuan sau co gi
+318,Cho tôi xem lịch ngày mai.,cho tôi xem lịch ngày mai,calendar,validation,cho toi xem lich ngay mai
+1507,Mình học dễ vào buổi đêm hơn.,mình học dễ vào buổi đêm hơn,personalize,validation,minh hoc de vao buoi đem hon
+1535,Vì sao ai model cần gpu mạnh?,vì sao ai model cần gpu mạnh,qa,train,vi sao ai model can gpu manh
+356,Thêm lịch học toán lúc 7 giờ tối.,thêm lịch học toán lúc giờ tối,calendar,validation,them lich hoc toan luc gio toi
+125,Bao nhiêu giây trong một phút?,bao nhiêu giây trong một phút,qa,test,bao nhieu giay trong mot phut
+14,Làm sao để thịt không bị dai?,làm sao để thịt không bị dai,qa,train,lam sao đe thit khong bi dai
+228,Cách ghi nhớ nhanh bài học?,cách ghi nhớ nhanh bài học,qa,train,cach ghi nho nhanh bai hoc
+1180,Mở Facebook giúp tôi!,mở facebook giúp tôi,control_device,train,mo facebook giup toi
+246,Nhắc tôi giặt quần áo tối nay.,nhắc tôi giặt quần áo tối nay,calendar,train,nhac toi giat quan ao toi nay
+234,Vì sao việc học không nên bị gián đoạn?,vì sao việc học không nên bị gián đoạn,qa,train,vi sao viec hoc khong nen bi gian đoan
+796,Khởi động terminal!,khởi động terminal,control_device,test,khoi đong terminal
+1304,Tạo reminder uống thuốc lúc 9h tối.,tạo reminder uống thuốc lúc h tối,calendar,train,tao reminder uong thuoc luc h toi
+596,Tắt thông báo!,tắt thông báo,control_device,train,tat thong bao
+856,Ghi lại là tôi hay đi bộ buổi sáng.,ghi lại là tôi hay đi bộ buổi sáng,personalize,train,ghi lai la toi hay đi bo buoi sang
+52,Tại sao băng nổi trên mặt nước?,tại sao băng nổi trên mặt nước,qa,test,tai sao bang noi tren mat nuoc
+471,Đọc tin nhắn gần đây!,đọc tin nhắn gần đây,control_device,train,đoc tin nhan gan đay
+66,Tại sao cơ thể cảm thấy mệt khi thiếu ngủ?,tại sao cơ thể cảm thấy mệt khi thiếu ngủ,qa,train,tai sao co the cam thay met khi thieu ngu
+617,Thêm lịch dọn phòng vào chiều nay.,thêm lịch dọn phòng vào chiều nay,calendar,validation,them lich don phong vao chieu nay
+1343,Đặt lịch làm assignment tối nay.,đặt lịch làm assignment tối nay,calendar,train,đat lich lam assignment toi nay
+682,Tạo lịch khám bệnh vào thứ năm.,tạo lịch khám bệnh vào thứ năm,calendar,train,tao lich kham benh vao thu nam
+624,Tôi thích làm việc trong yên tĩnh.,tôi thích làm việc trong yên tĩnh,personalize,validation,toi thich lam viec trong yen tinh
+1492,Mình thích dark mode.,mình thích dark mode,personalize,train,minh thich dark mode
+838,Nhắc tôi đi chợ sáng mai.,nhắc tôi đi chợ sáng mai,calendar,train,nhac toi đi cho sang mai
+336,Mở lịch cho tôi xem!,mở lịch cho tôi xem,control_device,train,mo lich cho toi xem
+1200,Google Semantic Search!,google semantic search,control_device,train,google semantic search
+1334,Nhắc tôi gọi điện cho mẹ tối nay.,nhắc tôi gọi điện cho mẹ tối nay,calendar,test,nhac toi goi đien cho me toi nay
+714,Tôi hay ngủ trưa khoảng 30 phút.,tôi hay ngủ trưa khoảng phút,personalize,train,toi hay ngu trua khoang phut
+886,Tiếp tục video!,tiếp tục video,control_device,test,tiep tuc video
+711,Tại sao nên tập thể dục buổi sáng?,tại sao nên tập thể dục buổi sáng,qa,train,tai sao nen tap the duc buoi sang
+1075,Latency là gì?,latency là gì,qa,train,latency la gi
+1215,Chatbot hoạt động như nào?,chatbot hoạt động như nào,qa,train,chatbot hoat đong nhu nao
+1028,LLM là gì?,llm là gì,qa,validation,llm la gi
+1549,Vì sao trời nồm làm sàn nhà ướt?,vì sao trời nồm làm sàn nhà ướt,qa,train,vi sao troi nom lam san nha uot
+881,Hôm nay có phải nộp bài Python không?,hôm nay có phải nộp bài python không,calendar,train,hom nay co phai nop bai python khong
+128,Tôi thích chơi game chiến thuật.,tôi thích chơi game chiến thuật,personalize,train,toi thich choi game chien thuat
+1263,Quê mình ở Thái Bình.,quê mình ở thái bình,personalize,train,que minh o thai binh
+221,Tôi thường đi xe máy.,tôi thường đi xe máy,personalize,validation,toi thuong đi xe may
+133,Làm sao để ngủ nhanh hơn?,làm sao để ngủ nhanh hơn,qa,train,lam sao đe ngu nhanh hon
+929,Cho tôi biết lúc nào tôi rảnh.,cho tôi biết lúc nào tôi rảnh,calendar,test,cho toi biet luc nao toi ranh
+998,Tại sao ánh sáng truyền nhanh hơn âm thanh?,tại sao ánh sáng truyền nhanh hơn âm thanh,qa,train,tai sao anh sang truyen nhanh hon am thanh
+137,Cách giảm căng thẳng?,cách giảm căng thẳng,qa,train,cach giam cang thang
+206,Tại sao không nên tiêu hết tiền kiếm được?,tại sao không nên tiêu hết tiền kiếm được,qa,validation,tai sao khong nen tieu het tien kiem đuoc
+709,Chụp ảnh!,chụp ảnh,control_device,train,chup anh
+345,Tại sao cần tập thể dục?,tại sao cần tập thể dục,qa,train,tai sao can tap the duc
+381,Ngày hôm nay có việc gì cần làm?,ngày hôm nay có việc gì cần làm,calendar,train,ngay hom nay co viec gi can lam
+485,Tôi rảnh lúc nào trong tháng này?,tôi rảnh lúc nào trong tháng này,calendar,train,toi ranh luc nao trong thang nay
+120,Tại sao cần đặt mục tiêu trong công việc?,tại sao cần đặt mục tiêu trong công việc,qa,test,tai sao can đat muc tieu trong cong viec
+705,Tạo lịch sạc pin xe lúc 11 giờ đêm.,tạo lịch sạc pin xe lúc giờ đêm,calendar,test,tao lich sac pin xe luc gio đem
+509,Tại sao bầu trời có màu xanh?,tại sao bầu trời có màu xanh,qa,train,tai sao bau troi co mau xanh
+286,Tôi thích thời tiết dễ chịu.,tôi thích thời tiết dễ chịu,personalize,train,toi thich thoi tiet de chiu
+954,Tôi thích ăn đồ ngọt.,tôi thích ăn đồ ngọt,personalize,train,toi thich an đo ngot
+1043,Windows kernel là gì?,windows kernel là gì,qa,test,windows kernel la gi
+1070,Monolithic là gì?,monolithic là gì,qa,train,monolithic la gi
+364,Kiểm tra trạng thái hệ thống!,kiểm tra trạng thái hệ thống,control_device,train,kiem tra trang thai he thong
+222,Tăng âm lượng!,tăng âm lượng,control_device,train,tang am luong
+890,Giá vàng hôm nay bao nhiêu tiền?,giá vàng hôm nay bao nhiêu tiền,qa,train,gia vang hom nay bao nhieu tien
+887,Thêm lịch mua đồ gia dụng.,thêm lịch mua đồ gia dụng,calendar,test,them lich mua đo gia dung
+1156,Tôi học ngành Công nghệ thông tin.,tôi học ngành công nghệ thông tin,personalize,train,toi hoc nganh cong nghe thong tin
+181,Tôi muốn tự động tắt đèn sau 12 giờ đêm.,tôi muốn tự động tắt đèn sau giờ đêm,personalize,train,toi muon tu đong tat đen sau gio đem
+1151,Remind tôi đi học mai 7h.,remind tôi đi học mai h,calendar,train,remind toi đi hoc mai h
+629,Tôi không thích kẹt xe.,tôi không thích kẹt xe,personalize,train,toi khong thich ket xe
+463,Xem Recycle Bin!,xem recycle bin,control_device,validation,xem recycle bin
+403,Nhắc tôi đi làm ca tối thứ sáu.,nhắc tôi đi làm ca tối thứ sáu,calendar,train,nhac toi đi lam ca toi thu sau
+434,Bắc Ninh có món gì nổi tiếng?,bắc ninh có món gì nổi tiếng,qa,train,bac ninh co mon gi noi tieng
+298,Hạ độ sáng màn hình!,hạ độ sáng màn hình,control_device,train,ha đo sang man hinh
+1475,NLP là gì thế?,nlp là gì thế,qa,train,nlp la gi the
+545,Ưu tiên đường không bị tắc.,ưu tiên đường không bị tắc,personalize,train,uu tien đuong khong bi tac
+1097,Missing data là gì?,missing data là gì,qa,train,missing data la gi
+540,Có lịch gì sắp tới không?,có lịch gì sắp tới không,calendar,train,co lich gi sap toi khong
+1540,Xe điện đi trời mưa có an toàn không?,xe điện đi trời mưa có an toàn không,qa,train,xe đien đi troi mua co an toan khong
+1118,Websocket realtime thế nào?,websocket realtime thế nào,qa,test,websocket realtime the nao
+646,Tắt chế độ máy bay giúp tôi!,tắt chế độ máy bay giúp tôi,control_device,train,tat che đo may bay giup toi
+477,Tại sao có gió?,tại sao có gió,qa,train,tai sao co gio
+225,Machine learning khác deep learning chỗ nào?,machine learning khác deep learning chỗ nào,qa,validation,machine learning khac deep learning cho nao
+833,Bật dark mode là phù hợp với tôi.,bật dark mode là phù hợp với tôi,personalize,train,bat dark mode la phu hop voi toi
+689,Vì sao cần thực hành thường xuyên?,vì sao cần thực hành thường xuyên,qa,train,vi sao can thuc hanh thuong xuyen
+1113,Pytorch là gì?,pytorch là gì,qa,train,pytorch la gi
+314,Tôi không ăn đồ dầu mỡ.,tôi không ăn đồ dầu mỡ,personalize,test,toi khong an đo dau mo
+604,Khi nào tôi không có lịch?,khi nào tôi không có lịch,calendar,test,khi nao toi khong co lich
+292,Tôi quan tâm đến thị trường chứng khoán.,tôi quan tâm đến thị trường chứng khoán,personalize,train,toi quan tam đen thi truong chung khoan
+202,Mở album ảnh!,mở album ảnh,control_device,train,mo album anh
+970,Quay video!,quay video,control_device,validation,quay video
+158,Ngày mai có bận không?,ngày mai có bận không,calendar,train,ngay mai co ban khong
+1369,Bật loa ngoài giúp tôi!,bật loa ngoài giúp tôi,control_device,train,bat loa ngoai giup toi
+984,Nhớ là tôi hay đi tập gym buổi chiều.,nhớ là tôi hay đi tập gym buổi chiều,personalize,train,nho la toi hay đi tap gym buoi chieu
+377,Lên lịch kiểm tra công việc mỗi ngày.,lên lịch kiểm tra công việc mỗi ngày,calendar,train,len lich kiem tra cong viec moi ngay
+980,Ngày mai có lịch học không?,ngày mai có lịch học không,calendar,train,ngay mai co lich hoc khong
+795,Nhắc tôi gọi cho bạn vào ngày mai.,nhắc tôi gọi cho bạn vào ngày mai,calendar,train,nhac toi goi cho ban vao ngay mai
+786,Tôi có lịch gì chiều nay?,tôi có lịch gì chiều nay,calendar,test,toi co lich gi chieu nay
+293,Nhắc tôi tham gia cuộc họp lúc 3 giờ chiều.,nhắc tôi tham gia cuộc họp lúc giờ chiều,calendar,train,nhac toi tham gia cuoc hop luc gio chieu
+127,Tại sao cần quỹ dự phòng?,tại sao cần quỹ dự phòng,qa,validation,tai sao can quy du phong
+1264,Tôi học ở Đại học Bách khoa Hà Nội.,tôi học ở đại học bách khoa hà nội,personalize,validation,toi hoc o đai hoc bach khoa ha noi
+1558,Vì sao con người cần vitamin c?,vì sao con người cần vitamin c,qa,test,vi sao con nguoi can vitamin c
+1292,YouTube học python cơ bản!,youtube học python cơ bản,control_device,train,youtube hoc python co ban
+1078,Server là gì?,server là gì,qa,train,server la gi
+678,Vì sao nên ăn sáng đầy đủ?,vì sao nên ăn sáng đầy đủ,qa,validation,vi sao nen an sang đay đu
+1331,Tạo reminder đi ngủ sớm.,tạo reminder đi ngủ sớm,calendar,train,tao reminder đi ngu som
+1170,Tôi thích ăn gà rán.,tôi thích ăn gà rán,personalize,test,toi thich an ga ran
+572,Lịch ngày mai có gì?,lịch ngày mai có gì,calendar,validation,lich ngay mai co gi
+1548,Mưa axit hình thành như thế nào?,mưa axit hình thành như thế nào,qa,validation,mua axit hinh thanh nhu the nao
+674,Tắt nguồn điện thoại!,tắt nguồn điện thoại,control_device,train,tat nguon đien thoai
+96,Mở ứng dụng gọi điện!,mở ứng dụng gọi điện,control_device,train,mo ung dung goi đien
+62,Tắt máy!,tắt máy,control_device,train,tat may
+1380,Vì sao semantic search thông minh hơn search thường?,vì sao semantic search thông minh hơn search thường,qa,validation,vi sao semantic search thong minh hon search thuong
+1414,Mình thích thời tiết lạnh hơn nóng.,mình thích thời tiết lạnh hơn nóng,personalize,train,minh thich thoi tiet lanh hon nong
+620,Mở Jupyter!,mở jupyter,control_device,train,mo jupyter
+1436,API gateway dùng để làm gì?,api gateway dùng để làm gì,qa,train,api gateway dung đe lam gi
+341,Nhắc tôi đi mua sắm vào chiều nay.,nhắc tôi đi mua sắm vào chiều nay,calendar,validation,nhac toi đi mua sam vao chieu nay
+1466,Server là gì vậy?,server là gì vậy,qa,validation,server la gi vay
+728,Mở Google!,mở google,control_device,test,mo google
+760,Lên lịch thanh toán tiền nước.,lên lịch thanh toán tiền nước,calendar,validation,len lich thanh toan tien nuoc
+1403,Tôi không chịu được tiếng ồn lớn.,tôi không chịu được tiếng ồn lớn,personalize,test,toi khong chiu đuoc tieng on lon
+544,Nhắc tôi ôn từ vựng tiếng Anh hàng ngày.,nhắc tôi ôn từ vựng tiếng anh hàng ngày,calendar,train,nhac toi on tu vung tieng anh hang ngay
+1049,NLP là gì?,nlp là gì,qa,train,nlp la gi
+1192,Search websocket fastapi!,search websocket fastapi,control_device,train,search websocket fastapi
+884,Tại sao cần bảo mật tài khoản?,tại sao cần bảo mật tài khoản,qa,train,tai sao can bao mat tai khoan
+1537,Speech to text khác text to speech sao?,speech to text khác text to speech sao,qa,train,speech to text khac text to speech sao
+1214,Trí tuệ nhân tạo hoạt động sao?,trí tuệ nhân tạo hoạt động sao,qa,train,tri tue nhan tao hoat đong sao
+1306,Đừng quên nhắc tôi học bài tối nay.,đừng quên nhắc tôi học bài tối nay,calendar,train,đung quen nhac toi hoc bai toi nay
+914,Bạn nhớ giúp tôi nhé.,bạn nhớ giúp tôi nhé,personalize,validation,ban nho giup toi nhe
+1145,Xóa giúp tôi cái lịch tối qua.,xóa giúp tôi cái lịch tối qua,calendar,train,xoa giup toi cai lich toi qua
+480,Lên lịch rửa xe vào sáng mai.,lên lịch rửa xe vào sáng mai,calendar,train,len lich rua xe vao sang mai
+359,Nhắc tôi đi ngủ lúc 11 giờ đêm.,nhắc tôi đi ngủ lúc giờ đêm,calendar,train,nhac toi đi ngu luc gio đem
+406,Mở nhạc ballad trên YouTube!,mở nhạc ballad trên youtube,control_device,train,mo nhac ballad tren youtube
+565,Xem lịch giúp tôi.,xem lịch giúp tôi,calendar,train,xem lich giup toi
+1222,API Restful là gì?,api restful là gì,qa,train,api restful la gi
+266,Refresh màn hình!,refresh màn hình,control_device,test,refresh man hinh
+1485,Bật wifi giúp tôi!,bật wifi giúp tôi,control_device,train,bat wifi giup toi
+889,Tôi thích dùng chế độ tối khi làm việc.,tôi thích dùng chế độ tối khi làm việc,personalize,train,toi thich dung che đo toi khi lam viec
+825,Vì sao tập thể dục giúp giảm stress?,vì sao tập thể dục giúp giảm stress,qa,train,vi sao tap the duc giup giam stress
+664,Lên lịch đi học lúc 7 giờ.,lên lịch đi học lúc giờ,calendar,train,len lich đi hoc luc gio
+1244,Thêm lịch ăn tối lúc 7h.,thêm lịch ăn tối lúc h,calendar,validation,them lich an toi luc h
+1522,Mai có lịch phỏng vấn không nhỉ?,mai có lịch phỏng vấn không nhỉ,calendar,train,mai co lich phong van khong nhi
+1024,API là gì?,api là gì,qa,train,api la gi
+985,Lịch bảo dưỡng xe là khi nào?,lịch bảo dưỡng xe là khi nào,calendar,train,lich bao duong xe la khi nao
+1008,Mở ứng dụng bản đồ!,mở ứng dụng bản đồ,control_device,train,mo ung dung ban đo
+366,Tôi không uống cà phê buổi tối.,tôi không uống cà phê buổi tối,personalize,train,toi khong uong ca phe buoi toi
+44,Nhớ là tôi tập trung tốt vào buổi tối.,nhớ là tôi tập trung tốt vào buổi tối,personalize,train,nho la toi tap trung tot vao buoi toi
+708,Vì sao cần giữ khoảng cách an toàn?,vì sao cần giữ khoảng cách an toàn,qa,train,vi sao can giu khoang cach an toan
+155,Chào buổi sáng!,chào buổi sáng,qa,train,chao buoi sang
+528,Ăn sáng có quan trọng không?,ăn sáng có quan trọng không,qa,train,an sang co quan trong khong
+446,Tôi thích xem phim vào buổi tối.,tôi thích xem phim vào buổi tối,personalize,train,toi thich xem phim vao buoi toi
+1030,Whisper dùng để làm gì?,whisper dùng để làm gì,qa,test,whisper dung đe lam gi
+313,Nhớ là tôi thường nghe nhạc lúc làm việc.,nhớ là tôi thường nghe nhạc lúc làm việc,personalize,validation,nho la toi thuong nghe nhac luc lam viec
+157,Ý nghĩa của đèn giao thông?,ý nghĩa của đèn giao thông,qa,train,y nghia cua đen giao thong
+1216,Vì sao LLM trả lời được câu hỏi?,vì sao llm trả lời được câu hỏi,qa,train,vi sao llm tra loi đuoc cau hoi
+1219,Embedding vector dùng để làm gì?,embedding vector dùng để làm gì,qa,train,embedding vector dung đe lam gi
+931,Âm lịch hôm nay là ngày bao nhiêu?,âm lịch hôm nay là ngày bao nhiêu,qa,train,am lich hom nay la ngay bao nhieu
+244,Tiêu chí chấm IELTS writing là gì?,tiêu chí chấm ielts writing là gì,qa,train,tieu chi cham ielts writing la gi
+104,Xem lịch trình của tôi.,xem lịch trình của tôi,calendar,train,xem lich trinh cua toi
+673,Nhớ là tôi thích học online.,nhớ là tôi thích học online,personalize,train,nho la toi thich hoc online
+820,Tôi dễ mất tập trung vào buổi chiều.,tôi dễ mất tập trung vào buổi chiều,personalize,train,toi de mat tap trung vao buoi chieu
+238,Lịch họp nhóm dự án lúc mấy giờ?,lịch họp nhóm dự án lúc mấy giờ,calendar,train,lich hop nhom du an luc may gio
+121,Cuối tuần tôi có lịch gì?,cuối tuần tôi có lịch gì,calendar,train,cuoi tuan toi co lich gi
+164,Mấy giờ rồi vậy?,mấy giờ rồi vậy,qa,train,may gio roi vay
+161,Tôi cần uống nước đều đặn mỗi 2 tiếng.,tôi cần uống nước đều đặn mỗi tiếng,personalize,train,toi can uong nuoc đeu đan moi tieng
+1320,Check lịch giúp tôi với.,check lịch giúp tôi với,calendar,train,check lich giup toi voi
+1296,Open Gemini!,open gemini,control_device,train,open gemini
+640,Xem video trên YouTube!,xem video trên youtube,control_device,train,xem video tren youtube
+1551,Sao tai nghe bluetooth có độ trễ?,sao tai nghe bluetooth có độ trễ,qa,train,sao tai nghe bluetooth co đo tre
+97,Chỉnh sửa ảnh!,chỉnh sửa ảnh,control_device,train,chinh sua anh
+779,Sáng mai tôi có việc gì không?,sáng mai tôi có việc gì không,calendar,train,sang mai toi co viec gi khong
+347,Nấu mì gói cần bao nhiêu nước?,nấu mì gói cần bao nhiêu nước,qa,train,nau mi goi can bao nhieu nuoc
+901,Cách tránh lừa đảo trên mạng?,cách tránh lừa đảo trên mạng,qa,train,cach tranh lua đao tren mang
+1394,Đặt lịch họp ở Starbucks lúc 7h tối.,đặt lịch họp ở starbucks lúc h tối,calendar,train,đat lich hop o starbucks luc h toi
+1058,MongoDB là gì?,mongodb là gì,qa,train,mongodb la gi
+43,Khởi động Chrome giúp tôi!,khởi động chrome giúp tôi,control_device,train,khoi đong chrome giup toi
+583,Uống cà phê nhiều có tốt không?,uống cà phê nhiều có tốt không,qa,train,uong ca phe nhieu co tot khong
+1149,Show lịch ngày mai.,show lịch ngày mai,calendar,train,show lich ngay mai
+1013,Chiều thứ sáu tôi có hẹn không?,chiều thứ sáu tôi có hẹn không,calendar,train,chieu thu sau toi co hen khong
+850,Làm sao để chiên trứng không dính chảo?,làm sao để chiên trứng không dính chảo,qa,train,lam sao đe chien trung khong dinh chao
+1530,Mình thích làm việc có deadline rõ ràng.,mình thích làm việc có deadline rõ ràng,personalize,train,minh thich lam viec co deadline ro rang
+979,Khóa thiết bị!,khóa thiết bị,control_device,train,khoa thiet bi
+418,Tôi thích video ngắn thôi.,tôi thích video ngắn thôi,personalize,test,toi thich video ngan thoi
+235,Tắt Messenger!,tắt messenger,control_device,train,tat messenger
+767,Lịch tháng này của tôi ra sao?,lịch tháng này của tôi ra sao,calendar,train,lich thang nay cua toi ra sao
+1426,PostgreSQL có hỗ trợ vector search không?,postgresql có hỗ trợ vector search không,qa,train,postgresql co ho tro vector search khong
+805,Thêm lịch thi ngày mai.,thêm lịch thi ngày mai,calendar,train,them lich thi ngay mai
+80,Tại sao train model cần GPU?,tại sao train model cần gpu,qa,train,tai sao train model can gpu
+284,Nhắc tôi đi học lúc 6h.,nhắc tôi đi học lúc h,calendar,train,nhac toi đi hoc luc h
+706,Mở Control Panel!,mở control panel,control_device,train,mo control panel
+1423,Sự khác nhau giữa thread với process là gì?,sự khác nhau giữa thread với process là gì,qa,train,su khac nhau giua thread voi process la gi
+325,Tạo lịch gọi điện cho gia đình tối chủ nhật.,tạo lịch gọi điện cho gia đình tối chủ nhật,calendar,train,tao lich goi đien cho gia đinh toi chu nhat
+582,Vì sao cần kiên trì khi học?,vì sao cần kiên trì khi học,qa,train,vi sao can kien tri khi hoc
+1406,Mình thích setup bàn làm việc tối màu.,mình thích setup bàn làm việc tối màu,personalize,train,minh thich setup ban lam viec toi mau
+1518,Mai có lịch học xác suất không ta?,mai có lịch học xác suất không ta,calendar,train,mai co lich hoc xac suat khong ta
+982,Có cuộc họp nào hôm nay không?,có cuộc họp nào hôm nay không,calendar,train,co cuoc hop nao hom nay khong
+1240,Mai tôi có cuộc hẹn nào không?,mai tôi có cuộc hẹn nào không,calendar,train,mai toi co cuoc hen nao khong
+1191,Mở YouTube nhạc Lo-Fi!,mở youtube nhạc lo fi,control_device,train,mo youtube nhac lo fi
+898,Nhắc tôi đi siêu thị lúc 6 giờ chiều.,nhắc tôi đi siêu thị lúc giờ chiều,calendar,train,nhac toi đi sieu thi luc gio chieu
+1233,Speech recognition là gì?,speech recognition là gì,qa,train,speech recognition la gi
+135,Cách giữ nhà cửa gọn gàng?,cách giữ nhà cửa gọn gàng,qa,validation,cach giu nha cua gon gang
+103,Thêm lịch học lúc 7h.,thêm lịch học lúc h,calendar,train,them lich hoc luc h
+195,Khởi động Microsoft Excel!,khởi động microsoft excel,control_device,test,khoi đong microsoft excel
+1325,Mai tôi rảnh lúc nào?,mai tôi rảnh lúc nào,calendar,train,mai toi ranh luc nao
+1282,Mở Google Drive!,mở google drive,control_device,train,mo google drive
+1362,Bật hotspot điện thoại!,bật hotspot điện thoại,control_device,train,bat hotspot đien thoai
+363,Khởi động lại điện thoại!,khởi động lại điện thoại,control_device,train,khoi đong lai đien thoai
+628,Ăn nhiều đường có hại không?,ăn nhiều đường có hại không,qa,train,an nhieu đuong co hai khong
+697,Tạo lịch lau nhà cuối tuần.,tạo lịch lau nhà cuối tuần,calendar,train,tao lich lau nha cuoi tuan
+140,Lưu thói quen của tôi.,lưu thói quen của tôi,personalize,train,luu thoi quen cua toi
+105,Chạy PowerPoint ngay!,chạy powerpoint ngay,control_device,train,chay powerpoint ngay
+938,Tại sao nhiệt độ ảnh hưởng đến vật chất?,tại sao nhiệt độ ảnh hưởng đến vật chất,qa,train,tai sao nhiet đo anh huong đen vat chat
+410,Tôi hay chơi game chiến thuật.,tôi hay chơi game chiến thuật,personalize,train,toi hay choi game chien thuat
+1050,Computer vision là gì?,computer vision là gì,qa,test,computer vision la gi
+536,Cuối tuần có bận không?,cuối tuần có bận không,calendar,train,cuoi tuan co ban khong
+163,Tối nay tôi có lịch gì?,tối nay tôi có lịch gì,calendar,train,toi nay toi co lich gi
+775,Cuối tuần này có bận không?,cuối tuần này có bận không,calendar,test,cuoi tuan nay co ban khong
+1452,PostgreSQL có ưu điểm gì?,postgresql có ưu điểm gì,qa,train,postgresql co uu điem gi
+334,Tại sao điện thoại nhanh hết pin?,tại sao điện thoại nhanh hết pin,qa,train,tai sao đien thoai nhanh het pin
+1167,Giải thích kỹ hơn nhé.,giải thích kỹ hơn nhé,personalize,train,giai thich ky hon nhe
+597,Nhắc tôi luyện đàn lúc 8 giờ.,nhắc tôi luyện đàn lúc giờ,calendar,train,nhac toi luyen đan luc gio
+559,Lên lịch đọc sách lúc 9 giờ tối.,lên lịch đọc sách lúc giờ tối,calendar,train,len lich đoc sach luc gio toi
+1212,Mạng neural là gì?,mạng neural là gì,qa,test,mang neural la gi
+1025,Embedding là gì?,embedding là gì,qa,test,embedding la gi
+1454,Fine tuning nghĩa là sao?,fine tuning nghĩa là sao,qa,train,fine tuning nghia la sao
+1153,Món ăn yêu thích của tôi là phở.,món ăn yêu thích của tôi là phở,personalize,test,mon an yeu thich cua toi la pho
+1416,Mình không thích thông báo quá nhiều.,mình không thích thông báo quá nhiều,personalize,train,minh khong thich thong bao qua nhieu
+1168,Mình học ở HUST.,mình học ở hust,personalize,train,minh hoc o hust
+1022,Backend là gì?,backend là gì,qa,test,backend la gi
+310,Ghi nhớ địa chỉ trường học của tôi.,ghi nhớ địa chỉ trường học của tôi,personalize,train,ghi nho đia chi truong hoc cua toi
+1133,Hủy cái lịch mới tạo.,hủy cái lịch mới tạo,calendar,train,huy cai lich moi tao
+179,Ghi lại là tôi thích thể thao.,ghi lại là tôi thích thể thao,personalize,train,ghi lai la toi thich the thao
+1286,YouTube nhạc ngủ ngon!,youtube nhạc ngủ ngon,control_device,train,youtube nhac ngu ngon
+880,Tôi thường nghe nhạc bằng tai nghe.,tôi thường nghe nhạc bằng tai nghe,personalize,train,toi thuong nghe nhac bang tai nghe
+302,Mở IntelliJ!,mở intellij,control_device,train,mo intellij
+470,Cách đặt mục tiêu cá nhân?,cách đặt mục tiêu cá nhân,qa,validation,cach đat muc tieu ca nhan
+368,API dùng để làm gì trong lập trình?,api dùng để làm gì trong lập trình,qa,train,api dung đe lam gi trong lap trinh
+1329,Thêm lịch đi khám răng ngày mai.,thêm lịch đi khám răng ngày mai,calendar,train,them lich đi kham rang ngay mai
+1082,Edge AI là gì?,edge ai là gì,qa,train,edge ai la gi
+627,Tôi hạn chế đồ chiên rán.,tôi hạn chế đồ chiên rán,personalize,train,toi han che đo chien ran
+83,Cách duy trì động lực học tập?,cách duy trì động lực học tập,qa,train,cach duy tri đong luc hoc tap
+1187,Search Machine Learning!,search machine learning,control_device,train,search machine learning
+541,Tắt video!,tắt video,control_device,validation,tat video
+241,Tại sao cần thử những điều mới?,tại sao cần thử những điều mới,qa,train,tai sao can thu nhung đieu moi
+809,Cho tôi xem các lịch sắp tới.,cho tôi xem các lịch sắp tới,calendar,test,cho toi xem cac lich sap toi
+6,Tại sao nên học từ sai lầm?,tại sao nên học từ sai lầm,qa,train,tai sao nen hoc tu sai lam
+185,Cách giữ sức khỏe tốt?,cách giữ sức khỏe tốt,qa,train,cach giu suc khoe tot
+517,Tại sao xe bị hao xăng?,tại sao xe bị hao xăng,qa,train,tai sao xe bi hao xang
+1358,Mở Spotify phát nhạc chill!,mở spotify phát nhạc chill,control_device,train,mo spotify phat nhac chill
+190,Thêm lịch xem tin tức mỗi sáng.,thêm lịch xem tin tức mỗi sáng,calendar,train,them lich xem tin tuc moi sang
+567,Hôm nay tôi có gì không?,hôm nay tôi có gì không,calendar,train,hom nay toi co gi khong
+538,Nên gửi tiết kiệm hay đầu tư?,nên gửi tiết kiệm hay đầu tư,qa,train,nen gui tiet kiem hay đau tu
+1294,Mở instagram đi!,mở instagram đi,control_device,train,mo instagram đi
+942,Present perfect dùng khi nào?,present perfect dùng khi nào,qa,train,present perfect dung khi nao
+989,Tôi thường thức dậy lúc 6 giờ sáng.,tôi thường thức dậy lúc giờ sáng,personalize,train,toi thuong thuc day luc gio sang
+60,Hôm nay tôi có những việc gì?,hôm nay tôi có những việc gì,calendar,train,hom nay toi co nhung viec gi
+1500,Mở nhạc chill chill tí đi!,mở nhạc chill chill tí đi,control_device,train,mo nhac chill chill ti đi
+1083,OpenAI là công ty gì?,openai là công ty gì,qa,validation,openai la cong ty gi
+1238,Python phổ biến vì sao?,python phổ biến vì sao,qa,train,python pho bien vi sao
+1365,Vào Netflix luôn!,vào netflix luôn,control_device,train,vao netflix luon
+676,Tắt máy ngay!,tắt máy ngay,control_device,train,tat may ngay
+1011,Làm sao để phỏng vấn thành công?,làm sao để phỏng vấn thành công,qa,train,lam sao đe phong van thanh cong
+1505,Mình mê công nghệ lắm.,mình mê công nghệ lắm,personalize,validation,minh me cong nghe lam
+1173,Hãy nói lịch sự hơn.,hãy nói lịch sự hơn,personalize,train,hay noi lich su hon
+519,Lên lịch ôn bài vào buổi tối.,lên lịch ôn bài vào buổi tối,calendar,train,len lich on bai vao buoi toi
+351,Ngày kia có bận không?,ngày kia có bận không,calendar,test,ngay kia co ban khong
+868,Đóng ứng dụng Facebook!,đóng ứng dụng facebook,control_device,train,đong ung dung facebook
+730,Tôi muốn ngủ đủ 8 tiếng mỗi ngày.,tôi muốn ngủ đủ tiếng mỗi ngày,personalize,train,toi muon ngu đu tieng moi ngay
+1232,Mô hình AI học như thế nào?,mô hình ai học như thế nào,qa,validation,mo hinh ai hoc nhu the nao
+1464,CPU với GPU cái nào mạnh hơn?,cpu với gpu cái nào mạnh hơn,qa,train,cpu voi gpu cai nao manh hon
+1523,Nhắc tôi checkout github contribution tối nay.,nhắc tôi checkout github contribution tối nay,calendar,train,nhac toi checkout github contribution toi nay
+130,Nhiệt độ hôm nay bao nhiêu?,nhiệt độ hôm nay bao nhiêu,qa,train,nhiet đo hom nay bao nhieu
+1526,Search how to learn ai agent!,search how to learn ai agent,control_device,test,search how to learn ai agent
+256,Tuần này có họp không?,tuần này có họp không,calendar,train,tuan nay co hop khong
+1229,Streaming realtime nghĩa là gì?,streaming realtime nghĩa là gì,qa,test,streaming realtime nghia la gi
+431,Tôi học IELTS hiện tại.,tôi học ielts hiện tại,personalize,train,toi hoc ielts hien tai
+494,Tại sao cần hiểu tài chính cá nhân?,tại sao cần hiểu tài chính cá nhân,qa,validation,tai sao can hieu tai chinh ca nhan
+777,Trường học của tôi là Trường Đại học Khoa học Tự nhiên.,trường học của tôi là trường đại học khoa học tự nhiên,personalize,train,truong hoc cua toi la truong đai hoc khoa hoc tu nhien
+1532,Mình đang tập sống healthy hơn.,mình đang tập sống healthy hơn,personalize,train,minh đang tap song healthy hon
+223,Tôi hay ăn sáng lúc 7 giờ.,tôi hay ăn sáng lúc giờ,personalize,train,toi hay an sang luc gio
+935,Xem calendar!,xem calendar,control_device,train,xem calendar
+1003,Vì sao nên sử dụng phương tiện công cộng?,vì sao nên sử dụng phương tiện công cộng,qa,train,vi sao nen su dung phuong tien cong cong
+1363,Đóng hết tab Chrome đi!,đóng hết tab chrome đi,control_device,validation,đong het tab chrome đi
+1021,Deep learning là gì?,deep learning là gì,qa,train,deep learning la gi
+1181,Truy cập GitHub!,truy cập github,control_device,test,truy cap github
+952,Xóa ảnh vừa chụp!,xóa ảnh vừa chụp,control_device,train,xoa anh vua chup

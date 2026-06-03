@@ -17,9 +17,15 @@ def faq_route():
             "message": "Text is required"
         }), 400
 
-    intent = retrieve_faq(query)
+    faq_result = retrieve_faq(query)
+
+    if faq_result is None:
+        return jsonify({
+            "success": False,
+            "message": "No FAQ matched"
+        }), 404
 
     return jsonify({
         "success": True,
-        "intent": intent
+        "data": faq_result
     })

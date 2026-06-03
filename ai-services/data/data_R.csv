@@ -1,1584 +1,1564 @@
-text,label
-Nhớ là tôi tập trung tốt vào buổi tối,personalize
-Thêm lịch gọi điện lúc 8 giờ,calendar
-Tôi không thích ánh sáng mạnh,personalize
-Làm sao để ngủ nhanh hơn,qa
-Nhắc lại lịch ngày mai,calendar
-Cách luộc trứng lòng đào,qa
-Giảm độ sáng giúp tôi dễ chịu hơn,personalize
-Cách luyện nghe tiếng Anh hiệu quả,qa
-Tại sao nên duy trì động lực,qa
-Mở shopeefood,control_device
-Đóng tất cả tab,control_device
-Tại sao nên duy trì thói quen đọc sách,qa
-Tại sao cần đặt mục tiêu trong công việc,qa
-Tại sao nên học từ sai lầm,qa
-Làm sao để tăng tốc wifi,qa
-Nhắc tôi uống thuốc lúc 8 giờ sáng,calendar
-Tôi không thích ăn đồ ngọt,personalize
-Tăng âm lượng lên mức cao,control_device
-Bật chế độ tiết kiệm pin đi,control_device
-Khởi động lại điện thoại,control_device
-Nhắc tôi làm bài tập tối nay,calendar
-Cách viết CV xin việc,qa
-Tôi thích nghe nhạc lofi,personalize
-Chỉnh sửa ảnh,control_device
-Tạo lịch họp nhóm vào chiều mai,calendar
-Đóng tab hiện tại,control_device
-Tôi thích ánh sáng nhẹ,personalize
-Kiểm tra trạng thái hệ thống,control_device
-Tại sao cần lập kế hoạch mỗi ngày,qa
-Ngày mốt có việc gì không,calendar
-Tạo lịch đọc sách lúc 9 giờ tối,calendar
-Nhớ là tôi luôn bật wifi,personalize
-Vì sao việc tự học quan trọng,qa
-Chạy ứng dụng edge,control_device
-Mở đèn pin,control_device
-Vì sao nên theo dõi thu chi hàng tháng,qa
-Mở netflix,control_device
-Mở khóa màn hình,control_device
-Lịch gần nhất của tôi là gì,calendar
-Ghi lại rằng tôi thích trà sữa,personalize
-Tại sao cần kỹ năng giao tiếp,qa
-Mở ứng dụng gọi điện,control_device
-Ăn táo có tốt không,qa
-Tôi không uống cà phê buổi tối,personalize
-Thêm lịch xem youtube,calendar
-Cách quản lý thời gian hiệu quả,qa
-Tạo sự kiện họp online tối nay,calendar
-Đặt nhắc nhở học từ vựng mỗi sáng,calendar
-Mở messenger,control_device
-Làm sao để tiết kiệm điện trong nhà,qa
-Làm sao để thịt không bị dai,qa
-Tôi muốn giảm cân,personalize
-Tôi thích không gian yên tĩnh khi học,personalize
-Thêm lịch đá bóng lúc 5 giờ chiều thứ bảy,calendar
-Đổi inch sang cm như thế nào,qa
-Cách giảm căng thẳng,qa
-Tôi không thích thông báo bằng âm thanh,personalize
-Hôm nay tôi có những việc gì,calendar
-Tại sao xe điện thân thiện môi trường,qa
-Vì sao lãi kép quan trọng,qa
-Tắt camera,control_device
-Tại sao cần version control như git,qa
-Tắt máy,control_device
-API dùng để làm gì trong lập trình,qa
-Gần đây có rạp phim nào không,qa
-Địa chỉ nhà tôi là Bắc Ninh,personalize
-Mở camera,control_device
-Ghi lại thói quen dùng tai nghe của tôi,personalize
-Tiền điện tính như thế nào,qa
-Mở zalo,control_device
-Truy cập thư mục download,control_device
-Bật wifi,control_device
-Đặt lịch bảo trì xe điện,calendar
-Nhắc tôi sinh nhật mẹ,calendar
-Mở word giúp tôi,control_device
-Thẻ ATM dùng để làm gì,qa
-Tôi hay xem phim hành động,personalize
-Mở file explorer,control_device
-Tôi muốn tránh đường đông,personalize
-Lưu thói quen của tôi,personalize
-Sự khác nhau giữa hiệu quả và hiệu suất,qa
-Khởi động chrome giúp tôi,control_device
-Nấu phở bò cần những gì,qa
-Tôi không hay dùng bluetooth,personalize
-Tôi hay lập kế hoạch trước,personalize
-Vì sao cần đa dạng hóa tài chính,qa
-Tại sao cơ thể cảm thấy mệt khi thiếu ngủ,qa
-Tôi có rảnh chiều nay không,calendar
-Python dùng để làm gì,qa
-Nhớ là tôi hay dậy sớm,personalize
-Những sự kiện sắp tới là gì,calendar
-Bao nhiêu ngày trong một năm,qa
-Ghi nhớ tôi thích cà phê,personalize
-Mở chrome,control_device
-Lên lịch kiểm tra công việc mỗi ngày,calendar
-Tôi thích chơi game chiến thuật,personalize
-Nhiệt độ hôm nay bao nhiêu,qa
-Ghi lại thói quen tập gym của tôi,personalize
-Tại sao cần quỹ dự phòng,qa
-Làm sao để giảm stress,qa
-Cuối tuần tôi có lịch gì,calendar
-Tại sao cảm xúc ảnh hưởng đến quyết định,qa
-Sáng mai tôi có bận không,calendar
-Tại sao băng nổi trên mặt nước,qa
-Cho tôi xem lịch hôm nay,calendar
-Vì sao nên đi đúng làn đường,qa
-Giảm âm lượng xuống,control_device
-Xem lịch tuần sau,calendar
-Chuyển bài tiếp theo,control_device
-Nhắc tôi đi làm mỗi sáng 8h,calendar
-Ngày hôm nay có việc gì cần làm,calendar
-Tại sao cần sử dụng hệ điều hành,qa
-Khoảng cách Hà Nội Bắc Ninh là bao xa,qa
-Tối nay có lịch gì không,calendar
-Có việc gì sắp đến không,calendar
-Nhắc tôi xem thông báo lúc 9 giờ,calendar
-Mở danh bạ điện thoại,control_device
-Lịch tháng 4 của tôi ra sao,calendar
-Cách giữ nhà cửa gọn gàng,qa
-Lịch hôm nay của tôi,calendar
-Xem lịch trình của tôi,calendar
-Ngày mai tôi có kế hoạch gì,calendar
-Tôi thích nghe nhạc khi học,personalize
-Tắt chế độ máy bay,control_device
-Đặt báo thức lúc 7 giờ sáng,control_device
-Khi nào nên nghỉ ngơi trong lúc làm việc,qa
-Khi nào hôm nay tôi rảnh,calendar
-Tôi thích dùng điện thoại hơn laptop,personalize
-Đóng excel lại,control_device
-Ngày kia có cuộc họp không,calendar
-Chào bạn,qa
-Hello,qa
-Hi,qa
-Xin chào,qa
-Bạn khỏe không,qa
-Tên bạn là gì,qa
-Bạn là ai,qa
-Chào buổi sáng,qa
-Lên lịch họp ngày mai,calendar
-Cách bảo quản rau trong tủ lạnh,qa
-Bao nhiêu giây trong một phút,qa
-Tôi thích nghe nhạc khi làm việc,personalize
-Tôi thường đi làm bằng xe máy điện,personalize
-Bao nhiêu calo trong một quả táo,qa
-Nhắc tôi dọn bàn làm việc,calendar
-Tại sao cần kiểm tra xe trước khi đi xa,qa
-Làm sao để không bị trì hoãn,qa
-Nhớ là tôi đang tìm hiểu python,personalize
-Bao lâu nên tập thể dục một lần,qa
-Xem lịch cá nhân,calendar
-Ngày hôm nay bận hay rảnh,calendar
-Nhớ là tôi hay ngủ muộn,personalize
-Cách kiểm soát cảm xúc,qa
-Cách tăng năng suất làm việc,qa
-Chạy cmd,control_device
-Sáng nay có việc gì không,calendar
-Sấm sét hình thành như thế nào,qa
-Thói quen buổi sáng tốt là gì,qa
-Tuần sau có kế hoạch gì,calendar
-Hủy tất cả báo thức,control_device
-Đặt lịch học tiếng Anh,calendar
-Liệt kê lịch hôm nay,calendar
-Bật dữ liệu di động,control_device
-Hôm nay tôi bận không,calendar
-Lưu thông tin này lại,personalize
-Mở trình quản lý tác vụ,control_device
-Làm sáng màn hình hơn,control_device
-Để phòng ở mức 25 độ là hợp với tôi,personalize
-Chạy powerpoint ngay,control_device
-Làm sao để ngủ ngon,qa
-Đóng tất cả ứng dụng đang chạy,control_device
-Xem ca làm việc chiều nay,calendar
-Xem lịch tuần này,calendar
-Cuối tuần này có đi đâu không,calendar
-Thêm lịch yoga vào buổi sáng,calendar
-Lịch học tiếng anh tối nay thế nào,calendar
-Sáng nay có cuộc họp không,calendar
-Căn bậc hai của 144 bằng bao nhiêu,qa
-Hãy ghi nhớ thói quen này,personalize
-Thêm lịch tập gym buổi chiều,calendar
-Kỹ năng mềm là gì,qa
-Tôi có cuộc hẹn nào không,calendar
-Bật app đặt đồ ăn,control_device
-Tắt máy,control_device
-Tôi thích đọc tin công nghệ vào buổi sáng,personalize
-Tạo lịch đọc báo lúc 7 giờ sáng,calendar
-Ý nghĩa của đèn giao thông,qa
-Sáng mai tôi có rảnh không,calendar
-Thêm lịch học lúc 7h,calendar
-Microcontroller là gì,qa
-Cách duy trì động lực học tập,qa
-Tại sao train model cần GPU,qa
-Tạo nhắc nhở học lúc 6 giờ sáng,calendar
-Làm sao cải thiện kỹ năng listening,qa
-Ngày mai có bận không,calendar
-Dừng nhạc lại,control_device
-Hôm nay có mưa không,qa
-Mở messenger,control_device
-Mở trình duyệt web,control_device
-Làm việc nhóm có lợi ích gì,qa
-Tôi cần uống nước đều đặn mỗi 2 tiếng,personalize
-Bật chế độ không làm phiền,control_device
-Tối nay tôi có lịch gì,calendar
-Mấy giờ rồi vậy,qa
-AI là gì,qa
-Tại sao cần uống đủ nước,qa
-Có lịch nộp bài không hôm nay,calendar
-Tôi đang muốn cải thiện cân nặng,personalize
-Tại sao nên học mỗi ngày,qa
-Cách vượt qua áp lực,qa
-Mở command prompt,control_device
-Lịch tuần sau có gì,calendar
-Lên lịch họp công ty vào sáng thứ hai,calendar
-Tại sao cần giảm tốc độ khi trời mưa,qa
-Tạo lịch làm việc giao hàng tối thứ sáu,calendar
-Lợi ích của việc uống nhiều nước,qa
-Tôi thích ăn sáng nhẹ,personalize
-Nhớ là tôi không thích ồn ào,personalize
-Ghi lại là tôi thích thể thao,personalize
-Mở cài đặt wifi,control_device
-Tôi muốn tự động tắt đèn sau 12 giờ đêm,personalize
-Mở lịch lên,control_device
-Mở gmail,control_device
-Tôi không uống cà phê,personalize
-Cách giữ sức khỏe tốt,qa
-Đổi 100 USD sang VND,qa
-Kích hoạt tiết kiệm pin,control_device
-Tại sao đầu tư có rủi ro,qa
-Bao lâu nên vệ sinh máy lạnh,qa
-Thêm lịch xem tin tức mỗi sáng,calendar
-Tuần sau có việc gì quan trọng,calendar
-Mở word lên,control_device
-Hãy nhớ tôi thích học buổi sáng,personalize
-Tối nay tôi có kế hoạch gì không,calendar
-Khởi động microsoft excel,control_device
-Tạo lịch đi chơi vào cuối tuần,calendar
-Có sự kiện nào sắp diễn ra không,calendar
-Lưu thói quen uống nước mỗi 2 tiếng,personalize
-Chụp screenshot,control_device
-Tôi làm việc hiệu quả vào buổi sáng,personalize
-Hôm nay có lịch học không,calendar
-Mở album ảnh,control_device
-Ngày mai có việc gì cần làm,calendar
-Thêm lịch học guitar tối nay,calendar
-Ngày mai tôi có bao nhiêu cuộc họp,calendar
-Tại sao không nên tiêu hết tiền kiếm được,qa
-Vì sao học qua phim ảnh hiệu quả,qa
-Làm sao để tự tin hơn,qa
-Vì sao nên đặt câu hỏi khi học,qa
-Mở thùng rác,control_device
-Giảm độ sáng màn hình,control_device
-Google được thành lập khi nào,qa
-Hôm nay có deadline nào không,calendar
-Chỉ đường về nhà giúp tôi,control_device
-Thêm lịch nghe nhạc buổi tối,calendar
-Thoát zalo,control_device
-Restart máy tính,control_device
-Mở file powerpoint,control_device
-Variable là gì,qa
-Tại sao nên lập kế hoạch trước,qa
-Tôi thường đi xe máy,personalize
-Tăng âm lượng,control_device
-Tôi hay ăn sáng lúc 7 giờ,personalize
-Lên lịch nói chuyện với khách hàng,calendar
-Machine learning khác deep learning chỗ nào,qa
-Mở thư mục file,control_device
-Khóa điện thoại ngay,control_device
-Cách ghi nhớ nhanh bài học,qa
-Tắt wifi ngay,control_device
-Tuần sau tôi có lịch gì,calendar
-Thêm lịch học lập trình vào chiều nay,calendar
-Vì sao có hiện tượng thủy triều,qa
-Thêm lịch tập thể dục buổi sáng,calendar
-Vì sao việc học không nên bị gián đoạn,qa
-Tắt messenger,control_device
-Hôm nay tôi có lịch gì,calendar
-Lên lịch chơi game tối nay,calendar
-Lịch họp nhóm dự án lúc mấy giờ,calendar
-Mở ứng dụng chỉnh sửa video,control_device
-Lịch ngày 25 có gì,calendar
-Tại sao cần thử những điều mới,qa
-Khởi động lại máy,control_device
-Lịch hôm nay có gì đáng chú ý,calendar
-Tiêu chí chấm IELTS writing là gì,qa
-Làm mới màn hình desktop,control_device
-Nhắc tôi giặt quần áo tối nay,calendar
-Hôm nay có cuộc hẹn nào không,calendar
-Mở điểm phát wifi,control_device
-Gọi điện cho Đan,control_device
-Thêm lịch học online lúc 10 giờ sáng,calendar
-Xem netflix,control_device
-Cách sử dụng máy giặt đúng cách,qa
-Thêm lịch họp team vào thứ ba,calendar
-Lịch thi đấu bóng đá hôm nay,qa
-Thêm lịch đi ngân hàng ngày mai,calendar
-Tuần này có họp không,calendar
-Khởi động lại máy tính,control_device
-Tạo lịch đi ăn trưa lúc 12 giờ,calendar
-Thêm lịch kiểm tra tài chính,calendar
-Tôi hay đi ngủ lúc 11h,personalize
-Tắt nhạc đang phát,control_device
-Tối nay có trận bóng nào,qa
-Nhắc tôi làm bài tập vào tối nay,calendar
-Thêm lịch gọi điện buổi sáng,calendar
-Chiều nay tôi rảnh lúc nào,calendar
-Refresh màn hình,control_device
-Nhắn tin cho Chu,control_device
-Tại sao ăn quá nhiều đường lại gây hại,qa
-Thêm lịch tập thể dục sáng mai,calendar
-Tại sao việc thực hành quan trọng hơn lý thuyết,qa
-Ngày mai có gì không,calendar
-Thêm sinh nhật mẹ ngày 30 tháng 7,calendar
-IELTS có mấy phần thi,qa
-Nhớ là tôi hay thức khuya,personalize
-Tôi thích làm việc có kế hoạch,personalize
-Tại sao nên ghi chú khi học,qa
-Sao chép file,control_device
-Làm sao để tạo thói quen tốt,qa
-Tháng này có sự kiện nào không,calendar
-Tạo nhắc nhở nộp bài atmega128,calendar
-Biến trong lập trình là gì vậy,qa
-Cách nấu phở bò ngon như thế nào,qa
-Tạo lịch họp lúc 9h sáng,calendar
-Nhắc tôi đi học lúc 6h,calendar
-Tăng âm lượng thêm một chút,control_device
-Tôi thích thời tiết dễ chịu,personalize
-Xem lịch tuần sau giúp tôi,calendar
-Trí tuệ nhân tạo là gì vậy,qa
-Sự khác nhau giữa tiết kiệm và đầu tư,qa
-Dọn dẹp bộ nhớ máy,control_device
-Tôi muốn sống lành mạnh hơn,personalize
-Tôi quan tâm đến thị trường chứng khoán,personalize
-Nhắc tôi tham gia cuộc họp lúc 3 giờ chiều,calendar
-Next bài hát,control_device
-Cách tiết kiệm tiền hiệu quả,qa
-Vitamin C có tác dụng gì,qa
-Sự khác nhau giữa HTTP và HTTPS là gì,qa
-Hạ độ sáng màn hình,control_device
-Mấy giờ học vi điều khiển,calendar
-Thêm lịch làm việc buổi sáng,calendar
-Ngày mai có lịch thi không,calendar
-Mở Intelij,control_device
-Lưu lại sở thích của tôi,personalize
-Tôi hay dùng điện thoại buổi tối,personalize
-Khi nào đến lịch bảo dưỡng xe,calendar
-Mở ứng dụng email,control_device
-Bật đèn pin lên,control_device
-Tôi thích làm việc vào buổi sáng,personalize
-Lịch tháng này ra sao,calendar
-Ghi nhớ địa chỉ trường học của tôi,personalize
-Cho tôi đặt lịch họp vào ngày mai,calendar
-Bộ nhớ RAM dùng để làm gì,qa
-Nhớ là tôi thường nghe nhạc lúc làm việc,personalize
-Tôi không ăn đồ dầu mỡ,personalize
-Tối nay có kế hoạch gì,calendar
-Chụp màn hình giúp tôi,control_device
-Mở phần cài đặt hệ thống,control_device
-Cho tôi xem lịch ngày mai,calendar
-Cách thanh toán online an toàn,qa
-Xem có bản update không,control_device
-Lịch ngày mai như thế nào,calendar
-Nhắc tôi liên hệ đối tác chiều mai,calendar
-Tạo lịch cập nhật tin tức,calendar
-Tại sao thiền giúp giảm căng thẳng,qa
-Tạo lịch gọi điện cho gia đình tối chủ nhật,calendar
-Tại sao giao thông cần luật lệ,qa
-Tôi ăn nhạt,personalize
-Mở chrome,control_device
-Thêm lịch nấu ăn lúc 6 giờ chiều,calendar
-Cho tôi xem các sự kiện sắp tới,calendar
-Tôi rất thích đồ ăn cay,personalize
-Tôi không thích video quá dài,personalize
-Cách rã đông thực phẩm nhanh,qa
-Tại sao điện thoại nhanh hết pin,qa
-Tôi rất thích bánh ngọt,personalize
-Mở lịch cho tôi xem,calendar
-Tạo nhắc ngủ sớm lúc 11h,calendar
-Cách tính tiền nước hàng tháng,qa
-Tắt wifi,control_device
-Chuyển bài tiếp theo,control_device
-Nhắc tôi đi mua sắm vào chiều nay,calendar
-Khởi động jupyter notebook,control_device
-Kỹ năng giao tiếp quan trọng ra sao,qa
-Tối nay có lịch học tiếng anh không,calendar
-Tại sao cần tập thể dục,qa
-Mở file explorer,control_device
-Nấu mì gói cần bao nhiêu nước,qa
-Trong ngày hôm nay tôi rảnh lúc nào,calendar
-Chấm writing IELTS dựa trên gì,qa
-Tôi hay xem phim ban đêm,personalize
-Ngày kia có bận không,calendar
-Tạo lịch gọi điện vào ngày mai,calendar
-Lên lịch kiểm tra hệ thống,calendar
-Sự khác nhau giữa frontend và backend,qa
-Nhớ là tôi dị ứng đậu phộng nhé,personalize
-Thêm lịch học toán lúc 7 giờ tối,calendar
-Mùa hè ngày dài hơn đêm vì sao,qa
-Thêm lịch check mail buổi sáng,calendar
-Nhắc tôi đi ngủ lúc 11 giờ đêm,calendar
-Nhắc tôi gọi về nhà vào chủ nhật,calendar
-Bật trình duyệt chrome,control_device
-Nhắc tôi đi làm ca tối thứ sáu,calendar
-Mở excel lên,control_device
-Tuần này có deadline nào không,calendar
-Mở nhạc balad trên youtube,control_device
-Cách giải ax^2 + bx + c = 0,qa
-100 đô bằng bao nhiêu tiền Việt,qa
-Từ Hà Nội đến Bắc Ninh bao nhiêu km,qa
-Tôi hay chơi game chiến thuật,personalize
-Ngày mai có bận không,calendar
-Cuối tuần có kế hoạch gì,calendar
-Tôi thường dùng laptop vào buổi tối,personalize
-Nhắc tôi đi ngủ lúc 11 giờ tối,calendar
-Vi điều khiển là gì vậy,qa
-Vì sao có hiện tượng nhật thực,qa
-Thời gian nào hôm nay tôi trống,calendar
-Tôi thích video ngắn thôi,personalize
-Đỉnh núi cao nhất Việt Nam tên gì,qa
-Chiều thứ sáu có lịch gì không,calendar
-Đi xe tiết kiệm xăng như thế nào,qa
-Tắt ứng dụng chrome,control_device
-Chiều nay tôi có lịch gì,calendar
-Thế nào là kỹ năng mềm,qa
-Bật ghi âm,control_device
-Nước nào rộng nhất thế giới,qa
-Mở file word gần nhất,control_device
-Tôi học tốt hơn vào buổi tối,personalize
-Sáng thứ hai tôi có họp không,calendar
-Tôi thích làm việc một mình,personalize
-Tôi học ielts hiện tại,personalize
-Xem lịch làm việc hôm nay,calendar
-Lưu lại địa điểm trường học,personalize
-Bắc Ninh có món gì nổi tiếng,qa
-Tôi thích theo dõi tin tức chứng khoán,personalize
-Mở ứng dụng học tập,control_device
-Giúp tôi thêm lịch học lúc 7h tối,calendar
-Vì sao xe tiêu hao nhiên liệu khác nhau,qa
-Tôi không ăn quá mặn,personalize
-Bỏ chế độ máy bay,control_device
-Bật wifi lên,control_device
-Cuối tuần này có việc gì không,calendar
-Mở file pdf,control_device
-Nhắc tôi đi ngủ sớm tối nay,calendar
-Tại sao điều hòa không mát,qa
-Tôi thích xem phim vào buổi tối,personalize
-Tôi thích không gian mát mẻ,personalize
-Thêm lịch học lúc 6 giờ sáng mai,calendar
-Tôi thích làm việc theo deadline rõ ràng,personalize
-Tắt bluetooth,control_device
-Chạy powerpoint,control_device
-đặt lịch học ngày mai 6 giờ,calendar
-hủy lịch mai,calendar
-hủy lịch ngày mai,calendar
-thêm lịch mai dậy,calendar
-đặt lịch mai,calendar
-Thêm lịch ăn sáng lúc 7 giờ,calendar
-Sáng nay có lịch học không,calendar
-Thời tiết hôm nay thế nào,qa
-Tắt youtube,control_device
-Cách sống tích cực hơn mỗi ngày,qa
-Tạm dừng nhạc lại,control_device
-Xem recycle bin,control_device
-Dán file vào thư mục,control_device
-Tính diện tích hình tròn như thế nào,qa
-Tôi không thích uống nước lạnh,personalize
-Kiểm tra cập nhật hệ thống đi,control_device
-Tuần sau có lịch học không,calendar
-Lịch hôm nay của tôi ra sao,calendar
-Cách đặt mục tiêu cá nhân,qa
-Đọc tin nhắn gần đây,control_device
-Vì sao luyện nghe quan trọng trong học tiếng Anh,qa
-Tại sao nên thiền,qa
-Mặt trăng có ánh sáng không,qa
-Tôi hay đi bộ vào cuối tuần,personalize
-Tắt word đi,control_device
-Tại sao có gió,qa
-Bây giờ là mấy giờ,qa
-Nhắc tôi kiểm tra tài khoản,calendar
-Lên lịch rửa xe vào sáng mai,calendar
-Mở ứng dụng ghi chú,control_device
-Mở youtube,control_device
-Tôi thích nghe nhạc,personalize
-Khóa màn hình ngay,control_device
-Tôi rảnh lúc nào trong tháng này,calendar
-Nhắc tôi học bài vào 8 giờ tối nay,calendar
-Tháng này có kế hoạch gì,calendar
-Tôi hay học vào ban đêm,personalize
-Tôi ghét thời tiết nóng,personalize
-Mặt trời thường mọc hướng nào,qa
-Thêm lịch ôn thi vào buổi tối,calendar
-Tạo lịch họp nhóm dự án lúc 10 giờ sáng mai,calendar
-Cầu vàng ở đâu,qa
-Tại sao cần hiểu tài chính cá nhân,qa
-Tại sao nên bảo dưỡng xe định kỳ,qa
-Sáng nay tôi có lịch gì,calendar
-Sự kiện tiếp theo là gì,calendar
-Bật microsoft word,control_device
-Tôi thích nhiệt độ phòng khoảng 25 độ,personalize
-Tôi thường nghe podcast trước khi ngủ,personalize
-Làm sao để cân bằng công việc và cuộc sống,qa
-Tôi có kế hoạch gì sắp tới không,calendar
-Ngày kia có việc gì không,calendar
-Giải phương trình bậc hai như thế nào,qa
-Tại sao cần luyện phát âm,qa
-Tôi thường đọc sách trước khi ngủ,personalize
-Mở Pycharm,control_device
-Chiều nay có cuộc họp không,calendar
-Tại sao bầu trời có màu xanh,qa
-Hôm nay có lịch gì,calendar
-Chiều nay tôi có ca shopeefood không,calendar
-Xem thông tin hệ thống,control_device
-Lịch tuần này như thế nào,calendar
-Tạo lịch dọn dẹp nhà cửa,calendar
-Tôi nghe podcast mỗi tối,personalize
-Mở spotify phát nhạc,control_device
-Tại sao xe bị hao xăng,qa
-Tôi ưu tiên đường nhanh,personalize
-Lên lịch ôn bài vào buổi tối,calendar
-Sự khác biệt giữa CPU và GPU,qa
-Tháng này có lịch học không,calendar
-Ngày mai có kế hoạch gì,calendar
-Thêm lịch luyện speaking ielts lúc 8 giờ tối mỗi ngày,calendar
-Bật chế độ im lặng,control_device
-Chụp ảnh ngay bây giờ,control_device
-Rạp chiếu phim gần đây ở đâu,qa
-Thêm lịch đi làm lúc 8 giờ sáng,calendar
-Ăn sáng có quan trọng không,qa
-Nhớ nhắc tôi học bài lúc 8h,calendar
-Tuần này tôi có lịch gì,calendar
-Ghi lại là tôi không uống được đá lạnh,personalize
-Nhắc tôi nghỉ ngơi lúc 10 giờ tối,calendar
-Lên lịch trao đổi công việc vào chiều thứ sáu,calendar
-Thêm lịch meeting vào ngày mai,calendar
-Tôi có thói quen uống cà phê buổi sáng,personalize
-Cuối tuần có bận không,calendar
-Khi nào nên rửa xe,qa
-Nên gửi tiết kiệm hay đầu tư,qa
-Tăng độ sáng màn hình lên,control_device
-Có lịch gì sắp tới không,calendar
-Tắt video,control_device
-Đặt lịch học nhóm vào chiều mai,calendar
-Tôi thích uống trà,personalize
-Nhắc tôi ôn từ vựng tiếng anh hàng ngày,calendar
-Ưu tiên đường không bị tắc,personalize
-Ghi lại giúp tôi,personalize
-Tạo lịch làm đề reading vào sáng chủ nhật,calendar
-Tại sao bầu trời chuyển màu vào lúc hoàng hôn,qa
-Khi nào nên dùng GPU thay vì CPU,qa
-Lịch của tôi hiện tại thế nào,calendar
-Tôi thích đi đường ngắn nhất,personalize
-Tại sao uống nhiều nước lại tốt cho da,qa
-Vì sao nên đọc sách tiếng Anh,qa
-Giảm âm lượng xuống thấp,control_device
-Học online hiệu quả như thế nào,qa
-Tôi ít khi dùng bluetooth,personalize
-Tắt màn hình,control_device
-Sáng nay tôi có bận gì không,calendar
-Lên lịch đọc sách lúc 9 giờ tối,calendar
-Lịch sắp tới của tôi là gì,calendar
-Tôi có khoảng trống nào không,calendar
-Vì sao giấc ngủ ảnh hưởng đến tâm trạng,qa
-Tại sao lá cây có màu xanh,qa
-Tạo nhắc nhở đi chạy bộ lúc 6 giờ,calendar
-Xem lịch giúp tôi,calendar
-Khi nào hôm nay tôi trống,calendar
-Hôm nay tôi có gì không,calendar
-Mở ứng dụng ghi chú nhanh,control_device
-Ngày mai có kiểm tra gì không,calendar
-Sáng nay tôi có rảnh không,calendar
-Ngày mai tôi có lịch gì không,calendar
-Lịch ngày mai có gì,calendar
-Tôi hay xem tin công nghệ mỗi sáng,personalize
-Vì sao nước sôi ở 100 độ C,qa
-Tháng này có deadline nào,calendar
-Chiều nay tôi có bận không,calendar
-Big Data là gì,qa
-Nhắc tôi kiểm tra deadline,calendar
-Giá vàng hiện tại là bao nhiêu,qa
-Phát playlist yêu thích,control_device
-Nhắc tôi họp zoom lúc 8 giờ tối,calendar
-Vì sao cần kiên trì khi học,qa
-Uống cà phê nhiều có tốt không,qa
-Cầu vồng xuất hiện khi nào,qa
-Đặt lịch giúp tôi tối nay,calendar
-Cách duy trì lối sống lành mạnh,qa
-Sông dài nhất thế giới là sông nào,qa
-Bao nhiêu phút là 1 giờ,qa
-Mã OTP là gì,qa
-Ngày kia có lịch học không,calendar
-Ai là tổng thống Mỹ,qa
-Tôi học đại học khoa học tự nhiên,personalize
-Phân biệt ML và DL,qa
-Mở thư viện ảnh,control_device
-Cuối tuần có kế hoạch gì không,calendar
-Tắt thông báo,control_device
-Nhắc tôi luyện đàn lúc 8 giờ,calendar
-ChatGPT hoạt động như thế nào,qa
-Tôi có bao nhiêu lịch hôm nay,calendar
-Tuần này có lịch học không,calendar
-Gọi điện cho số gần nhất,control_device
-Tạo lịch họp với khách hàng vào chiều mai,calendar
-Tại sao cần nghỉ ngơi,qa
-Khi nào tôi không có lịch,calendar
-Tôi không thích trời quá nóng,personalize
-Gọi cho mẹ,control_device
-Vì sao con người cần giao tiếp xã hội,qa
-Mở nhạc trên youtube,control_device
-Phát nhạc tiếp,control_device
-Thêm lịch theo dõi công việc,calendar
-Tôi thường tập gym lúc 2 giờ chiều,personalize
-Mở netflix xem phim,control_device
-Nhắc tôi đóng học phí,calendar
-Tôi không thích tiếng ồn,personalize
-Giấy phép lái xe cần những gì,qa
-Ngày kia có lịch gì không,calendar
-Thêm lịch dọn phòng vào chiều nay,calendar
-Xem lịch tháng này,calendar
-Cách dùng thì hiện tại hoàn thành,qa
-Mở jupyter,control_device
-Tuần sau có bận không,calendar
-RAM ảnh hưởng thế nào đến hiệu năng máy tính,qa
-Chiều nay có khoảng trống nào không,calendar
-Tôi thích làm việc trong yên tĩnh,personalize
-Mở google maps,control_device
-Tôi có mấy cuộc họp ngày mai,calendar
-Tôi hạn chế đồ chiên rán,personalize
-Ăn nhiều đường có hại không,qa
-Tôi không thích kẹt xe,personalize
-Sáng thứ bảy tôi có trống lịch không,calendar
-Cuộc hẹn tiếp theo khi nào,calendar
-Ngủ bao nhiêu tiếng là đủ mỗi ngày,qa
-Vì sao nên duy trì thói quen tốt,qa
-Lên lịch trả tiền nhà,calendar
-Tôi thích nhận thông báo dạng văn bản,personalize
-Công thức tính diện tích hình tròn là gì,qa
-Giảm độ sáng màn hình,control_device
-Vì sao âm thanh truyền được trong không khí,qa
-Tăng độ sáng màn hình,control_device
-Xem video trên youtube,control_device
-Nhắc tôi uống thuốc tối nay,calendar
-Làm sao để không thức khuya,qa
-Tạo lịch gọi zoom vào tối nay,calendar
-Lên lịch đi siêu thị chiều nay,calendar
-Tôi là fan của nhạc lofi,personalize
-Tắt chế độ máy bay giúp tôi,control_device
-Trong tháng 4 tôi có những lịch nào,calendar
-1 cộng 1 bằng mấy,qa
-Hôm nay tôi có lịch gì quan trọng không,calendar
-Mở task manager,control_device
-Dân số Hà Nội bao nhiêu,qa
-√144 là bao nhiêu,qa
-Kết thúc tiến trình,control_device
-Tôi thích sống tối giản,personalize
-Chiều tôi hay bị mất tập trung,personalize
-Hôm nay ngày mấy âm lịch,qa
-Mở terminal giúp tôi,control_device
-Bật calculator,control_device
-Thêm lịch đi khám định kỳ,calendar
-Lịch trong vài ngày tới như thế nào,calendar
-Tuần sau có họp không,calendar
-Cách học ngoại ngữ hiệu quả,qa
-Lịch học ielts hôm nay lúc mấy giờ,calendar
-Lên lịch đi học lúc 7 giờ,calendar
-Ngày kia tôi có lịch gì,calendar
-Thế nào là lối sống lành mạnh,qa
-Đóng notepad,control_device
-Lên lịch kiểm tra sức khỏe tháng sau,calendar
-Kích hoạt chế độ im lặng,control_device
-Vì sao tập thể dục buổi sáng hiệu quả hơn,qa
-Tại sao cần ngủ đủ giấc,qa
-Họp nhóm dự án diễn ra khi nào,calendar
-Nhớ là tôi thích học online,personalize
-Tắt nguồn điện thoại,control_device
-Tôi có rảnh tối nay không,calendar
-Tắt máy ngay,control_device
-Previous bài,control_device
-Vì sao nên ăn sáng đầy đủ,qa
-Lên lịch cafe vào chiều mai,calendar
-Vì sao con người dễ bị áp lực,qa
-Lên lịch học thêm vào tối nay,calendar
-Tạo lịch khám bệnh vào thứ năm,calendar
-Cách pha cà phê phin ngon,qa
-Tôi thích làm việc buổi tối,personalize
-Tại sao multitasking không hiệu quả,qa
-Vì sao cần luyện nói thường xuyên,qa
-Tại sao cần uống đủ nước mỗi ngày,qa
-Tại sao ánh sáng xanh ảnh hưởng đến giấc ngủ,qa
-Vì sao cần thực hành thường xuyên,qa
-Tôi thích đi xe máy hơn ô tô,personalize
-Tại sao cần nghỉ ngơi hợp lý,qa
-Tạo nhắc nhở uống nước đều đặn,calendar
-Tôi có rảnh cuối tuần không,calendar
-Cấu trúc bài thi IELTS gồm những gì,qa
-Đóng Pycharm lại,control_device
-Tắt tất cả ứng dụng,control_device
-Tạo lịch lau nhà cuối tuần,calendar
-Tuần sau có kế hoạch gì không,calendar
-Đổi sang chế độ tối,control_device
-Nhắc tôi đi họp lúc 10 giờ,calendar
-Tôi tránh uống cà phê buổi tối,personalize
-Từ sustainable nghĩa là gì,qa
-Tôi đang xây dựng lối sống healthy,personalize
-Mở ứng dụng thời tiết,control_device
-Tạo lịch sạc pin xe lúc 11 giờ đêm,calendar
-Mở control panel,control_device
-Tôi cần ngủ đủ giấc,personalize
-Vì sao cần giữ khoảng cách an toàn,qa
-Chụp ảnh,control_device
-Lịch trình ngày mai ra sao,calendar
-Tại sao nên tập thể dục buổi sáng,qa
-Tôi thích không gian mát mẻ,personalize
-Mở danh bạ,control_device
-Tôi hay ngủ trưa khoảng 30 phút,personalize
-Tắt đèn pin đi,control_device
-Tiếp tục phát nhạc,control_device
-Tôi đang cố gắng tập thể dục đều,personalize
-Ngày kia tôi có lịch gì không,calendar
-Tại sao trời có mưa,qa
-Tắt ứng dụng đang chạy,control_device
-Ổ cứng SSD khác gì HDD,qa
-Tạo lịch giải trí cuối tuần,calendar
-Tại sao con người cần ngủ mỗi ngày,qa
-Tháng này tôi có lịch gì,calendar
-Thêm giúp tôi một nhắc nhở lúc 6h,calendar
-Ngày mai có việc gì cần làm,calendar
-Khởi động google chrome,control_device
-Mở google,control_device
-Mở google chrome,control_device
-Tôi muốn ngủ đủ 8 tiếng mỗi ngày,personalize
-Nhắc tôi họp lúc 3h chiều,calendar
-Tôi có rảnh tuần sau không,calendar
-Bật lại âm thanh,control_device
-Lịch tuần sau ra sao,calendar
-Tăng âm lượng lên,control_device
-Cầu vàng thuộc tỉnh nào,qa
-Thêm lịch xem phim tối nay,calendar
-Tôi có rảnh tối nay không,calendar
-Tắt bluetooth giúp tôi,control_device
-Mở ứng dụng gallery,control_device
-Lịch làm việc tuần này thế nào,calendar
-Nhắc tôi bảo dưỡng xe vào cuối tháng,calendar
-Tôi hay uống trà,personalize
-Mở task manager,control_device
-Cách dậy sớm hiệu quả,qa
-Cách cải thiện tâm trạng khi buồn,qa
-Thêm lịch đi ăn tối lúc 7 giờ,calendar
-Đóng file hiện tại,control_device
-Mở facebook,control_device
-Tắt trình duyệt,control_device
-Nhắc tôi xem phim vào tối nay,calendar
-Tạo lịch ăn tối lúc 7 giờ,calendar
-Cách kéo dài tuổi thọ pin điện thoại,qa
-Ngôn ngữ python có tác dụng gì,qa
-Tôi muốn tăng cân,personalize
-Cuối tuần tôi thường đi bộ,personalize
-Tôi thường order đồ ăn online,personalize
-Tôi muốn tập thể dục mỗi ngày,personalize
-Nhắc tôi họp nhóm vào sáng mai,calendar
-Lên lịch thanh toán tiền nước,calendar
-Lên lịch họp online ngày mai,calendar
-Tại sao cần học ngoại ngữ,qa
-Có lịch nào sắp diễn ra không,calendar
-Tạo lịch video call lúc 9 giờ tối,calendar
-Lưu giờ ăn sáng của tôi,personalize
-Bật lại thông báo,control_device
-Lịch tháng này của tôi ra sao,calendar
-Tôi thường đi ngủ sau 12 giờ,personalize
-Thêm lịch gọi điện cho mẹ tối nay,calendar
-Sáng thứ bảy có rảnh không,calendar
-Mở ứng dụng camera,control_device
-Cách học nhanh hơn là gì,qa
-Cách kiểm tra xe trước khi đi xa,qa
-Lên lịch khám sức khỏe ngày 15 tháng sau,calendar
-Cuối tuần này có bận không,calendar
-Lịch ngày 30/3 thế nào,calendar
-Trường học của tôi là trường đại học khoa học tự nhiên,personalize
-Thêm lịch giùm tôi,calendar
-Sáng mai tôi có việc gì không,calendar
-Vì sao cần đội mũ bảo hiểm,qa
-Đổi tên file,control_device
-Tắt âm thanh,control_device
-Tôi hay bật wifi cả ngày,personalize
-Khởi động lại thiết bị,control_device
-Tại sao nước biển mặn,qa
-Tôi có lịch gì chiều nay,calendar
-Tắt flashlight,control_device
-Buổi sáng tôi làm việc tốt nhất,personalize
-Thêm lịch chuyển tiền vào sáng mai,calendar
-Cloud computing hoạt động như thế nào,qa
-Tôi thích đi đường ít kẹt xe,personalize
-Nhớ điều này cho tôi,personalize
-Tắt tất cả ứng dụng office,control_device
-Tôi cần deadline cụ thể để làm việc,personalize
-Nhắc tôi gọi cho bạn vào ngày mai,calendar
-Khởi động terminal,control_device
-Sông nào dài nhất trên thế giới vậy,qa
-Đăng xuất tài khoản,control_device
-Thoát word,control_device
-Mở thư mục desktop,control_device
-Nhắc tôi uống nước mỗi 2 tiếng,calendar
-Ghi nhớ lịch trình của tôi,personalize
-Lãi suất ngân hàng là gì,qa
-Nhà tôi ở Bắc Ninh,personalize
-Thêm lịch thi ngày mai,calendar
-Vì sao cơ thể cần protein để phát triển,qa
-Tôi thích học vào buổi tối,personalize
-Nhắc tôi kiểm tra email sau 1 giờ,calendar
-Cho tôi xem các lịch sắp tới,calendar
-Tại sao nên học từ vựng theo ngữ cảnh,qa
-Làm sao để lái xe an toàn,qa
-Sustainable là gì vậy,qa
-Thêm ca chạy đơn buổi trưa,calendar
-Ngày 30 tháng 3 tôi có lịch gì,calendar
-Khi nào cần thay lốp xe,qa
-Tắt màn hình ngay,control_device
-Dữ liệu lớn nghĩa là gì,qa
-Tôi không thích làm việc nhóm,personalize
-Tuần sau tôi có lịch gì,calendar
-Tôi dễ mất tập trung vào buổi chiều,personalize
-Tạo lịch đi dạo vào buổi tối,calendar
-Tại sao ngủ đủ giấc lại giúp tăng trí nhớ,qa
-Vì sao cần ôn tập thường xuyên,qa
-Cuối tuần này lịch trình thế nào,calendar
-Vì sao tập thể dục giúp giảm stress,qa
-Chuyển sang ứng dụng khác,control_device
-Lên lịch luyện đề vào cuối tuần,calendar
-Ghi lại thói quen ngủ trưa của tôi,personalize
-Tôi đang học lập trình python,personalize
-Cách ChatGPT trả lời câu hỏi,qa
-Chạy ứng dụng camera trước,control_device
-Mở ứng dụng gọi video,control_device
-Bật dark mode là phù hợp với tôi,personalize
-Diện tích Việt Nam là bao nhiêu,qa
-Lên lịch sửa đồ vào cuối tuần,calendar
-Bật lại nhạc,control_device
-Lên lịch chạy shopeefood từ 11h đến 14h,calendar
-Nhắc tôi đi chợ sáng mai,calendar
-Nước chiếm bao nhiêu phần trăm cơ thể,qa
-Nhớ tắt đèn sau nửa đêm,personalize
-Tại sao cần ăn rau,qa
-Tạo lịch chi tiêu hàng tháng,calendar
-Thói quen nào giúp tăng năng suất làm việc,qa
-Tạo lịch nghỉ ngơi cuối tuần,calendar
-Ngày mai có cuộc họp không,calendar
-Lập lịch đi chơi vào cuối tuần,calendar
-Hãy nhớ tôi hay đặt đồ ăn qua shopeefood,personalize
-Tạo lịch đóng tiền điện cuối tháng,calendar
-Ghi lại thông tin cá nhân của tôi,personalize
-Làm sao để chiên trứng không dính chảo,qa
-Nhắc tôi làm bài reading ielts chủ nhật,calendar
-Đóng chrome,control_device
-Nhớ là tôi hay dùng máy tính buổi tối,personalize
-Tôi thích xem phim hành động,personalize
-Tôi không ăn được đậu phộng,personalize
-Ghi lại là tôi hay đi bộ buổi sáng,personalize
-Đóng hết cửa sổ đang mở,control_device
-Nhắc tôi thanh toán hóa đơn tối nay,calendar
-Chuyển người dùng,control_device
-Tôi thường uống trà buổi tối,personalize
-Hôm nay có gì cần làm không,calendar
-Tạo lịch học vẽ vào cuối tuần,calendar
-Mở máy tính,control_device
-Mở chế độ máy bay,control_device
-Tại sao procrastination xảy ra,qa
-Quốc gia nào có diện tích lớn nhất,qa
-Nhắc tôi đi đá bóng cuối tuần,calendar
-Đóng ứng dụng facebook,control_device
-Tôi làm việc hiệu quả nhất vào ban đêm,personalize
-Ăn chuối có lợi gì cho sức khỏe,qa
-Tôi thích không gian yên tĩnh,personalize
-Lên lịch gặp bạn vào ngày mai,calendar
-Vì sao kim loại dẫn điện tốt,qa
-Chiều nay có việc gì không,calendar
-Tôi đang học tiếng anh để thi ielts,personalize
-Tìm đường về nhà,control_device
-Xe máy nên thay dầu bao lâu một lần,qa
-Khi nào tôi không có lịch,calendar
-Cách tăng chiều cao tự nhiên,qa
-Tôi thường nghe nhạc bằng tai nghe,personalize
-Hôm nay có phải nộp bài python không,calendar
-Tạo một sự kiện mới vào ngày mai,calendar
-Khi nào đến giờ học ielts,calendar
-Tại sao cần bảo mật tài khoản,qa
-Tiếp tục phát bài hát,control_device
-Tiếp tục video,control_device
-Thêm lịch mua đồ gia dụng,calendar
-Bật bluetooth,control_device
-Tôi thích dùng chế độ tối khi làm việc,personalize
-Giá vàng hôm nay bao nhiêu tiền,qa
-Tìm kiếm file trên máy,control_device
-Tắt dữ liệu mạng,control_device
-Nhắc tôi đi ăn với bạn vào tối nay,calendar
-Đặt lịch họp vào 14 giờ,calendar
-Tôi không thích ồn ào,personalize
-Nhắc tôi sạc xe tối nay,calendar
-Tại sao cần cân bằng công việc và cuộc sống,qa
-Nhắc tôi đi siêu thị lúc 6 giờ chiều,calendar
-Tắt trình duyệt hiện tại,control_device
-Nhắc tôi họp lúc 9 giờ sáng mai,calendar
-Cách tránh lừa đảo trên mạng,qa
-Tôi bị dị ứng với đậu phộng,personalize
-Nhắc tôi gọi điện vào cuối tuần,calendar
-Mở spotify,control_device
-Nhắc tôi nộp báo cáo vi điều khiển vào thứ hai,calendar
-Uống đủ nước có tác dụng gì,qa
-Lịch tháng này có gì đáng chú ý,calendar
-Vì sao con người cần nghỉ ngơi,qa
-Chạy spotify,control_device
-Mở notepad,control_device
-Tại sao trọng lực giữ chúng ta trên mặt đất,qa
-Tôi đang trong chế độ giảm cân,personalize
-Ngày mai có phải đi làm không,calendar
-Bạn nhớ giúp tôi nhé,personalize
-Trong tuần này tôi rảnh lúc nào,calendar
-Lưu cài đặt âm thanh vòm cho tai nghe,personalize
-Thứ hai tới có lịch gì không,calendar
-Mở zalo,control_device
-Lên lịch luyện nói ielts vào buổi tối,calendar
-Nhớ giúp tôi những điều này,personalize
-Đặc sản Bắc Ninh là gì nhỉ,qa
-GPU dùng để làm gì trong AI,qa
-Tuần này có việc gì quan trọng không,calendar
-Tôi đi xe điện mỗi ngày,personalize
-Giảm độ sáng xuống chút,control_device
-Tại sao cơ thể cần vitamin D,qa
-Sáng nay tôi có bận không,calendar
-Khi nào nên bắt đầu đầu tư,qa
-Cho tôi biết lúc nào tôi rảnh,calendar
-Tại sao học ngữ pháp quan trọng,qa
-Âm lịch hôm nay là ngày bao nhiêu,qa
-Nhiệt độ ảnh hưởng đến con người ra sao,qa
-Nhắc tôi kiểm tra email sáng mai,calendar
-Tại sao nên đọc sách,qa
-Xem calendar,control_device
-Kết thúc cuộc gọi,control_device
-Phát wifi từ điện thoại,control_device
-Tại sao nhiệt độ ảnh hưởng đến vật chất,qa
-Lưu sở thích của tôi,personalize
-Lên lịch tập gym chiều nay,calendar
-Nhắc tôi uống nước mỗi 2 giờ,calendar
-Present perfect dùng khi nào,qa
-Tôi có rảnh ngày mai không,calendar
-Tôi thường làm việc theo kế hoạch,personalize
-Tạo nhắc nhở uống thuốc,calendar
-Tuần này có bận không,calendar
-Cách bảo dưỡng xe định kỳ,qa
-Số pi bằng bao nhiêu vậy,qa
-Thêm sự kiện đi chơi tối nay,calendar
-Thủ đô của Nhật là gì,qa
-Truy cập facebook,control_device
-Xóa ảnh vừa chụp,control_device
-Tôi ưu tiên dùng điện thoại,personalize
-Tôi thích ăn đồ ngọt,personalize
-Làm sao để tập trung tốt hơn,qa
-Tạm dừng bài hát,control_device
-Thêm lịch đi du lịch cuối tháng,calendar
-Cách kiểm tra tốc độ mạng,qa
-Cách giảm cân an toàn là gì,qa
-Đóng ứng dụng zalo,control_device
-Tôi có rảnh hôm nay không,calendar
-Thêm lịch gặp bạn lúc 8h,calendar
-Tôi thích ăn đồ cay,personalize
-Tôi cần yên tĩnh để tập trung,personalize
-Buổi thực hành vi điều khiển bắt đầu lúc mấy giờ,calendar
-Tại sao HTTPS an toàn hơn HTTP,qa
-Tắt tiếng đi,control_device
-Nấu cơm bằng nồi điện mất bao lâu,qa
-Tháng này có bận không,calendar
-Quay video,control_device
-Tắt âm thanh hệ thống,control_device
-Khởi động excel,control_device
-Thêm lịch xem phim tối nay,calendar
-1 inch bằng bao nhiêu cm vậy,qa
-Vào phần settings,control_device
-Tuần này có lịch học không,calendar
-Khởi động bản đồ,control_device
-Thời gian nướng thịt bao lâu là chín,qa
-Khóa thiết bị,control_device
-Ngày mai có lịch học không,calendar
-Núi cao nhất ở Việt Nam là gì,qa
-Có cuộc họp nào hôm nay không,calendar
-Dừng video lại,control_device
-Nhớ là tôi hay đi tập gym buổi chiều,personalize
-Lịch bảo dưỡng xe là khi nào,calendar
-Cho tôi xem lịch ngày mai,calendar
-Chạy notepad,control_device
-Tôi uống cà phê mỗi sáng,personalize
-Tôi thường thức dậy lúc 6 giờ sáng,personalize
-Tôi không thích màn hình quá sáng,personalize
-Khởi động phần mềm soạn thảo,control_device
-Kích hoạt bluetooth,control_device
-Mặt trời mọc ở hướng nào vậy,qa
-Tắt hết báo thức,control_device
-Cho tôi xem lịch hôm nay,calendar
-Tôi thích bật âm thanh vòm,personalize
-Mở youtube trên trình duyệt,control_device
-Lên lịch đọc truyện trước khi ngủ,calendar
-Xóa file vừa tải,control_device
-Tôi không thích thức khuya,personalize
-Ghi âm cuộc gọi này,control_device
-Thêm lịch đi chơi cuối tuần,calendar
-Khi nào nên ưu tiên công việc quan trọng,qa
-Thoát khỏi chương trình hiện tại,control_device
-Cách làm trà sữa tại nhà,qa
-Bật điểm phát wifi,control_device
-Tối nay có kế hoạch gì,calendar
-Tại sao ánh sáng truyền nhanh hơn âm thanh,qa
-Chia sẻ ảnh,control_device
-Giá trị của pi là gì,qa
-Việc tiếp theo tôi cần làm là gì,calendar
-Hẹn báo thức 7h sáng,control_device
-Vì sao nên sử dụng phương tiện công cộng,qa
-Quay lại bài trước,control_device
-Lên lịch học python lúc 14 giờ hôm nay,calendar
-Làm sao để tập trung khi học,qa
-Lịch tuần này có gì đáng chú ý,calendar
-Mở ứng dụng bản đồ,control_device
-Tại sao nên quản lý chi tiêu cá nhân,qa
-Kiểm tra lịch giúp tôi,calendar
-Làm sao để phỏng vấn thành công,qa
-Việt Nam có bao nhiêu tỉnh,qa
-Chiều thứ sáu tôi có hẹn không,calendar
-Gửi tin nhắn mới,control_device
-Tắt tiếng máy,control_device
-machine learning là gì,qa
-blockchain hoạt động sao,qa
-python dùng để làm gì,qa
-docker là gì vậy,qa
-ai khác machine learning chỗ nào,qa
-deep learning là gì,qa
-backend là gì,qa
-frontend là gì,qa
-api là gì,qa
-embedding là gì,qa
-vector database là gì,qa
-rag là gì,qa
-llm là gì,qa
-mô hình transformer là gì,qa
-whisper dùng để làm gì,qa
-fastapi là gì,qa
-websocket là gì,qa
-postgresql là gì,qa
-redis là gì,qa
-semantic search là gì,qa
-vì sao ai cần dữ liệu,qa
-gpu dùng để làm gì,qa
-cpu khác gpu thế nào,qa
-internet hoạt động sao,qa
-wifi là gì,qa
-linux là gì,qa
-ubuntu là gì,qa
-windows kernel là gì,qa
-học ai bắt đầu từ đâu,qa
-python khó không,qa
-cách học machine learning,qa
-supervised learning là gì,qa
-unsupervised learning là gì,qa
-nlp là gì,qa
-computer vision là gì,qa
-speech to text là gì,qa
-text to speech là gì,qa
-vì sao ai hallucination,qa
-prompt engineering là gì,qa
-vector là gì,qa
-cosine similarity là gì,qa
-sql là gì,qa
-mongodb là gì,qa
-docker compose là gì,qa
-virtualenv là gì,qa
-pip là gì,qa
-json là gì,qa
-csv là gì,qa
-http là gì,qa
-https là gì,qa
-jwt là gì,qa
-cookie là gì,qa
-session là gì,qa
-microservice là gì,qa
-monolithic là gì,qa
-oop là gì,qa
-python async là gì,qa
-thread là gì,qa
-process là gì,qa
-latency là gì,qa
-cache là gì,qa
-nginx là gì,qa
-server là gì,qa
-client server là gì,qa
-internet of things là gì,qa
-smart home là gì,qa
-edge ai là gì,qa
-openai là công ty gì,qa
-ollama dùng để làm gì,qa
-qwen là model gì,qa
-đặt lịch học ngày mai 6 giờ,calendar
-hủy lịch mai,calendar
-hủy lịch ngày mai,calendar
-thêm lịch mai dậy,calendar
-đặt lịch mai,calendar
-gemma là gì,qa
-llama là gì,qa
-vì sao embedding hữu ích,qa
-học data mining là gì,qa
-tiền xử lý dữ liệu là gì,qa
-noise data là gì,qa
-missing data là gì,qa
-feature engineering là gì,qa
-classification là gì,qa
-regression là gì,qa
-clustering là gì,qa
-recall precision là gì,qa
-f1 score là gì,qa
-accuracy là gì,qa
-ai agent là gì,qa
-multi agent là gì,qa
-mcp là gì,qa
-fine tuning là gì,qa
-quantization là gì,qa
-int8 là gì,qa
-fp16 là gì,qa
-cuda là gì,qa
-pytorch là gì,qa
-tensorflow là gì,qa
-sklearn là gì,qa
-sentence transformer là gì,qa
-bạn giải thích websocket đi,qa
-websocket realtime thế nào,qa
-streaming audio là gì,qa
-sự khác nhau polling websocket,qa
-vì sao websocket nhanh,qa
-stt nghĩa là gì,qa
-vad filtering là gì,qa
-beam search là gì,qa
-semantic retrieval là gì,qa
-knowledge base là gì,qa
-nhắc tôi họp lúc 8 giờ sáng,calendar
-mai có lịch gì không,calendar
-xóa lịch chiều nay,calendar
-đặt lịch học lúc 7h tối,calendar
-lịch ngày mai sao rồi,calendar
-chiều mai tôi có bận không,calendar
-hủy cái lịch mới tạo,calendar
-tạo lịch gym 6h sáng mai,calendar
-thêm lịch đi cà phê tối nay,calendar
-mai có cuộc họp nào không,calendar
-xem lịch hôm nay,calendar
-check lịch ngày mai,calendar
-đặt nhắc nhở uống thuốc 9h,calendar
-bỏ lịch họp chiều mai,calendar
-lên lịch học ai tối nay,calendar
-nhắc tôi ngủ sớm lúc 11h,calendar
-mai rảnh không,calendar
-hôm nay tôi có gì không,calendar
-xóa giúp tôi cái lịch tối qua,calendar
-đặt lịch sinh nhật mẹ chủ nhật,calendar
-thêm reminder họp team 8h,calendar
-cancel lịch tối nay,calendar
-show lịch ngày mai,calendar
-schedule cuộc họp lúc 10h,calendar
-remind tôi đi học mai 7h,calendar
-tôi thích màu xanh,personalize
-món ăn yêu thích của tôi là phở,personalize
-mình tên là cảnh,personalize
-tôi 21 tuổi,personalize
-tôi học ngành công nghệ thông tin,personalize
-tôi sống ở hà nội,personalize
-quê tôi ở nam định,personalize
-mình thích chơi game,personalize
-tôi làm ở fpt,personalize
-đồ uống yêu thích của tôi là trà sữa,personalize
-hãy trả lời ngắn gọn thôi,personalize
-nói tự nhiên thôi,personalize
-giải thích kỹ hơn nhé,personalize
-mình học ở hust,personalize
-tôi thích nghe nhạc lofi,personalize
-tôi thích ăn gà rán,personalize
-tôi tên cảnh nguyễn,personalize
-mình làm backend developer,personalize
-hãy nói lịch sự hơn,personalize
-đừng dài dòng quá,personalize
-mình ở hà đông,personalize
-sở thích của tôi là đọc sách,personalize
-mở youtube,control_device
-vào youtube đi,control_device
-open youtube,control_device
-mở facebook giúp tôi,control_device
-truy cập github,control_device
-mở gmail đi,control_device
-mở google calendar,control_device
-vào drive giúp tôi,control_device
-mở chatgpt,control_device
-mở gemini,control_device
-search machine learning,control_device
-tìm blockchain trên google,control_device
-google docker là gì,control_device
-tìm video python trên youtube,control_device
-mở youtube nhạc lofi,control_device
-search websocket fastapi,control_device
-mở stackoverflow,control_device
-mở docs,control_device
-mở google sheet,control_device
-vào instagram,control_device
-mở tiktok đi,control_device
-tìm AI agent,control_device
-youtube nhạc chill,control_device
-google semantic search,control_device
-youtube blockchain,control_device
-google machine learning,control_device
-open github,control_device
-chatgpt đi,control_device
-gmail giúp tôi,control_device
-mở du túp,control_device
-gô gồ machine learning,control_device
-mở git húp,control_device
-hệ điều hành dùng để làm gì,qa
-vì sao cần database,qa
-công dụng của docker là gì,qa
-mạng neural là gì,qa
-ai học từ dữ liệu kiểu gì,qa
-trí tuệ nhân tạo hoạt động sao,qa
-chatbot hoạt động như nào,qa
-vì sao llm trả lời được câu hỏi,qa
-mô hình ngôn ngữ lớn là gì,qa
-vì sao semantic search tốt hơn keyword search,qa
-embedding vector dùng để làm gì,qa
-cách hoạt động của cosine similarity,qa
-vì sao websocket phù hợp realtime,qa
-api restful là gì,qa
-cơ sở dữ liệu quan hệ là gì,qa
-vì sao nên dùng postgresql,qa
-deep neural network là gì,qa
-vì sao gpu mạnh cho ai,qa
-machine learning có cần toán không,qa
-docker giúp gì cho deploy,qa
-streaming realtime nghĩa là gì,qa
-vector search hoạt động ra sao,qa
-tại sao ai cần training data,qa
-mô hình ai học như thế nào,qa
-speech recognition là gì,qa
-text embedding là gì,qa
-vì sao ai đôi lúc trả lời sai,qa
-retrieval augmented generation là gì,qa
-transformer model hoạt động sao,qa
-python phổ biến vì sao,qa
-tạo lịch họp team lúc 9h sáng mai,calendar
-mai tôi có cuộc hẹn nào không,calendar
-xem giúp lịch ngày kia,calendar
-đặt nhắc nhở học bài tối nay,calendar
-xóa cuộc hẹn sáng mai,calendar
-thêm lịch ăn tối lúc 7h,calendar
-lịch tuần này của tôi thế nào,calendar
-hủy reminder vừa thêm,calendar
-check giúp tôi lịch tối nay,calendar
-đặt lịch call khách hàng 3h chiều,calendar
-ngày mai có lịch học không,calendar
-thêm lịch tập gym chiều mai,calendar
-xóa lịch đi chơi cuối tuần,calendar
-tạo reminder uống nước mỗi sáng,calendar
-tôi có bận tối mai không,calendar
-đặt lịch đi khám 8h sáng thứ 6,calendar
-show calendar hôm nay,calendar
-cancel cuộc họp ngày mai,calendar
-remind tôi ngủ lúc 12h,calendar
-thêm lịch làm assignment tối nay,calendar
-màu tôi thích nhất là đen,personalize
-tôi cực thích uống cà phê,personalize
-mình tên khánh,personalize
-tôi đang sống tại đà nẵng,personalize
-quê mình ở thái bình,personalize
-tôi học ở đại học bách khoa hà nội,personalize
-tôi thích xem phim khoa học viễn tưởng,personalize
-mình mê đá bóng,personalize
-tôi làm frontend developer,personalize
-đồ uống mình thích là coca,personalize
-hãy trả lời chi tiết hơn,personalize
-nói chuyện casual thôi,personalize
-đừng trả lời quá dài,personalize
-tôi thích coding ban đêm,personalize
-mình tên là minh anh,personalize
-tôi làm ở viettel,personalize
-món khoái khẩu của tôi là bún bò,personalize
-mình ở cầu giấy,personalize
-tôi thích nhạc chill,personalize
-nói chuyện formal hơn nhé,personalize
-mở netflix,control_device
-vào github giúp tôi,control_device
-open stackoverflow,control_device
-mở google drive,control_device
-truy cập messenger,control_device
-mở twitch đi,control_device
-search deep learning trên google,control_device
-youtube nhạc ngủ ngon,control_device
-google websocket python,control_device
-mở chatgpt giúp tôi,control_device
-vào tiktok luôn,control_device
-search blockchain tutorial,control_device
-mở docs google,control_device
-youtube học python cơ bản,control_device
-google fastapi websocket,control_device
-mở instagram đi,control_device
-vào gmail luôn,control_device
-open gemini,control_device
-search semantic retrieval,control_device
-mở lịch google calendar,control_device
-mai nhớ kêu tôi dậy lúc 6h,calendar
-tối nay tôi có gì cần làm không,calendar
-ngày mai xem giúp tôi có lịch gì,calendar
-chiều mai tôi có cuộc hẹn nào không,calendar
-thêm giúp tôi cái lịch học tối nay,calendar
-tạo reminder uống thuốc lúc 9h tối,calendar
-mai có phải họp không nhỉ,calendar
-đừng quên nhắc tôi học bài tối nay,calendar
-check xem mai tôi rảnh không,calendar
-đặt hộ tôi lịch họp sáng mai,calendar
-đặt lịch học ngày mai 6 giờ,calendar
-hủy lịch mai,calendar
-hủy lịch ngày mai,calendar
-thêm lịch mai dậy,calendar
-đặt lịch mai,calendar
-mai nhớ gọi tôi lúc 6h nha,calendar
-chiều nay tôi có lịch gì không,calendar
-thêm lịch học AI tối nay,calendar
-mai có cuộc họp nào không ta,calendar
-đặt lịch cafe với Long lúc 7h tối,calendar
-nhắc tôi uống nước sau 30 phút nữa,calendar
-check lịch giúp tôi với,calendar
-xóa cái lịch vừa tạo đi,calendar
-đặt reminder học ielts tối nay,calendar
-thứ 7 này có lịch gì không,calendar
-nhắc tôi nộp bài vào tối mai,calendar
-mai tôi rảnh lúc nào,calendar
-đặt lịch họp team sáng thứ 2,calendar
-show calendar hôm nay,calendar
-cuối tuần này có deadline gì không,calendar
-thêm lịch đi khám răng ngày mai,calendar
-8h tối nhớ nhắc tôi họp zoom,calendar
-tạo reminder đi ngủ sớm,calendar
-mai có phải đi học không nhỉ,calendar
-lịch tháng này còn trống không,calendar
-nhắc tôi gọi điện cho mẹ tối nay,calendar
-thêm lịch đi gym chiều mai,calendar
-sáng mai tôi có bận không,calendar
-đặt lịch ăn tối với khách hàng,calendar
-xem giúp tôi lịch ngày kia,calendar
-hủy lịch học tối nay đi,calendar
-nhắc tôi check mail lúc 9h sáng,calendar
-mai còn cuộc hẹn nào không,calendar
-lịch tuần sau như nào nhỉ,calendar
-đặt lịch làm assignment tối nay,calendar
-cho tôi xem các lịch sắp tới,calendar
-thêm reminder uống thuốc 8h tối,calendar
-chiều mai có họp không ta,calendar
-nhắc tôi đóng tiền điện cuối tháng,calendar
-mai có lịch thi không,calendar
-đặt lịch học nhóm lúc 2h chiều,calendar
-xóa reminder uống nước đi,calendar
-thêm lịch chạy bộ sáng mai,calendar
-hôm nay có việc gì quan trọng không,calendar
-check lịch tối nay giúp tôi,calendar
-
-mở youtube giúp tôi,control_device
-bật wifi lên đi,control_device
-restart máy tính hộ cái,control_device
-tắt bluetooth giúp mình,control_device
-mở spotify phát nhạc chill,control_device
-cho tôi vào gmail luôn,control_device
-mở chrome lẹ đi,control_device
-bật chế độ tối giúp tôi,control_device
-tắt nhạc ngay,control_device
-mở file explorer,control_device
-vào github giúp mình,control_device
-mở terminal lên,control_device
-tắt màn hình giúp tôi,control_device
-cho tôi search machine learning,control_device
-mở messenger đi,control_device
-bật hotspot điện thoại,control_device
-đóng hết tab chrome đi,control_device
-mở visual studio code,control_device
-vào netflix luôn,control_device
-giảm độ sáng xuống chút,control_device
-mở camera giúp tôi,control_device
-tắt wifi đi nha,control_device
-bật loa ngoài giúp tôi,control_device
-mở settings hệ thống,control_device
-mở google calendar,control_device
-vào drive giúp cái,control_device
-chụp màn hình luôn đi,control_device
-mở pycharm hộ mình,control_device
-tắt tất cả ứng dụng đang chạy,control_device
-mở task manager giúp tôi,control_device
-cho tôi vào facebook,control_device
-phát playlist yêu thích đi,control_device
-mở ứng dụng email,control_device
-vì sao semantic search thông minh hơn search thường,qa
-mai co lich gi ko,calendar
-mo ytb di,control_device
-toi thik nhac chill,personalize
-gpu la gi v,qa
-mở du túp nhạc lofi,control_device
-gô gồ machine learning,control_device
-nhắc tui học ai lúc 8 giờ tối,calendar
-tui thích code đêm,personalize
-mở youtube rồi phát nhạc chill luôn,control_device
-mai nhắc tôi họp rồi mở zoom giúp tôi,calendar
-mai có gì không,calendar
-tôi mệt quá,qa
-mở nó lên đi,control_device
-đặt lịch họp ở starbucks lúc 7h tối,calendar
-mở visual studio code,control_device
-tôi làm ở samsung,personalize
-postgresql có tốt hơn mysql không,qa
-mình khá hướng nội,personalize
-tôi thích làm việc một mình hơn,personalize
-mình thường học sau 10h tối,personalize
-tôi dễ buồn ngủ vào buổi chiều,personalize
-mình thích cafe yên tĩnh để học bài,personalize
-tôi không chịu được tiếng ồn lớn,personalize
-mình thích nghe piano khi code,personalize
-tôi hay procrastinate vào buổi tối,personalize
-mình thích setup bàn làm việc tối màu,personalize
-tôi thường quên uống nước,personalize
-mình đang cố cải thiện tiếng anh giao tiếp,personalize
-tôi thích câu trả lời ngắn thôi,personalize
-mình muốn assistant nói tự nhiên hơn,personalize
-tôi hay thức tới 2h sáng,personalize
-mình thích đi đường tránh đông xe,personalize
-tôi thường order đồ ăn khuya,personalize
-mình thích thời tiết lạnh hơn nóng,personalize
-tôi đang luyện speaking ielts mỗi ngày,personalize
-mình không thích thông báo quá nhiều,personalize
-tôi thích nhạc không lời lúc làm việc,personalize
-
-vì sao websocket phù hợp voice assistant,qa
-llm tạo câu trả lời bằng cách nào,qa
-embedding giúp semantic search ra sao,qa
-vì sao transformer xử lý ngôn ngữ tốt vậy,qa
-cache redis giúp tăng tốc kiểu gì,qa
-sự khác nhau giữa thread với process là gì,qa
-vì sao docker nhẹ hơn virtual machine,qa
-gpu train ai nhanh hơn cpu bao nhiêu,qa
-postgresql có hỗ trợ vector search không,qa
-rag có cần fine tuning không,qa
-whisper nhận diện giọng nói kiểu gì,qa
-streaming realtime hoạt động ra sao,qa
-vì sao websocket không cần polling liên tục,qa
-fastapi async có lợi gì,qa
-vector database lưu dữ liệu như thế nào,qa
-semantic retrieval khác database search thường sao,qa
-vì sao cosine similarity đo độ giống được,qa
-llm hallucination là gì vậy,qa
-api gateway dùng để làm gì,qa
-microservice khó hơn monolithic ở đâu,qa
-qwen với llama khác nhau thế nào,qa
-websocket là gì vậy,qa
-vì sao ai cần dữ liệu nhiều thế,qa
-gpu khác cpu ở điểm nào,qa
-machine learning hoạt động sao,qa
-rag là gì thế,qa
-embedding vector dùng để làm gì,qa
-python có dễ học không,qa
-api restful là gì,qa
-docker giúp gì cho deploy,qa
-semantic search khác keyword search thế nào,qa
-transformer model hoạt động ra sao,qa
-backend với frontend khác gì nhau,qa
-tại sao websocket realtime hơn http,qa
-postgresql có ưu điểm gì,qa
-llm là viết tắt của gì,qa
-fine tuning nghĩa là sao,qa
-vì sao gpu phù hợp train ai,qa
-speech to text là gì,qa
-json dùng để làm gì,qa
-redis hoạt động kiểu gì,qa
-linux là gì vậy,qa
-ubuntu khác windows thế nào,qa
-vector database là gì,qa
-prompt engineering nghĩa là gì,qa
-chatbot hiểu câu hỏi kiểu gì,qa
-cpu với gpu cái nào mạnh hơn,qa
-cache dùng để làm gì,qa
-server là gì vậy,qa
-internet hoạt động như thế nào,qa
-docker compose có tác dụng gì,qa
-vì sao ai đôi lúc trả lời sai,qa
-semantic retrieval là gì,qa
-mcp là gì trong ai agent,qa
-fastapi dùng để làm gì,qa
-websocket stream audio kiểu gì,qa
-deep learning khác machine learning sao,qa
-nlp là gì thế,qa
-computer vision dùng để làm gì,qa
-vì sao cosine similarity hữu ích,qa
-http và https khác nhau sao,qa
-
-mai co lich gi ko,calendar
-nho toi hoc bai luc 8h toi nha,calendar
-check lich dum toi voi,calendar
-xoa cai reminder hoi nay di,calendar
-mai ranh ko ta,calendar
-mo ytb di,control_device
-bat wf giup toi,control_device
-tat nhac di,control_device
-mo github len,control_device
-restart may dum cai,control_device
-toi thik nhac chill,personalize
-minh hay code dem,personalize
-toi ko an cay dc,personalize
-minh thik dark mode,personalize
-gpu la gi v,qa
-api la gi z,qa
-mai nhớ gọi tôi dậy nha chứ tôi sợ ngủ quên,calendar
-đặt lịch học dùm cái tối nay 8h,calendar
-lịch mai có kín không vậy,calendar
-hủy cái lịch hồi chiều đi giúp tôi,calendar
-mai tôi có phải lên trường không ta,calendar
-
-mở nhạc chill chill tí đi,control_device
-bật wf lại xem mạng lag quá,control_device
-mở gúc gồ chrome giúp tui,control_device
-vào du túp phát nhạc học bài đi,control_device
-search cách fix docker error,control_device
-
-mình mê công nghệ lắm,personalize
-tôi cực thích backend luôn,personalize
-mình học dễ vào buổi đêm hơn,personalize
-tôi ghét bị spam notification,personalize
-mình thích ngồi góc yên tĩnh học bài,personalize
-
-ai agent khác chatbot chỗ nào,qa
-backend dev thường làm gì,qa
-frontend với ui ux khác nhau sao,qa
-websocket có dùng cho game realtime được không,qa
-vector embedding tạo như thế nào,qa
-
-anh ơi mở youtube giúp em với,control_device
-chị ơi nhắc em mai nộp bài nha,calendar
-máy lag quá restart giúp mình cái,control_device
-mai có lịch học xác suất không ta,calendar
-mình thích assistant nói chuyện casual thôi,personalize
-
-thêm lịch ăn lẩu với team cuối tuần,calendar
-đặt lịch đi cf học nhóm tối mai,calendar
-mai có lịch phỏng vấn không nhỉ,calendar
-nhắc tôi checkout github contribution tối nay,calendar
-schedule demo project thứ 6 giúp tôi,calendar
-
-mở github repo backend,control_device
-search how to learn ai agent,control_device
-mở youtube coding music,control_device
-vào google docs giúp tôi,control_device
-mở app camera laptop,control_device
-
-mình thích làm việc có deadline rõ ràng,personalize
-tôi thường tập trung tốt sau 9h tối,personalize
-mình đang tập sống healthy hơn,personalize
-tôi thích assistant trả lời giống người thật,personalize
-mình không thích nói chuyện quá formal,personalize
-
-vì sao ai model cần gpu mạnh,qa
-cuda dùng để tăng tốc kiểu gì,qa
-speech to text khác text to speech sao,qa
-ollama dùng để chạy model local à,qa
-qwen với llama khác nhau thế nào,qa
-xe điện đi trời mưa có an toàn không,qa
-vì sao điện thoại nóng lên khi chơi game,qa
-pin lithium hoạt động như thế nào,qa
-sao ngủ ít lại đau đầu,qa
-ăn khuya có ảnh hưởng gì không,qa
-vì sao uống cà phê tối dễ mất ngủ,qa
-não bộ ghi nhớ thông tin kiểu gì,qa
-vì sao học bằng hình ảnh dễ nhớ hơn,qa
-mưa axit hình thành như thế nào,qa
-vì sao trời nồm làm sàn nhà ướt,qa
-camera điện thoại lấy nét kiểu gì,qa
-sao tai nghe bluetooth có độ trễ,qa
-wifi 5ghz khác gì 2.4ghz,qa
-vì sao pin iphone chai theo thời gian,qa
-sao mở nhiều tab chrome lại tốn ram,qa
-đi bộ mỗi ngày có lợi gì cho tim mạch,qa
-vì sao stress làm khó ngủ,qa
-uống nước ngay sau khi ngủ dậy có tốt không,qa
-vì sao con người cần vitamin c,qa
-tôi thường nghe white noise để ngủ,personalize
+id,raw_text,normalized_text,label,split
+1,"Lên lịch họp ngày mai.","lên lịch họp ngày mai",calendar,train
+2,"Tại sao cần sử dụng hệ điều hành?","tại sao cần sử dụng hệ điều hành",qa,train
+3,"Mở danh bạ điện thoại!","mở danh bạ điện thoại",control_device,train
+4,"Hủy tất cả báo thức!","hủy tất cả báo thức",control_device,train
+5,"Cách luộc trứng lòng đào?","cách luộc trứng lòng đào",qa,train
+6,"Tại sao nên học từ sai lầm?","tại sao nên học từ sai lầm",qa,train
+7,"Tôi thích nghe nhạc Lo-Fi.","tôi thích nghe nhạc lofi",personalize,train
+8,"Tôi không thích ăn đồ ngọt.","tôi không thích ăn đồ ngọt",personalize,train
+9,"Mở Messenger!","mở messenger",control_device,train
+10,"Thêm lịch xem YouTube.","thêm lịch xem youtube",calendar,train
+11,"Bao nhiêu ngày trong một năm?","bao nhiêu ngày trong một năm",qa,train
+12,"Vì sao việc tự học quan trọng?","vì sao việc tự học quan trọng",qa,train
+13,"Cách quản lý thời gian hiệu quả?","cách quản lý thời gian hiệu quả",qa,train
+14,"Làm sao để thịt không bị dai?","làm sao để thịt không bị dai",qa,train
+15,"Ghi lại thói quen dùng tai nghe của tôi.","ghi lại thói quen dùng tai nghe của tôi",personalize,train
+16,"Mở khóa màn hình!","mở khóa màn hình",control_device,train
+17,"Tôi thích dùng điện thoại hơn laptop.","tôi thích dùng điện thoại hơn laptop",personalize,train
+18,"Thêm lịch tập gym buổi chiều.","thêm lịch tập gym buổi chiều",calendar,train
+19,"Xem lịch cá nhân.","xem lịch cá nhân",calendar,train
+20,"Tắt camera!","tắt camera",control_device,train
+21,"Tại sao cần lập kế hoạch mỗi ngày?","tại sao cần lập kế hoạch mỗi ngày",qa,train
+22,"Tôi hay lập kế hoạch trước.","tôi hay lập kế hoạch trước",personalize,train
+23,"Nhắc tôi uống thuốc lúc 8 giờ sáng.","nhắc tôi uống thuốc lúc 8 giờ sáng",calendar,train
+24,"Mở ShopeeFood!","mở shopeefood",control_device,train
+25,"Tại sao cần kỹ năng giao tiếp?","tại sao cần kỹ năng giao tiếp",qa,train
+26,"Lịch học tiếng Anh tối nay thế nào?","lịch học tiếng anh tối nay thế nào",calendar,train
+27,"Mở trình duyệt web!","mở trình duyệt web",control_device,train
+28,"Làm sao cải thiện kỹ năng listening?","làm sao cải thiện kỹ năng listening",qa,train
+29,"Sáng mai tôi có bận không?","sáng mai tôi có bận không",calendar,train
+30,"Nhớ là tôi luôn bật wifi.","nhớ là tôi luôn bật wifi",personalize,train
+31,"Nhắc tôi xem thông báo lúc 9 giờ.","nhắc tôi xem thông báo lúc 9 giờ",calendar,train
+32,"Tôi muốn tránh đường đông.","tôi muốn tránh đường đông",personalize,train
+33,"Bật dữ liệu di động!","bật dữ liệu di động",control_device,train
+34,"Nhớ là tôi hay ngủ muộn.","nhớ là tôi hay ngủ muộn",personalize,train
+35,"Đóng Excel lại!","đóng excel lại",control_device,train
+36,"Tôi hay xem phim hành động.","tôi hay xem phim hành động",personalize,train
+37,"Đặt báo thức lúc 7 giờ sáng!","đặt báo thức lúc 7 giờ sáng",control_device,train
+38,"Cách viết CV xin việc?","cách viết cv xin việc",qa,train
+39,"Mở camera!","mở camera",control_device,train
+40,"Làm sáng màn hình hơn!","làm sáng màn hình hơn",control_device,train
+41,"Địa chỉ nhà tôi là Bắc Ninh.","địa chỉ nhà tôi là bắc ninh",personalize,train
+42,"Sáng mai tôi có rảnh không?","sáng mai tôi có rảnh không",calendar,train
+43,"Khởi động Chrome giúp tôi!","khởi động chrome giúp tôi",control_device,train
+44,"Nhớ là tôi tập trung tốt vào buổi tối.","nhớ là tôi tập trung tốt vào buổi tối",personalize,train
+45,"Mở Zalo!","mở zalo",control_device,train
+46,"Lịch tháng 4 của tôi ra sao?","lịch tháng 4 của tôi ra sao",calendar,train
+47,"Sự khác nhau giữa hiệu quả và hiệu suất?","sự khác nhau giữa hiệu quả và hiệu suất",qa,train
+48,"Mở file explorer!","mở file explorer",control_device,train
+49,"Chạy cmd!","chạy cmd",control_device,train
+50,"Làm sao để tăng tốc wifi?","làm sao để tăng tốc wifi",qa,train
+51,"Tôi thích nghe nhạc khi học.","tôi thích nghe nhạc khi học",personalize,train
+52,"Tại sao băng nổi trên mặt nước?","tại sao băng nổi trên mặt nước",qa,train
+53,"Thêm lịch đá bóng lúc 5 giờ chiều thứ bảy.","thêm lịch đá bóng lúc 5 giờ chiều thứ bảy",calendar,train
+54,"Thói quen buổi sáng tốt là gì?","thói quen buổi sáng tốt là gì",qa,train
+55,"Khi nào hôm nay tôi rảnh?","khi nào hôm nay tôi rảnh",calendar,train
+56,"Tôi có rảnh chiều nay không?","tôi có rảnh chiều nay không",calendar,train
+57,"Mở Netflix!","mở netflix",control_device,train
+58,"Đặt nhắc nhở học từ vựng mỗi sáng.","đặt nhắc nhở học từ vựng mỗi sáng",calendar,train
+59,"Thêm lịch yoga vào buổi sáng.","thêm lịch yoga vào buổi sáng",calendar,train
+60,"Hôm nay tôi có những việc gì?","hôm nay tôi có những việc gì",calendar,train
+61,"Đóng tab hiện tại!","đóng tab hiện tại",control_device,train
+62,"Tắt máy!","tắt máy",control_device,train
+63,"Tạo lịch đọc báo lúc 7 giờ sáng.","tạo lịch đọc báo lúc 7 giờ sáng",calendar,train
+64,"Lịch hôm nay của tôi.","lịch hôm nay của tôi",calendar,train
+65,"Cách kiểm soát cảm xúc?","cách kiểm soát cảm xúc",qa,train
+66,"Tại sao cơ thể cảm thấy mệt khi thiếu ngủ?","tại sao cơ thể cảm thấy mệt khi thiếu ngủ",qa,train
+67,"Để phòng ở mức 25 độ là hợp với tôi.","để phòng ở mức 25 độ là hợp với tôi",personalize,train
+68,"Đổi inch sang cm như thế nào?","đổi inch sang cm như thế nào",qa,train
+69,"Tại sao cần version control như Git?","tại sao cần version control như git",qa,train
+70,"Lưu thông tin này lại.","lưu thông tin này lại",personalize,train
+71,"Đóng tất cả ứng dụng đang chạy!","đóng tất cả ứng dụng đang chạy",control_device,train
+72,"Làm sao để ngủ ngon?","làm sao để ngủ ngon",qa,train
+73,"Tôi thích ánh sáng nhẹ.","tôi thích ánh sáng nhẹ",personalize,train
+74,"Tạo lịch đọc sách lúc 9 giờ tối.","tạo lịch đọc sách lúc 9 giờ tối",calendar,train
+75,"Tại sao nên duy trì động lực?","tại sao nên duy trì động lực",qa,train
+76,"Cách tăng năng suất làm việc?","cách tăng năng suất làm việc",qa,train
+77,"Cho tôi xem lịch hôm nay.","cho tôi xem lịch hôm nay",calendar,train
+78,"Bao nhiêu calo trong một quả táo?","bao nhiêu calo trong một quả táo",qa,train
+79,"Sáng nay có cuộc họp không?","sáng nay có cuộc họp không",calendar,train
+80,"Tại sao train model cần GPU?","tại sao train model cần gpu",qa,train
+81,"Chạy ứng dụng Edge!","chạy ứng dụng edge",control_device,train
+82,"Gần đây có rạp phim nào không?","gần đây có rạp phim nào không",qa,train
+83,"Cách duy trì động lực học tập?","cách duy trì động lực học tập",qa,train
+84,"Bật app đặt đồ ăn!","bật app đặt đồ ăn",control_device,train
+85,"Tạo nhắc nhở học lúc 6 giờ sáng.","tạo nhắc nhở học lúc 6 giờ sáng",calendar,train
+86,"Nhắc tôi làm bài tập tối nay.","nhắc tôi làm bài tập tối nay",calendar,train
+87,"Ngày hôm nay bận hay rảnh?","ngày hôm nay bận hay rảnh",calendar,train
+88,"Sáng nay có việc gì không?","sáng nay có việc gì không",calendar,train
+89,"Ghi nhớ tôi thích cà phê.","ghi nhớ tôi thích cà phê",personalize,train
+90,"Cách bảo quản rau trong tủ lạnh?","cách bảo quản rau trong tủ lạnh",qa,train
+91,"Tôi thích không gian yên tĩnh khi học.","tôi thích không gian yên tĩnh khi học",personalize,train
+92,"Mở Chrome!","mở chrome",control_device,train
+93,"Thẻ ATM dùng để làm gì?","thẻ atm dùng để làm gì",qa,train
+94,"Tôi thích nghe nhạc khi làm việc.","tôi thích nghe nhạc khi làm việc",personalize,train
+95,"Bật wifi!","bật wifi",control_device,train
+96,"Mở ứng dụng gọi điện!","mở ứng dụng gọi điện",control_device,train
+97,"Chỉnh sửa ảnh!","chỉnh sửa ảnh",control_device,train
+98,"Mở đèn pin!","mở đèn pin",control_device,train
+99,"Khi nào nên nghỉ ngơi trong lúc làm việc?","khi nào nên nghỉ ngơi trong lúc làm việc",qa,train
+100,"Mở Word giúp tôi!","mở word giúp tôi",control_device,train
+101,"Vì sao nên đi đúng làn đường?","vì sao nên đi đúng làn đường",qa,train
+102,"Nhớ là tôi đang tìm hiểu Python.","nhớ là tôi đang tìm hiểu python",personalize,train
+103,"Thêm lịch học lúc 7h.","thêm lịch học lúc 7h",calendar,train
+104,"Xem lịch trình của tôi.","xem lịch trình của tôi",calendar,train
+105,"Chạy PowerPoint ngay!","chạy powerpoint ngay",control_device,train
+106,"Giảm âm lượng xuống!","giảm âm lượng xuống",control_device,train
+107,"Vì sao nên theo dõi thu chi hàng tháng?","vì sao nên theo dõi thu chi hàng tháng",qa,train
+108,"Ghi lại thói quen tập gym của tôi.","ghi lại thói quen tập gym của tôi",personalize,train
+109,"Tạo lịch họp nhóm vào chiều mai.","tạo lịch họp nhóm vào chiều mai",calendar,train
+110,"Nhắc lại lịch ngày mai.","nhắc lại lịch ngày mai",calendar,train
+111,"Tôi có cuộc hẹn nào không?","tôi có cuộc hẹn nào không",calendar,train
+112,"Lịch gần nhất của tôi là gì?","lịch gần nhất của tôi là gì",calendar,train
+113,"Tạo sự kiện họp online tối nay.","tạo sự kiện họp online tối nay",calendar,train
+114,"Ghi lại rằng tôi thích trà sữa.","ghi lại rằng tôi thích trà sữa",personalize,train
+115,"Hôm nay có mưa không?","hôm nay có mưa không",qa,train
+116,"Bao lâu nên tập thể dục một lần?","bao lâu nên tập thể dục một lần",qa,train
+117,"Tắt chế độ máy bay!","tắt chế độ máy bay",control_device,train
+118,"Tiền điện tính như thế nào?","tiền điện tính như thế nào",qa,train
+119,"Tôi muốn giảm cân.","tôi muốn giảm cân",personalize,train
+120,"Tại sao cần đặt mục tiêu trong công việc?","tại sao cần đặt mục tiêu trong công việc",qa,train
+121,"Cuối tuần tôi có lịch gì?","cuối tuần tôi có lịch gì",calendar,train
+122,"Giảm độ sáng giúp tôi dễ chịu hơn.","giảm độ sáng giúp tôi dễ chịu hơn",personalize,train
+123,"Tại sao xe điện thân thiện môi trường?","tại sao xe điện thân thiện môi trường",qa,train
+124,"Căn bậc hai của 144 bằng bao nhiêu?","căn bậc hai của 144 bằng bao nhiêu",qa,train
+125,"Bao nhiêu giây trong một phút?","bao nhiêu giây trong một phút",qa,train
+126,"Tôi không thích thông báo bằng âm thanh.","tôi không thích thông báo bằng âm thanh",personalize,train
+127,"Tại sao cần quỹ dự phòng?","tại sao cần quỹ dự phòng",qa,train
+128,"Tôi thích chơi game chiến thuật.","tôi thích chơi game chiến thuật",personalize,train
+129,"Tối nay có lịch gì không?","tối nay có lịch gì không",calendar,train
+130,"Nhiệt độ hôm nay bao nhiêu?","nhiệt độ hôm nay bao nhiêu",qa,train
+131,"Lịch học tiếng Anh tối nay thế nào?","lịch học tiếng anh tối nay thế nào",calendar,train
+132,"Đóng tất cả tab!","đóng tất cả tab",control_device,train
+133,"Làm sao để ngủ nhanh hơn?","làm sao để ngủ nhanh hơn",qa,train
+134,"Bật chế độ tiết kiệm pin đi!","bật chế độ tiết kiệm pin đi",control_device,train
+135,"Cách giữ nhà cửa gọn gàng?","cách giữ nhà cửa gọn gàng",qa,train
+136,"Dừng nhạc lại!","dừng nhạc lại",control_device,train
+137,"Cách giảm căng thẳng?","cách giảm căng thẳng",qa,train
+138,"Ngày mốt có việc gì không?","ngày mốt có việc gì không",calendar,train
+139,"Tại sao cảm xúc ảnh hưởng đến quyết định?","tại sao cảm xúc ảnh hưởng đến quyết định",qa,train
+140,"Lưu thói quen của tôi.","lưu thói quen của tôi",personalize,train
+141,"Nhắc tôi dọn bàn làm việc.","nhắc tôi dọn bàn làm việc",calendar,train
+142,"Mở trình quản lý tác vụ!","mở trình quản lý tác vụ",control_device,train
+143,"Tôi không thích ánh sáng mạnh.","tôi không thích ánh sáng mạnh",personalize,train
+144,"Vì sao lãi kép quan trọng?","vì sao lãi kép quan trọng",qa,train
+145,"Sấm sét hình thành như thế nào?","sấm sét hình thành như thế nào",qa,train
+146,"Nhắc tôi đi làm mỗi sáng 8h.","nhắc tôi đi làm mỗi sáng 8h",calendar,train
+147,"Thêm lịch gọi điện lúc 8 giờ.","thêm lịch gọi điện lúc 8 giờ",calendar,train
+148,"Chào bạn!","chào bạn",qa,train
+149,"Hello!","hello",qa,train
+150,"Hi!","hi",qa,train
+151,"Xin chào!","xin chào",qa,train
+152,"Bạn khỏe không?","bạn khỏe không",qa,train
+153,"Tên bạn là gì?","tên bạn là gì",qa,train
+154,"Bạn là ai?","bạn là ai",qa,train
+155,"Chào buổi sáng!","chào buổi sáng",qa,train
+156,"Microcontroller là gì?","microcontroller là gì",qa,train
+157,"Ý nghĩa của đèn giao thông?","ý nghĩa của đèn giao thông",qa,train
+158,"Ngày mai có bận không?","ngày mai có bận không",calendar,train
+159,"Nấu phở bò cần những gì?","nấu phở bò cần những gì",qa,train
+160,"Làm việc nhóm có lợi ích gì?","làm việc nhóm có lợi ích gì",qa,train
+161,"Tôi cần uống nước đều đặn mỗi 2 tiếng.","tôi cần uống nước đều đặn mỗi 2 tiếng",personalize,train
+162,"Bật chế độ không làm phiền!","bật chế độ không làm phiền",control_device,train
+163,"Tối nay tôi có lịch gì?","tối nay tôi có lịch gì",calendar,train
+164,"Mấy giờ rồi vậy?","mấy giờ rồi vậy",qa,train
+165,"AI là gì?","ai là gì",qa,train
+166,"Tại sao cần uống đủ nước?","tại sao cần uống đủ nước",qa,train
+167,"Có lịch nộp bài không hôm nay?","có lịch nộp bài không hôm nay",calendar,train
+168,"Tôi đang muốn cải thiện cân nặng.","tôi đang muốn cải thiện cân nặng",personalize,train
+169,"Tại sao nên học mỗi ngày?","tại sao nên học mỗi ngày",qa,train
+170,"Cách vượt qua áp lực?","cách vượt qua áp lực",qa,train
+171,"Mở command prompt!","mở command prompt",control_device,train
+172,"Lịch tuần sau có gì?","lịch tuần sau có gì",calendar,train
+173,"Lên lịch họp công ty vào sáng thứ hai.","lên lịch họp công ty vào sáng thứ hai",calendar,train
+174,"Tại sao cần giảm tốc độ khi trời mưa?","tại sao cần giảm tốc độ khi trời mưa",qa,train
+175,"Tạo lịch làm việc giao hàng tối thứ sáu.","tạo lịch làm việc giao hàng tối thứ sáu",calendar,train
+176,"Lợi ích của việc uống nhiều nước?","lợi ích của việc uống nhiều nước",qa,train
+177,"Tôi thích ăn sáng nhẹ.","tôi thích ăn sáng nhẹ",personalize,train
+178,"Nhớ là tôi không thích ồn ào.","nhớ là tôi không thích ồn ào",personalize,train
+179,"Ghi lại là tôi thích thể thao.","ghi lại là tôi thích thể thao",personalize,train
+180,"Mở cài đặt wifi!","mở cài đặt wifi",control_device,train
+181,"Tôi muốn tự động tắt đèn sau 12 giờ đêm.","tôi muốn tự động tắt đèn sau 12 giờ đêm",personalize,train
+182,"Mở lịch lên!","mở lịch lên",control_device,train
+183,"Mở gmail!","mở gmail",control_device,train
+184,"Tôi không uống cà phê.","tôi không uống cà phê",personalize,train
+185,"Cách giữ sức khỏe tốt?","cách giữ sức khỏe tốt",qa,train
+186,"Đổi 100 USD sang VND như thế nào?","đổi 100 usd sang vnd",qa,train
+187,"Kích hoạt tiết kiệm pin!","kích hoạt tiết kiệm pin",control_device,train
+188,"Tại sao đầu tư có rủi ro?","tại sao đầu tư có rủi ro",qa,train
+189,"Bao lâu nên vệ sinh máy lạnh?","bao lâu nên vệ sinh máy lạnh",qa,train
+190,"Thêm lịch xem tin tức mỗi sáng.","thêm lịch xem tin tức mỗi sáng",calendar,train
+191,"Tuần sau có việc gì quan trọng?","tuần sau có việc gì quan trọng",calendar,train
+192,"Mở word lên!","mở word lên",control_device,train
+193,"Hãy nhớ tôi thích học buổi sáng.","hãy nhớ tôi thích học buổi sáng",personalize,train
+194,"Tối nay tôi có kế hoạch gì không?","tối nay có kế hoạch gì không",calendar,train
+195,"Khởi động Microsoft Excel!","khởi động microsoft excel",control_device,train
+196,"Tạo lịch đi chơi vào cuối tuần.","tạo lịch đi chơi vào cuối tuần",calendar,train
+197,"Có sự kiện nào sắp diễn ra không?","có sự kiện nào sắp diễn ra không",calendar,train
+198,"Lưu thói quen uống nước mỗi 2 tiếng.","lưu thói quen uống nước mỗi 2 tiếng",personalize,train
+199,"Chụp screenshot!","chụp screenshot",control_device,train
+200,"Tôi làm việc hiệu quả vào buổi sáng.","tôi làm việc hiệu quả vào buổi sáng",personalize,train
+201,"Hôm nay có lịch học không?","hôm nay có lịch học không",calendar,train
+202,"Mở album ảnh!","mở album ảnh",control_device,train
+203,"Ngày mai có việc gì cần làm?","ngày mai có việc gì cần làm",calendar,train
+204,"Thêm lịch học guitar tối nay.","thêm lịch học guitar tối nay",calendar,train
+205,"Ngày mai tôi có bao nhiêu cuộc họp?","ngày mai tôi có bao nhiêu cuộc họp",calendar,train
+206,"Tại sao không nên tiêu hết tiền kiếm được?","tại sao không nên tiêu hết tiền kiếm được",qa,train
+207,"Vì sao học qua phim ảnh hiệu quả?","vì sao học qua phim ảnh hiệu quả",qa,train
+208,"Làm sao để tự tin hơn?","làm sao để tự tin hơn",qa,train
+209,"Vì sao nên đặt câu hỏi khi học?","vì sao nên đặt câu hỏi khi học",qa,train
+210,"Mở thùng rác!","mở thùng rác",control_device,train
+211,"Giảm độ sáng màn hình!","giảm độ sáng màn hình",control_device,train
+212,"Google được thành lập khi nào?","google được thành lập khi nào",qa,train
+213,"Hôm nay có deadline nào không?","hôm nay có deadline nào không",calendar,train
+214,"Chỉ đường về nhà giúp tôi!","chỉ đường về nhà giúp tôi",control_device,train
+215,"Thêm lịch nghe nhạc buổi tối.","thêm lịch nghe nhạc buổi tối",calendar,train
+216,"Thoát Zalo!","thoát zalo",control_device,train
+217,"Restart máy tính!","restart máy tính",control_device,train
+218,"Mở file PowerPoint!","mở file powerpoint",control_device,train
+219,"Variable là gì?","variable là gì",qa,train
+220,"Tại sao nên lập kế hoạch trước?","tại sao nên lập kế hoạch trước",qa,train
+221,"Tôi thường đi xe máy.","tôi thường đi xe máy",personalize,train
+222,"Tăng âm lượng!","tăng âm lượng",control_device,train
+223,"Tôi hay ăn sáng lúc 7 giờ.","tôi hay ăn sáng lúc 7 giờ",personalize,train
+224,"Lên lịch nói chuyện với khách hàng.","lên lịch nói chuyện với khách hàng",calendar,train
+225,"Machine learning khác deep learning chỗ nào?","machine learning khác deep learning chỗ nào",qa,train
+226,"Mở thư mục file!","mở thư mục file",control_device,train
+227,"Khóa điện thoại ngay!","khóa điện thoại ngay",control_device,train
+228,"Cách ghi nhớ nhanh bài học?","cách ghi nhớ nhanh bài học",qa,train
+229,"Tắt wifi ngay!","tắt wifi ngay",control_device,train
+230,"Tuần sau tôi có lịch gì?","tuần sau tôi có lịch gì",calendar,train
+231,"Thêm lịch học lập trình vào chiều nay.","thêm lịch học lập trình vào chiều nay",calendar,train
+232,"Vì sao có hiện tượng thủy triều?","vì sao có hiện tượng thủy triều",qa,train
+233,"Thêm lịch tập thể dục buổi sáng.","thêm lịch tập thể dục buổi sáng",calendar,train
+234,"Vì sao việc học không nên bị gián đoạn?","vì sao việc học không nên bị gián đoạn",qa,train
+235,"Tắt Messenger!","tắt messenger",control_device,train
+236,"Hôm nay tôi có lịch gì?","hôm nay tôi có lịch gì",calendar,train
+237,"Lên lịch chơi game tối nay.","lên lịch chơi game tối nay",calendar,train
+238,"Lịch họp nhóm dự án lúc mấy giờ?","lịch họp nhóm dự án lúc mấy giờ",calendar,train
+239,"Mở ứng dụng chỉnh sửa video!","mở ứng dụng chỉnh sửa video",control_device,train
+240,"Lịch ngày 25 có gì?","lịch ngày 25 có gì",calendar,train
+241,"Tại sao cần thử những điều mới?","tại sao cần thử những điều mới",qa,train
+242,"Khởi động lại máy!","khởi động lại máy",control_device,train
+243,"Lịch hôm nay có gì đáng chú ý?","lịch hôm nay có gì đáng chú ý",calendar,train
+244,"Tiêu chí chấm IELTS writing là gì?","tiêu chí chấm ielts writing là gì",qa,train
+245,"Làm mới màn hình desktop!","làm mới màn hình desktop",control_device,train
+246,"Nhắc tôi giặt quần áo tối nay.","nhắc tôi giặt quần áo tối nay",calendar,train
+247,"Hôm nay có cuộc hẹn nào không?","hôm nay có cuộc hẹn nào không",calendar,train
+248,"Mở điểm phát wifi!","mở điểm phát wifi",control_device,train
+249,"Gọi điện cho Đan!","gọi điện cho đan",control_device,train
+250,"Thêm lịch học online lúc 10 giờ sáng.","thêm lịch học online lúc 10 giờ sáng",calendar,train
+251,"Xem Netflix!","xem netflix",control_device,train
+252,"Cách sử dụng máy giặt đúng cách?","cách sử dụng máy giặt đúng cách",qa,train
+253,"Thêm lịch họp team vào thứ ba.","thêm lịch họp team vào thứ ba",calendar,train
+254,"Lịch thi đấu bóng đá hôm nay?","lịch thi đấu bóng đá hôm nay",qa,train
+255,"Thêm lịch đi ngân hàng ngày mai.","thêm lịch đi ngân hàng ngày mai",calendar,train
+256,"Tuần này có họp không?","tuần này có họp không",calendar,train
+257,"Khởi động lại máy tính!","khởi động lại máy tính",control_device,train
+258,"Tạo lịch đi ăn trưa lúc 12 giờ.","tạo lịch đi ăn trưa lúc 12 giờ",calendar,train
+259,"Thêm lịch kiểm tra tài chính.","thêm lịch kiểm tra tài chính",calendar,train
+260,"Tôi hay đi ngủ lúc 11h.","tôi hay đi ngủ lúc 11h",personalize,train
+261,"Tắt nhạc đang phát!","tắt nhạc đang phát",control_device,train
+262,"Tối nay có trận bóng nào?","tối nay có trận bóng nào",qa,train
+263,"Nhắc tôi làm bài tập vào tối nay.","nhắc tôi làm bài tập vào tối nay",calendar,train
+264,"Thêm lịch gọi điện buổi sáng.","thêm lịch gọi điện buổi sáng",calendar,train
+265,"Chiều nay tôi rảnh lúc nào?","chiều nay tôi rảnh lúc nào",calendar,train
+266,"Refresh màn hình!","refresh màn hình",control_device,train
+267,"Nhắn tin cho Chu!","nhắn tin cho chu",control_device,train
+268,"Tại sao ăn quá nhiều đường lại gây hại?","tại sao ăn quá nhiều đường lại gây hại",qa,train
+269,"Thêm lịch tập thể dục sáng mai.","thêm lịch tập thể dục sáng mai",calendar,train
+270,"Tại sao việc thực hành quan trọng hơn lý thuyết?","tại sao việc thực hành quan trọng hơn lý thuyết",qa,train
+271,"Ngày mai có gì không?","ngày mai có gì không",calendar,train
+272,"Thêm sinh nhật mẹ ngày 30 tháng 7.","thêm sinh nhật mẹ ngày 30 tháng 7",calendar,train
+273,"IELTS có mấy phần thi?","ielts có mấy phần thi",qa,train
+274,"Nhớ là tôi hay thức khuya.","nhớ là tôi hay thức khuya",personalize,train
+275,"Tôi thích làm việc có kế hoạch.","tôi thích làm việc có kế hoạch",personalize,train
+276,"Tại sao nên ghi chú khi học?","tại sao nên ghi chú khi học",qa,train
+277,"Sao chép file!","sao chép file",control_device,train
+278,"Làm sao để tạo thói quen tốt?","làm sao để tạo thói quen tốt",qa,train
+279,"Tháng này có sự kiện nào không?","tháng này có sự kiện nào không",calendar,train
+280,"Tạo nhắc nhở nộp bài ATmega128.","tạo nhắc nhở nộp bài atmega128",calendar,train
+281,"Biến trong lập trình là gì vậy?","biến trong lập trình là gì vậy",qa,train
+282,"Cách nấu phở bò ngon như thế nào?","cách nấu phở bò ngon như thế nào",qa,train
+283,"Tạo lịch họp lúc 9h sáng.","tạo lịch họp lúc 9h sáng",calendar,train
+284,"Nhắc tôi đi học lúc 6h.","nhắc tôi đi học lúc 6h",calendar,train
+285,"Tăng âm lượng thêm một chút!","tăng âm lượng thêm một chút",control_device,train
+286,"Tôi thích thời tiết dễ chịu.","tôi thích thời tiết dễ chịu",personalize,train
+287,"Xem lịch tuần sau giúp tôi.","xem lịch tuần sau giúp tôi",calendar,train
+288,"Trí tuệ nhân tạo là gì vậy?","trí tuệ nhân tạo là gì vậy",qa,train
+289,"Sự khác nhau giữa tiết kiệm và đầu tư?","sự khác nhau giữa tiết kiệm và đầu tư",qa,train
+290,"Dọn dẹp bộ nhớ máy!","dọn dẹp bộ nhớ máy",control_device,train
+291,"Tôi muốn sống lành mạnh hơn.","tôi muốn sống lành mạnh hơn",personalize,train
+292,"Tôi quan tâm đến thị trường chứng khoán.","tôi quan tâm đến thị trường chứng khoán",personalize,train
+293,"Nhắc tôi tham gia cuộc họp lúc 3 giờ chiều.","nhắc tôi tham gia cuộc họp lúc 3 giờ chiều",calendar,train
+294,"Next bài hát!","next bài hát",control_device,train
+295,"Cách tiết kiệm tiền hiệu quả?","cách tiết kiệm tiền hiệu quả",qa,train
+296,"Vitamin C có tác dụng gì?","vitamin c có tác dụng gì",qa,train
+297,"Sự khác nhau giữa HTTP và HTTPS là gì?","sự khác nhau giữa http và https là gì",qa,train
+298,"Hạ độ sáng màn hình!","hạ độ sáng màn hình",control_device,train
+299,"Mấy giờ học vi điều khiển?","mấy giờ học vi điều khiển",calendar,train
+300,"Thêm lịch làm việc buổi sáng.","thêm lịch làm việc buổi sáng",calendar,train
+301,"Ngày mai có lịch thi không?","ngày mai có lịch thi không",calendar,train
+302,"Mở IntelliJ!","mở intelij",control_device,train
+303,"Lưu lại sở thích của tôi.","lưu lại sở thích của tôi",personalize,train
+304,"Tôi hay dùng điện thoại buổi tối.","tôi hay dùng điện thoại buổi tối",personalize,train
+305,"Khi nào đến lịch bảo dưỡng xe?","khi nào đến lịch bảo dưỡng xe",calendar,train
+306,"Mở ứng dụng email!","mở ứng dụng email",control_device,train
+307,"Bật đèn pin lên!","bật đèn pin lên",control_device,train
+308,"Tôi thích làm việc vào buổi sáng.","tôi thích làm việc vào buổi sáng",personalize,train
+309,"Lịch tháng này ra sao?","lịch tháng này ra sao",calendar,train
+310,"Ghi nhớ địa chỉ trường học của tôi.","ghi nhớ địa chỉ trường học của tôi",personalize,train
+311,"Cho tôi đặt lịch họp vào ngày mai.","cho tôi đặt lịch họp vào ngày mai",calendar,train
+312,"Bộ nhớ RAM dùng để làm gì?","bộ nhớ ram dùng để làm gì",qa,train
+313,"Nhớ là tôi thường nghe nhạc lúc làm việc.","nhớ là tôi thường nghe nhạc lúc làm việc",personalize,train
+314,"Tôi không ăn đồ dầu mỡ.","tôi không ăn đồ dầu mỡ",personalize,train
+315,"Tối nay có kế hoạch gì?","tối nay có kế hoạch gì",calendar,train
+316,"Chụp màn hình giúp tôi!","chụp màn hình giúp tôi",control_device,train
+317,"Mở phần cài đặt hệ thống!","mở phần cài đặt hệ thống",control_device,train
+318,"Cho tôi xem lịch ngày mai.","cho tôi xem lịch ngày mai",calendar,train
+319,"Cách thanh toán online an toàn?","cách thanh toán online an toàn",qa,train
+320,"Xem có bản update không!","xem có bản update không",control_device,train
+321,"Lịch ngày mai như thế nào?","lịch ngày mai như thế nào",calendar,validation
+322,"Nhắc tôi liên hệ đối tác chiều mai.","nhắc tôi liên hệ đối tác chiều mai",calendar,validation
+323,"Tạo lịch cập nhật tin tức.","tạo lịch cập nhật tin tức",calendar,validation
+324,"Tại sao thiền giúp giảm căng thẳng?","tại sao thiền giúp giảm căng thẳng",qa,validation
+325,"Tạo lịch gọi điện cho gia đình tối chủ nhật.","tạo lịch gọi điện cho gia đình tối chủ nhật",calendar,validation
+326,"Tại sao giao thông cần luật lệ?","tại sao giao thông cần luật lệ",qa,validation
+327,"Tôi ăn nhạt.","tôi ăn nhạt",personalize,validation
+328,"Mở Chrome!","mở chrome",control_device,validation
+329,"Thêm lịch nấu ăn lúc 6 giờ chiều.","thêm lịch nấu ăn lúc 6 giờ chiều",calendar,validation
+330,"Cho tôi xem các sự kiện sắp tới.","cho tôi xem các sự kiện sắp tới",calendar,validation
+331,"Tôi rất thích đồ ăn cay.","tôi rất thích đồ ăn cay",personalize,validation
+332,"Tôi không thích video quá dài.","tôi không thích video quá dài",personalize,validation
+333,"Cách rã đông thực phẩm nhanh?","cách rã đông thực phẩm nhanh",qa,validation
+334,"Tại sao điện thoại nhanh hết pin?","tại sao điện thoại nhanh hết pin",qa,validation
+335,"Tôi rất thích bánh ngọt.","tôi rất thích bánh ngọt",personalize,validation
+336,"Mở lịch cho tôi xem!","mở lịch cho tôi xem",control_device,validation
+337,"Tạo nhắc ngủ sớm lúc 11h.","tạo nhắc ngủ sớm lúc 11h",calendar,validation
+338,"Cách tính tiền nước hàng tháng?","cách tính tiền nước hàng tháng",qa,validation
+339,"Tắt wifi!","tắt wifi",control_device,validation
+340,"Chuyển bài tiếp theo!","chuyển bài tiếp theo",control_device,validation
+341,"Nhắc tôi đi mua sắm vào chiều nay.","nhắc tôi đi mua sắm vào chiều nay",calendar,validation
+342,"Khởi động Jupyter Notebook!","khởi động jupyter notebook",control_device,validation
+343,"Kỹ năng giao tiếp quan trọng ra sao?","kỹ năng giao tiếp quan trọng ra sao",qa,validation
+344,"Tối nay có lịch học tiếng Anh không?","tối nay có lịch học tiếng anh không",calendar,validation
+345,"Tại sao cần tập thể dục?","tại sao cần tập thể dục",qa,validation
+346,"Mở file explorer!","mở file explorer",control_device,validation
+347,"Nấu mì gói cần bao nhiêu nước?","nấu mì gói cần bao nhiêu nước",qa,validation
+348,"Trong ngày hôm nay tôi rảnh lúc nào?","trong ngày hôm nay tôi rảnh lúc nào",calendar,validation
+349,"Chấm writing IELTS dựa trên gì?","chấm writing ielts dựa trên gì",qa,validation
+350,"Tôi hay xem phim ban đêm.","tôi hay xem phim ban đêm",personalize,validation
+351,"Ngày kia có bận không?","ngày kia có bận không",calendar,validation
+352,"Tạo lịch gọi điện vào ngày mai.","tạo lịch gọi điện vào ngày mai",calendar,validation
+353,"Lên lịch kiểm tra hệ thống.","lên lịch kiểm tra hệ thống",calendar,validation
+354,"Sự khác nhau giữa frontend và backend?","sự khác nhau giữa frontend và backend",qa,validation
+355,"Nhớ là tôi dị ứng đậu phộng nhé.","nhớ là tôi dị ứng đậu phộng nhé",personalize,validation
+356,"Thêm lịch học toán lúc 7 giờ tối.","thêm lịch học toán lúc 7 giờ tối",calendar,validation
+357,"Mùa hè ngày dài hơn đêm vì sao?","mùa hè ngày dài hơn đêm vì sao",qa,validation
+358,"Thêm lịch check mail buổi sáng.","thêm lịch check mail buổi sáng",calendar,validation
+359,"Nhắc tôi đi ngủ lúc 11 giờ đêm.","nhắc tôi đi ngủ lúc 11 giờ đêm",calendar,validation
+360,"Tại sao nên duy trì thói quen đọc sách?","tại sao nên duy trì thói quen đọc sách",qa,validation
+361,"Cách luyện nghe tiếng Anh hiệu quả?","cách luyện nghe tiếng Anh hiệu quả",qa,test
+362,"Tăng âm lượng lên mức cao!","tăng âm lượng lên mức cao",control_device,test
+363,"Khởi động lại điện thoại!","khởi động lại điện thoại",control_device,test
+364,"Kiểm tra trạng thái hệ thống!","kiểm tra trạng thái hệ thống",control_device,test
+365,"Ăn táo có tốt không?","ăn táo có tốt không",qa,test
+366,"Tôi không uống cà phê buổi tối.","tôi không uống cà phê buổi tối",personalize,test
+367,"Làm sao để tiết kiệm điện trong nhà?","làm sao để tiết kiệm điện trong nhà",qa,test
+368,"API dùng để làm gì trong lập trình?","api dùng để làm gì trong lập trình",qa,test
+369,"Truy cập thư mục Download!","truy cập thư mục download",control_device,test
+370,"Đặt lịch bảo trì xe điện.","đặt lịch bảo trì xe điện",calendar,test
+371,"Nhắc tôi sinh nhật mẹ.","nhắc tôi sinh nhật mẹ",calendar,test
+372,"Tôi không hay dùng bluetooth.","tôi không hay dùng bluetooth",personalize,test
+373,"Vì sao cần đa dạng hóa tài chính?","vì sao cần đa dạng hóa tài chính",qa,test
+374,"Python dùng để làm gì?","python dùng để làm gì",qa,test
+375,"Nhớ là tôi hay dậy sớm.","nhớ là tôi hay dậy sớm",personalize,test
+376,"Những sự kiện sắp tới là gì?","những sự kiện sắp tới là gì",calendar,test
+377,"Lên lịch kiểm tra công việc mỗi ngày.","lên lịch kiểm tra công việc mỗi ngày",calendar,test
+378,"Làm sao để giảm stress?","làm sao để giảm stress",qa,test
+379,"Xem lịch tuần sau.","xem lịch tuần sau",calendar,test
+380,"Chuyển bài tiếp theo!","chuyển bài tiếp theo",control_device,test
+381,"Ngày hôm nay có việc gì cần làm?","ngày hôm nay có việc gì cần làm",calendar,test
+382,"Khoảng cách Hà Nội Bắc Ninh là bao xa?","khoảng cách hà nội bắc ninh là bao xa",qa,test
+383,"Có việc gì sắp đến không?","có việc gì sắp đến không",calendar,test
+384,"Ngày mai tôi có kế hoạch gì?","ngày mai tôi có kế hoạch gì",calendar,test
+385,"Ngày kia có cuộc họp không?","ngày kia có cuộc họp không",calendar,test
+386,"Tôi thường đi làm bằng xe máy điện.","tôi thường đi làm bằng xe máy điện",personalize,test
+387,"Tại sao cần kiểm tra xe trước khi đi xa?","tại sao cần kiểm tra xe trước khi đi xa",qa,test
+388,"Làm sao để không bị trì hoãn?","làm sao để không bị trì hoãn",qa,test
+389,"Tuần sau có kế hoạch gì?","tuần sau có kế hoạch gì",calendar,test
+390,"Liệt kê lịch hôm nay.","liệt kê lịch hôm nay",calendar,test
+391,"Hôm nay tôi bận không?","hôm nay tôi bận không",calendar,test
+392,"Hãy ghi nhớ thói quen này.","hãy ghi nhớ thói quen này",personalize,test
+393,"Kỹ năng mềm là gì?","kỹ năng mềm là gì",qa,test
+394,"Tôi thích đọc tin công nghệ vào buổi sáng.","tôi thích đọc tin công nghệ vào buổi sáng",personalize,test
+395,"Mở Messenger!","mở messenger",control_device,test
+396,"Tôi thích nghe nhạc khi học.","tôi thích nghe nhạc khi học",personalize,test
+397,"Cuối tuần này có đi đâu không?","cuối tuần này có đi đâu không",calendar,test
+398,"Xem lịch tuần này.","xem lịch tuần này",calendar,test
+399,"Xem ca làm việc chiều nay.","xem ca làm việc chiều nay",calendar,test
+400,"Mở trình duyệt web!","mở trình duyệt web",control_device,test
+401,"Nhắc tôi gọi về nhà vào chủ nhật.","nhắc tôi gọi về nhà vào chủ nhật",calendar,train
+402,"Bật trình duyệt Chrome!","bật trình duyệt chrome",control_device,train
+403,"Nhắc tôi đi làm ca tối thứ sáu.","nhắc tôi đi làm ca tối thứ sáu",calendar,train
+404,"Mở Excel lên!","mở excel lên",control_device,train
+405,"Tuần này có deadline nào không?","tuần này có deadline nào không",calendar,train
+406,"Mở nhạc ballad trên YouTube!","mở nhạc balad trên youtube",control_device,train
+407,"Cách giải ax^2 + bx + c = 0?","cách giải ax^2 + bx + c = 0",qa,train
+408,"100 đô bằng bao nhiêu tiền Việt?","100 đô bằng bao nhiêu tiền việt",qa,train
+409,"Từ Hà Nội đến Bắc Ninh bao nhiêu km?","từ hà nội đến bắc ninh bao nhiêu km",qa,train
+410,"Tôi hay chơi game chiến thuật.","tôi hay chơi game chiến thuật",personalize,train
+411,"Ngày mai có bận không?","ngày mai có bận không",calendar,train
+412,"Cuối tuần có kế hoạch gì?","cuối tuần có kế hoạch gì",calendar,train
+413,"Tôi thường dùng laptop vào buổi tối.","tôi thường dùng laptop vào buổi tối",personalize,train
+414,"Nhắc tôi đi ngủ lúc 11 giờ tối.","nhắc tôi đi ngủ lúc 11 giờ tối",calendar,train
+415,"Vi điều khiển là gì vậy?","vi điều khiển là gì vậy",qa,train
+416,"Vì sao có hiện tượng nhật thực?","vì sao có hiện tượng nhật thực",qa,train
+417,"Thời gian nào hôm nay tôi trống?","thời gian nào hôm nay tôi trống",calendar,train
+418,"Tôi thích video ngắn thôi.","tôi thích video ngắn thôi",personalize,train
+419,"Đỉnh núi cao nhất Việt Nam tên gì?","đỉnh núi cao nhất việt nam tên gì",qa,train
+420,"Chiều thứ sáu có lịch gì không?","chiều thứ sáu có lịch gì không",calendar,train
+421,"Đi xe tiết kiệm xăng như thế nào?","đi xe tiết kiệm xăng như thế nào",qa,train
+422,"Tắt ứng dụng Chrome!","tắt ứng dụng chrome",control_device,train
+423,"Chiều nay tôi có lịch gì?","chiều nay tôi có lịch gì",calendar,train
+424,"Thế nào là kỹ năng mềm?","thế nào là kỹ năng mềm",qa,train
+425,"Bật ghi âm!","bật ghi âm",control_device,train
+426,"Nước nào rộng nhất thế giới?","nước nào rộng nhất thế giới",qa,train
+427,"Mở file Word gần nhất!","mở file word gần nhất",control_device,train
+428,"Tôi học tốt hơn vào buổi tối.","tôi học tốt hơn vào buổi tối",personalize,train
+429,"Sáng thứ hai tôi có họp không?","sáng thứ hai tôi có họp không",calendar,train
+430,"Tôi thích làm việc một mình.","tôi thích làm việc một mình",personalize,train
+431,"Tôi học IELTS hiện tại.","tôi học ielts hiện tại",personalize,train
+432,"Xem lịch làm việc hôm nay.","xem lịch làm việc hôm nay",calendar,train
+433,"Lưu lại địa điểm trường học.","lưu lại địa điểm trường học",personalize,train
+434,"Bắc Ninh có món gì nổi tiếng?","bắc ninh có món gì nổi tiếng",qa,train
+435,"Tôi thích theo dõi tin tức chứng khoán.","tôi thích theo dõi tin tức chứng khoán",personalize,train
+436,"Mở ứng dụng học tập!","mở ứng dụng học tập",control_device,train
+437,"Giúp tôi thêm lịch học lúc 7h tối.","giúp tôi thêm lịch học lúc 7h tối",calendar,train
+438,"Vì sao xe tiêu hao nhiên liệu khác nhau?","vì sao xe tiêu hao nhiên liệu khác nhau",qa,train
+439,"Tôi không ăn quá mặn.","tôi không ăn quá mặn",personalize,train
+440,"Bỏ chế độ máy bay!","bỏ chế độ máy bay",control_device,train
+441,"Bật wifi lên!","bật wifi lên",control_device,train
+442,"Cuối tuần này có việc gì không?","cuối tuần này có việc gì không",calendar,train
+443,"Mở file PDF!","mở file pdf",control_device,train
+444,"Nhắc tôi đi ngủ sớm tối nay.","nhắc tôi đi ngủ sớm tối nay",calendar,train
+445,"Tại sao điều hòa không mát?","tại sao điều hòa không mát",qa,train
+446,"Tôi thích xem phim vào buổi tối.","tôi thích xem phim vào buổi tối",personalize,train
+447,"Tôi thích không gian mát mẻ.","tôi thích không gian mát mẻ",personalize,train
+448,"Thêm lịch học lúc 6 giờ sáng mai.","thêm lịch học lúc 6 giờ sáng mai",calendar,train
+449,"Tôi thích làm việc theo deadline rõ ràng.","tôi thích làm việc theo deadline rõ ràng",personalize,train
+450,"Tắt bluetooth!","tắt bluetooth",control_device,train
+451,"Chạy PowerPoint!","chạy powerpoint",control_device,train
+452,"Đặt lịch học ngày mai 6 giờ.","đặt lịch học ngày mai 6 giờ",calendar,train
+453,"Hủy lịch mai.","hủy lịch mai",calendar,train
+454,"Hủy lịch ngày mai.","hủy lịch ngày mai",calendar,train
+455,"Thêm lịch mai dậy.","thêm lịch mai dậy",calendar,train
+456,"Đặt lịch mai.","đặt lịch mai",calendar,train
+457,"Thêm lịch ăn sáng lúc 7 giờ.","thêm lịch ăn sáng lúc 7 giờ",calendar,train
+458,"Sáng nay có lịch học không?","sáng nay có lịch học không",calendar,train
+459,"Thời tiết hôm nay thế nào?","thời tiết hôm nay thế nào",qa,train
+460,"Tắt YouTube!","tắt youtube",control_device,train
+461,"Cách sống tích cực hơn mỗi ngày?","cách sống tích cực hơn mỗi ngày",qa,train
+462,"Tạm dừng nhạc lại!","tạm dừng nhạc lại",control_device,train
+463,"Xem Recycle Bin!","xem recycle bin",control_device,train
+464,"Dán file vào thư mục!","dán file vào thư mục",control_device,train
+465,"Tính diện tích hình tròn như thế nào?","tính diện tích hình tròn như thế nào",qa,train
+466,"Tôi không thích uống nước lạnh.","tôi không thích uống nước lạnh",personalize,train
+467,"Kiểm tra cập nhật hệ thống đi!","kiểm tra cập nhật hệ thống đi",control_device,train
+468,"Tuần sau có lịch học không?","tuần sau có lịch học không",calendar,train
+469,"Lịch hôm nay của tôi ra sao?","lịch hôm nay của tôi ra sao",calendar,train
+470,"Cách đặt mục tiêu cá nhân?","cách đặt mục tiêu cá nhân",qa,train
+471,"Đọc tin nhắn gần đây!","đọc tin nhắn gần đây",control_device,train
+472,"Vì sao luyện nghe quan trọng trong học tiếng Anh?","vì sao luyện nghe quan trọng trong học tiếng anh",qa,train
+473,"Tại sao nên thiền?","tại sao nên thiền",qa,train
+474,"Mặt trăng có ánh sáng không?","mặt trăng có ánh sáng không",qa,train
+475,"Tôi hay đi bộ vào cuối tuần.","tôi hay đi bộ vào cuối tuần",personalize,train
+476,"Tắt Word đi!","tắt word đi",control_device,train
+477,"Tại sao có gió?","tại sao có gió",qa,train
+478,"Bây giờ là mấy giờ?","bây giờ là mấy giờ",qa,train
+479,"Nhắc tôi kiểm tra tài khoản.","nhắc tôi kiểm tra tài khoản",calendar,train
+480,"Lên lịch rửa xe vào sáng mai.","lên lịch rửa xe vào sáng mai",calendar,train
+481,"Mở ứng dụng ghi chú!","mở ứng dụng ghi chú",control_device,train
+482,"Mở YouTube!","mở youtube",control_device,train
+483,"Tôi thích nghe nhạc.","tôi thích nghe nhạc",personalize,train
+484,"Khóa màn hình ngay!","khóa màn hình ngay",control_device,train
+485,"Tôi rảnh lúc nào trong tháng này?","tôi rảnh lúc nào trong tháng này",calendar,train
+486,"Nhắc tôi học bài vào 8 giờ tối nay.","nhắc tôi học bài vào 8 giờ tối nay",calendar,train
+487,"Tháng này có kế hoạch gì?","tháng này có kế hoạch gì",calendar,train
+488,"Tôi hay học vào ban đêm.","tôi hay học vào ban đêm",personalize,train
+489,"Tôi ghét thời tiết nóng.","tôi ghét thời tiết nóng",personalize,train
+490,"Mặt trời thường mọc hướng nào?","mặt trời thường mọc hướng nào",qa,train
+491,"Thêm lịch ôn thi vào buổi tối.","thêm lịch ôn thi vào buổi tối",calendar,train
+492,"Tạo lịch họp nhóm dự án lúc 10 giờ sáng mai.","tạo lịch họp nhóm dự án lúc 10 giờ sáng mai",calendar,train
+493,"Cầu Vàng ở đâu?","cầu vàng ở đâu",qa,train
+494,"Tại sao cần hiểu tài chính cá nhân?","tại sao cần hiểu tài chính cá nhân",qa,train
+495,"Tại sao nên bảo dưỡng xe định kỳ?","tại sao nên bảo dưỡng xe định kỳ",qa,train
+496,"Sáng nay tôi có lịch gì?","sáng nay tôi có lịch gì",calendar,train
+497,"Sự kiện tiếp theo là gì?","sự kiện tiếp theo là gì",calendar,train
+498,"Bật Microsoft Word!","bật microsoft word",control_device,train
+499,"Tôi thích nhiệt độ phòng khoảng 25 độ.","tôi thích nhiệt độ phòng khoảng 25 độ",personalize,train
+500,"Tôi thường nghe podcast trước khi ngủ.","tôi thường nghe podcast trước khi ngủ",personalize,train
+501,"Làm sao để cân bằng công việc và cuộc sống?","làm sao để cân bằng công việc và cuộc sống",qa,train
+502,"Tôi có kế hoạch gì sắp tới không?","tôi có kế hoạch gì sắp tới không",calendar,train
+503,"Ngày kia có việc gì không?","ngày kia có việc gì không",calendar,train
+504,"Giải phương trình bậc hai như thế nào?","giải phương trình bậc hai như thế nào",qa,train
+505,"Tại sao cần luyện phát âm?","tại sao cần luyện phát âm",qa,train
+506,"Tôi thường đọc sách trước khi ngủ.","tôi thường đọc sách trước khi ngủ",personalize,train
+507,"Mở PyCharm!","mở pycharm",control_device,train
+508,"Chiều nay có cuộc họp không?","chiều nay có cuộc họp không",calendar,train
+509,"Tại sao bầu trời có màu xanh?","tại sao bầu trời có màu xanh",qa,train
+510,"Hôm nay có lịch gì?","hôm nay có lịch gì",calendar,train
+511,"Chiều nay tôi có ca ShopeeFood không?","chiều nay tôi có ca shopeefood không",calendar,train
+512,"Xem thông tin hệ thống!","xem thông tin hệ thống",control_device,train
+513,"Lịch tuần này như thế nào?","lịch tuần này như thế nào",calendar,train
+514,"Tạo lịch dọn dẹp nhà cửa.","tạo lịch dọn dẹp nhà cửa",calendar,train
+515,"Tôi nghe podcast mỗi tối.","tôi nghe podcast mỗi tối",personalize,train
+516,"Mở Spotify phát nhạc!","mở spotify phát nhạc",control_device,train
+517,"Tại sao xe bị hao xăng?","tại sao xe bị hao xăng",qa,train
+518,"Tôi ưu tiên đường nhanh.","tôi ưu tiên đường nhanh",personalize,train
+519,"Lên lịch ôn bài vào buổi tối.","lên lịch ôn bài vào buổi tối",calendar,train
+520,"Sự khác biệt giữa CPU và GPU?","sự khác biệt giữa cpu và gpu",qa,train
+521,"Tháng này có lịch học không?","tháng này có lịch học không",calendar,train
+522,"Ngày mai có kế hoạch gì?","ngày mai có kế hoạch gì",calendar,train
+523,"Thêm lịch luyện speaking IELTS lúc 8 giờ tối mỗi ngày.","thêm lịch luyện speaking ielts lúc 8 giờ tối mỗi ngày",calendar,train
+524,"Bật chế độ im lặng!","bật chế độ im lặng",control_device,train
+525,"Chụp ảnh ngay bây giờ!","chụp ảnh ngay bây giờ",control_device,train
+526,"Rạp chiếu phim gần đây ở đâu?","rạp chiếu phim gần đây ở đâu",qa,train
+527,"Thêm lịch đi làm lúc 8 giờ sáng.","thêm lịch đi làm lúc 8 giờ sáng",calendar,train
+528,"Ăn sáng có quan trọng không?","ăn sáng có quan trọng không",qa,train
+529,"Nhớ nhắc tôi học bài lúc 8h.","nhớ nhắc tôi học bài lúc 8h",calendar,train
+530,"Tuần này tôi có lịch gì?","tuần này tôi có lịch gì",calendar,train
+531,"Ghi lại là tôi không uống được đá lạnh.","ghi lại là tôi không uống được đá lạnh",personalize,train
+532,"Nhắc tôi nghỉ ngơi lúc 10 giờ tối.","nhắc tôi nghỉ ngơi lúc 10 giờ tối",calendar,train
+533,"Lên lịch trao đổi công việc vào chiều thứ sáu.","lên lịch trao đổi công việc vào chiều thứ sáu",calendar,train
+534,"Thêm lịch meeting vào ngày mai.","thêm lịch meeting vào ngày mai",calendar,train
+535,"Tôi có thói quen uống cà phê buổi sáng.","tôi có thói quen uống cà phê buổi sáng",personalize,train
+536,"Cuối tuần có bận không?","cuối tuần có bận không",calendar,train
+537,"Khi nào nên rửa xe?","khi nào nên rửa xe",qa,train
+538,"Nên gửi tiết kiệm hay đầu tư?","nên gửi tiết kiệm hay đầu tư",qa,train
+539,"Tăng độ sáng màn hình lên!","tăng độ sáng màn hình lên",control_device,train
+540,"Có lịch gì sắp tới không?","có lịch gì sắp tới không",calendar,train
+541,"Tắt video!","tắt video",control_device,train
+542,"Đặt lịch học nhóm vào chiều mai.","đặt lịch học nhóm vào chiều mai",calendar,train
+543,"Tôi thích uống trà.","tôi thích uống trà",personalize,train
+544,"Nhắc tôi ôn từ vựng tiếng Anh hàng ngày.","nhắc tôi ôn từ vựng tiếng anh hàng ngày",calendar,train
+545,"Ưu tiên đường không bị tắc.","ưu tiên đường không bị tắc",personalize,train
+546,"Ghi lại giúp tôi.","ghi lại giúp tôi",personalize,train
+547,"Tạo lịch làm đề reading vào sáng chủ nhật.","tạo lịch làm đề reading vào sáng chủ nhật",calendar,train
+548,"Tại sao bầu trời chuyển màu vào lúc hoàng hôn?","tại sao bầu trời chuyển màu vào lúc hoàng hôn",qa,train
+549,"Khi nào nên dùng GPU thay vì CPU?","khi nào nên dùng gpu thay vì cpu",qa,train
+550,"Lịch của tôi hiện tại thế nào?","lịch của tôi hiện tại thế nào",calendar,train
+551,"Tôi thích đi đường ngắn nhất.","tôi thích đi đường ngắn nhất",personalize,train
+552,"Tại sao uống nhiều nước lại tốt cho da?","tại sao uống nhiều nước lại tốt cho da",qa,train
+553,"Vì sao nên đọc sách tiếng Anh?","vì sao nên đọc sách tiếng anh",qa,train
+554,"Giảm âm lượng xuống thấp!","giảm âm lượng xuống thấp",control_device,train
+555,"Học online hiệu quả như thế nào?","học online hiệu quả như thế nào",qa,train
+556,"Tôi ít khi dùng bluetooth.","tôi ít khi dùng bluetooth",personalize,train
+557,"Tắt màn hình!","tắt màn hình",control_device,train
+558,"Sáng nay tôi có bận gì không?","sáng nay tôi có bận gì không",calendar,train
+559,"Lên lịch đọc sách lúc 9 giờ tối.","lên lịch đọc sách lúc 9 giờ tối",calendar,train
+560,"Lịch sắp tới của tôi là gì?","lịch sắp tới của tôi là gì",calendar,train
+561,"Tôi có khoảng trống nào không?","tôi có khoảng trống nào không",calendar,train
+562,"Vì sao giấc ngủ ảnh hưởng đến tâm trạng?","vì sao giấc ngủ ảnh hưởng đến tâm trạng",qa,train
+563,"Tại sao lá cây có màu xanh?","tại sao lá cây có màu xanh",qa,train
+564,"Tạo nhắc nhở đi chạy bộ lúc 6 giờ.","tạo nhắc nhở đi chạy bộ lúc 6 giờ",calendar,train
+565,"Xem lịch giúp tôi.","xem lịch giúp tôi",calendar,train
+566,"Khi nào hôm nay tôi trống?","khi nào hôm nay tôi trống",calendar,train
+567,"Hôm nay tôi có gì không?","hôm nay tôi có gì không",calendar,train
+568,"Mở ứng dụng ghi chú nhanh!","mở ứng dụng ghi chú nhanh",control_device,train
+569,"Ngày mai có kiểm tra gì không?","ngày mai có kiểm tra gì không",calendar,train
+570,"Sáng nay tôi có rảnh không?","sáng nay tôi có rảnh không",calendar,train
+571,"Ngày mai tôi có lịch gì không?","ngày mai tôi có lịch gì không",calendar,train
+572,"Lịch ngày mai có gì?","lịch ngày mai có gì",calendar,train
+573,"Tôi hay xem tin công nghệ mỗi sáng.","tôi hay xem tin công nghệ mỗi sáng",personalize,train
+574,"Vì sao nước sôi ở 100 độ C?","vì sao nước sôi ở 100 độ c",qa,train
+575,"Tháng này có deadline nào?","tháng này có deadline nào",calendar,train
+576,"Chiều nay tôi có bận không?","chiều nay tôi có bận không",calendar,train
+577,"Big Data là gì?","big data là gì",qa,train
+578,"Nhắc tôi kiểm tra deadline.","nhắc tôi kiểm tra deadline",calendar,train
+579,"Giá vàng hiện tại là bao nhiêu?","giá vàng hiện tại là bao nhiêu",qa,train
+580,"Phát playlist yêu thích!","phát playlist yêu thích",control_device,train
+581,"Nhắc tôi họp zoom lúc 8 giờ tối.","nhắc tôi họp zoom lúc 8 giờ tối",calendar,train
+582,"Vì sao cần kiên trì khi học?","vì sao cần kiên trì khi học",qa,train
+583,"Uống cà phê nhiều có tốt không?","uống cà phê nhiều có tốt không",qa,train
+584,"Cầu vồng xuất hiện khi nào?","cầu vồng xuất hiện khi nào",qa,train
+585,"Đặt lịch giúp tôi tối nay.","đặt lịch giúp tôi tối nay",calendar,train
+586,"Cách duy trì lối sống lành mạnh?","cách duy trì lối sống lành mạnh",qa,train
+587,"Sông dài nhất thế giới là sông nào?","sông dài nhất thế giới là sông nào",qa,train
+588,"Bao nhiêu phút là 1 giờ?","bao nhiêu phút là 1 giờ",qa,train
+589,"Mã OTP là gì?","mã otp là gì",qa,train
+590,"Ngày kia có lịch học không?","ngày kia có lịch học không",calendar,train
+591,"Ai là tổng thống Mỹ?","ai là tổng thống mỹ",qa,train
+592,"Tôi học Đại học Khoa học Tự nhiên.","tôi học đại học khoa học tự nhiên",personalize,train
+593,"Phân biệt ML và DL?","phân biệt ml và dl",qa,train
+594,"Mở thư viện ảnh!","mở thư viện ảnh",control_device,train
+595,"Cuối tuần có kế hoạch gì không?","cuối tuần có kế hoạch gì không",calendar,train
+596,"Tắt thông báo!","tắt thông báo",control_device,train
+597,"Nhắc tôi luyện đàn lúc 8 giờ.","nhắc tôi luyện đàn lúc 8 giờ",calendar,train
+598,"ChatGPT hoạt động như thế nào?","chatgpt hoạt động như thế nào",qa,train
+599,"Tôi có bao nhiêu lịch hôm nay?","tôi có bao nhiêu lịch hôm nay",calendar,train
+600,"Tuần này có lịch học không?","tuần này có lịch học không",calendar,train
+601,"Gọi điện cho số gần nhất!","gọi điện cho số gần nhất",control_device,train
+602,"Tạo lịch họp với khách hàng vào chiều mai.","tạo lịch họp với khách hàng vào chiều mai",calendar,train
+603,"Tại sao cần nghỉ ngơi?","tại sao cần nghỉ ngơi",qa,train
+604,"Khi nào tôi không có lịch?","khi nào tôi không có lịch",calendar,train
+605,"Tôi không thích trời quá nóng.","tôi không thích trời quá nóng",personalize,train
+606,"Gọi cho mẹ!","gọi cho mẹ",control_device,train
+607,"Vì sao con người cần giao tiếp xã hội?","vì sao con người cần giao tiếp xã hội",qa,train
+608,"Mở nhạc trên YouTube!","mở nhạc trên youtube",control_device,train
+609,"Phát nhạc tiếp!","phát nhạc tiếp",control_device,train
+610,"Thêm lịch theo dõi công việc.","thêm lịch theo dõi công việc",calendar,train
+611,"Tôi thường tập gym lúc 2 giờ chiều.","tôi thường tập gym lúc 2 giờ chiều",personalize,train
+612,"Mở Netflix xem phim!","mở netflix xem phim",control_device,train
+613,"Nhắc tôi đóng học phí.","nhắc tôi đóng học phí",calendar,train
+614,"Tôi không thích tiếng ồn.","tôi không thích tiếng ồn",personalize,train
+615,"Giấy phép lái xe cần những gì?","giấy phép lái xe cần những gì",qa,train
+616,"Ngày kia có lịch gì không?","ngày kia có lịch gì không",calendar,train
+617,"Thêm lịch dọn phòng vào chiều nay.","thêm lịch dọn phòng vào chiều nay",calendar,train
+618,"Xem lịch tháng này.","xem lịch tháng này",calendar,train
+619,"Cách dùng thì hiện tại hoàn thành?","cách dùng thì hiện tại hoàn thành",qa,train
+620,"Mở Jupyter!","mở jupyter",control_device,train
+621,"Tuần sau có bận không?","tuần sau có bận không",calendar,validation
+622,"RAM ảnh hưởng thế nào đến hiệu năng máy tính?","ram ảnh hưởng thế nào đến hiệu năng máy tính",qa,validation
+623,"Chiều nay có khoảng trống nào không?","chiều nay có khoảng trống nào không",calendar,validation
+624,"Tôi thích làm việc trong yên tĩnh.","tôi thích làm việc trong yên tĩnh",personalize,validation
+625,"Mở Google Maps!","mở google maps",control_device,validation
+626,"Tôi có mấy cuộc họp ngày mai?","tôi có mấy cuộc họp ngày mai",calendar,validation
+627,"Tôi hạn chế đồ chiên rán.","tôi hạn chế đồ chiên rán",personalize,validation
+628,"Ăn nhiều đường có hại không?","ăn nhiều đường có hại không",qa,validation
+629,"Tôi không thích kẹt xe.","tôi không thích kẹt xe",personalize,validation
+630,"Sáng thứ bảy tôi có trống lịch không?","sáng thứ bảy tôi có trống lịch không",calendar,validation
+631,"Cuộc hẹn tiếp theo khi nào?","cuộc hẹn tiếp theo khi nào",calendar,validation
+632,"Ngủ bao nhiêu tiếng là đủ mỗi ngày?","ngủ bao nhiêu tiếng là đủ mỗi ngày",qa,validation
+633,"Vì sao nên duy trì thói quen tốt?","vì sao nên duy trì thói quen tốt",qa,validation
+634,"Lên lịch trả tiền nhà.","lên lịch trả tiền nhà",calendar,validation
+635,"Tôi thích nhận thông báo dạng văn bản.","tôi thích nhận thông báo dạng văn bản",personalize,validation
+636,"Công thức tính diện tích hình tròn là gì?","công thức tính diện tích hình tròn là gì",qa,validation
+637,"Giảm độ sáng màn hình!","giảm độ sáng màn hình",control_device,validation
+638,"Vì sao âm thanh truyền được trong không khí?","vì sao âm thanh truyền được trong không khí",qa,validation
+639,"Tăng độ sáng màn hình!","tăng độ sáng màn hình",control_device,validation
+640,"Xem video trên YouTube!","xem video trên youtube",control_device,validation
+641,"Nhắc tôi uống thuốc tối nay.","nhắc tôi uống thuốc tối nay",calendar,validation
+642,"Làm sao để không thức khuya?","làm sao để không thức khuya",qa,validation
+643,"Tạo lịch gọi zoom vào tối nay.","tạo lịch gọi zoom vào tối nay",calendar,validation
+644,"Lên lịch đi siêu thị chiều nay.","lên lịch đi siêu thị chiều nay",calendar,validation
+645,"Tôi là fan của nhạc Lo-Fi.","tôi là fan của nhạc lofi",personalize,validation
+646,"Tắt chế độ máy bay giúp tôi!","tắt chế độ máy bay giúp tôi",control_device,validation
+647,"Trong tháng 4 tôi có những lịch nào?","trong tháng 4 tôi có những lịch nào",calendar,validation
+648,"1 cộng 1 bằng mấy?","1 cộng 1 bằng mấy",qa,validation
+649,"Hôm nay tôi có lịch gì quan trọng không?","hôm nay tôi có lịch gì quan trọng không",calendar,validation
+650,"Mở Task Manager!","mở task manager",control_device,validation
+651,"Dân số Hà Nội bao nhiêu?","dân số hà nội bao nhiêu",qa,test
+652,"√144 là bao nhiêu?","√144 là bao nhiêu",qa,test
+653,"Kết thúc tiến trình!","kết thúc tiến trình",control_device,test
+654,"Tôi thích sống tối giản.","tôi thích sống tối giản",personalize,test
+655,"Chiều tôi hay bị mất tập trung.","chiều tôi hay bị mất tập trung",personalize,test
+656,"Hôm nay ngày mấy âm lịch?","hôm nay ngày mấy âm lịch",qa,test
+657,"Mở Terminal giúp tôi!","mở terminal giúp tôi",control_device,test
+658,"Bật Calculator!","bật calculator",control_device,test
+659,"Thêm lịch đi khám định kỳ.","thêm lịch đi khám định kỳ",calendar,test
+660,"Lịch trong vài ngày tới như thế nào?","lịch trong vài ngày tới như thế nào",calendar,test
+661,"Tuần sau có họp không?","tuần sau có họp không",calendar,test
+662,"Cách học ngoại ngữ hiệu quả?","cách học ngoại ngữ hiệu quả",qa,test
+663,"Lịch học IELTS hôm nay lúc mấy giờ?","lịch học ielts hôm nay lúc mấy giờ",calendar,test
+664,"Lên lịch đi học lúc 7 giờ.","lên lịch đi học lúc 7 giờ",calendar,test
+665,"Ngày kia tôi có lịch gì?","ngày kia tôi có lịch gì",calendar,test
+666,"Thế nào là lối sống lành mạnh?","thế nào là lối sống lành mạnh",qa,test
+667,"Đóng Notepad!","đóng notepad",control_device,test
+668,"Lên lịch kiểm tra sức khỏe tháng sau.","lên lịch kiểm tra sức khỏe tháng sau",calendar,test
+669,"Kích hoạt chế độ im lặng!","kích hoạt chế độ im lặng",control_device,test
+670,"Vì sao tập thể dục buổi sáng hiệu quả hơn?","vì sao tập thể dục buổi sáng hiệu quả hơn",qa,test
+671,"Tại sao cần ngủ đủ giấc?","tai sao cần ngủ đủ giấc",qa,test
+672,"Họp nhóm dự án diễn ra khi nào?","họp nhóm dự án diễn ra khi nào",calendar,test
+673,"Nhớ là tôi thích học online.","nhớ là tôi thích học online",personalize,test
+674,"Tắt nguồn điện thoại!","tắt nguồn điện thoại",control_device,test
+675,"Tôi có rảnh tối nay không?","tôi có rảnh tối nay không",calendar,test
+676,"Tắt máy ngay!","tắt máy ngay",control_device,test
+677,"Previous bài!","previous bài",control_device,test
+678,"Vì sao nên ăn sáng đầy đủ?","vì sao nên ăn sáng đầy đủ",qa,train
+679,"Lên lịch cafe vào chiều mai.","lên lịch cafe vào chiều mai",calendar,train
+680,"Vì sao con người dễ bị áp lực?","vì sao con người dễ bị áp lực",qa,train
+681,"Lên lịch học thêm vào tối nay.","lên lịch học thêm vào tối nay",calendar,train
+682,"Tạo lịch khám bệnh vào thứ năm.","tạo lịch khám bệnh vào thứ năm",calendar,train
+683,"Cách pha cà phê phin ngon?","cách pha cà phê phin ngon",qa,train
+684,"Tôi thích làm việc buổi tối.","tôi thích làm việc buổi tối",personalize,train
+685,"Tại sao multitasking không hiệu quả?","tại sao multitasking không hiệu quả",qa,train
+686,"Vì sao cần luyện nói thường xuyên?","vì sao cần luyện nói thường xuyên",qa,train
+687,"Tại sao cần uống đủ nước mỗi ngày?","tại sao cần uống đủ nước mỗi ngày",qa,train
+688,"Tại sao ánh sáng xanh ảnh hưởng đến giấc ngủ?","tại sao ánh sáng xanh ảnh hưởng đến giấc ngủ",qa,train
+689,"Vì sao cần thực hành thường xuyên?","vì sao cần thực hành thường xuyên",qa,train
+690,"Tôi thích đi xe máy hơn ô tô.","tôi thích đi xe máy hơn ô tô",personalize,train
+691,"Tại sao cần nghỉ ngơi hợp lý?","tại sao cần nghỉ ngơi hợp lý",qa,train
+692,"Tạo nhắc nhở uống nước đều đặn.","tạo nhắc nhở uống nước đều đặn",calendar,train
+693,"Tôi có rảnh cuối tuần không?","tôi có rảnh cuối tuần không",calendar,train
+694,"Cấu trúc bài thi IELTS gồm những gì?","cấu trúc bài thi ielts gồm những gì",qa,train
+695,"Đóng PyCharm lại!","đóng pycharm lại",control_device,train
+696,"Tắt tất cả ứng dụng!","tắt tất cả ứng dụng",control_device,train
+697,"Tạo lịch lau nhà cuối tuần.","tạo lịch lau nhà cuối tuần",calendar,train
+698,"Tuần sau có kế hoạch gì không?","tuần sau có kế hoạch gì không",calendar,train
+699,"Đổi sang chế độ tối!","đổi sang chế độ tối",control_device,train
+700,"Nhắc tôi đi họp lúc 10 giờ.","nhắc tôi đi họp lúc 10 giờ",calendar,train
+701,"Tôi tránh uống cà phê buổi tối.","tôi tránh uống cà phê buổi tối",personalize,train
+702,"Từ ""sustainable"" nghĩa là gì?","từ sustainable nghĩa là gì",qa,train
+703,"Tôi đang xây dựng lối sống healthy.","tôi đang xây dựng lối sống healthy",personalize,train
+704,"Mở ứng dụng thời tiết!","mở ứng dụng thời tiết",control_device,train
+705,"Tạo lịch sạc pin xe lúc 11 giờ đêm.","tạo lịch sạc pin xe lúc 11 giờ đêm",calendar,train
+706,"Mở Control Panel!","mở control panel",control_device,train
+707,"Tôi cần ngủ đủ giấc.","tôi cần ngủ đủ giấc",personalize,train
+708,"Vì sao cần giữ khoảng cách an toàn?","vì sao cần giữ khoảng cách an toàn",qa,train
+709,"Chụp ảnh!","chụp ảnh",control_device,train
+710,"Lịch trình ngày mai ra sao?","lịch trình ngày mai ra sao",calendar,train
+711,"Tại sao nên tập thể dục buổi sáng?","tại sao nên tập thể dục buổi sáng",qa,train
+712,"Tôi thích không gian mát mẻ.","tôi thích không gian mát mẻ",personalize,train
+713,"Mở danh bạ!","mở danh bạ",control_device,train
+714,"Tôi hay ngủ trưa khoảng 30 phút.","tôi hay ngủ trưa khoảng 30 phút",personalize,train
+715,"Tắt đèn pin đi!","tắt đèn pin đi",control_device,train
+716,"Tiếp tục phát nhạc!","tiếp tục phát nhạc",control_device,train
+717,"Tôi đang cố gắng tập thể dục đều.","tôi đang cố gắng tập thể dục đều",personalize,train
+718,"Ngày kia tôi có lịch gì không?","ngày kia tôi có lịch gì không",calendar,train
+719,"Tại sao trời có mưa?","tại sao trời có mưa",qa,train
+720,"Tắt ứng dụng đang chạy!","tắt ứng dụng đang chạy",control_device,train
+721,"Ổ cứng SSD khác gì HDD?","ổ cứng ssd khác gì hdd",qa,train
+722,"Tạo lịch giải trí cuối tuần.","tạo lịch giải trí cuối tuần",calendar,train
+723,"Tại sao con người cần ngủ mỗi ngày?","tại sao con người cần ngủ mỗi ngày",qa,train
+724,"Tháng này tôi có lịch gì?","tháng này tôi có lịch gì",calendar,train
+725,"Thêm giúp tôi một nhắc nhở lúc 6h.","thêm giúp tôi một nhắc nhở lúc 6h",calendar,train
+726,"Ngày mai có việc gì cần làm?","ngày mai có việc gì cần làm",calendar,train
+727,"Khởi động Google Chrome!","khởi động google chrome",control_device,train
+728,"Mở Google!","mở google",control_device,train
+729,"Mở Google Chrome!","mở google chrome",control_device,train
+730,"Tôi muốn ngủ đủ 8 tiếng mỗi ngày.","tôi muốn ngủ đủ 8 tiếng mỗi ngày",personalize,train
+731,"Nhắc tôi họp lúc 3h chiều.","nhắc tôi họp lúc 3h chiều",calendar,train
+732,"Tôi có rảnh tuần sau không?","tôi có rảnh tuần sau không",calendar,train
+733,"Bật lại âm thanh!","bật lại âm thanh",control_device,train
+734,"Lịch tuần sau ra sao?","lịch tuần sau ra sao",calendar,train
+735,"Tăng âm lượng lên!","tăng âm lượng lên",control_device,train
+736,"Cầu Vàng thuộc tỉnh nào?","cầu vàng thuộc tỉnh nào",qa,train
+737,"Thêm lịch xem phim tối nay.","thêm lịch xem phim tối nay",calendar,train
+738,"Tôi có rảnh tối nay không?","tôi có rảnh tối nay không",calendar,train
+739,"Tắt bluetooth giúp tôi!","tắt bluetooth giúp tôi",control_device,train
+740,"Mở ứng dụng gallery!","mở ứng dụng gallery",control_device,train
+741,"Lịch làm việc tuần này thế nào?","lịch làm việc tuần này thế nào",calendar,train
+742,"Nhắc tôi bảo dưỡng xe vào cuối tháng.","nhắc tôi bảo dưỡng xe vào cuối tháng",calendar,train
+743,"Tôi hay uống trà.","tôi hay uống trà",personalize,train
+744,"Mở Task Manager!","mở task manager",control_device,train
+745,"Cách dậy sớm hiệu quả?","cách dậy sớm hiệu quả",qa,train
+746,"Cách cải thiện tâm trạng khi buồn?","cách cải thiện tâm trạng khi buồn",qa,train
+747,"Thêm lịch đi ăn tối lúc 7 giờ.","thêm lịch đi ăn tối lúc 7 giờ",calendar,train
+748,"Đóng file hiện tại!","đóng file hiện tại",control_device,train
+749,"Mở Facebook!","mở facebook",control_device,train
+750,"Tắt trình duyệt!","tắt trình duyệt",control_device,train
+751,"Nhắc tôi xem phim vào tối nay.","nhắc tôi xem phim vào tối nay",calendar,train
+752,"Tạo lịch ăn tối lúc 7 giờ.","tạo lịch ăn tối lúc 7 giờ",calendar,train
+753,"Cách kéo dài tuổi thọ pin điện thoại?","cách kéo dài tuổi thọ pin điện thoại",qa,train
+754,"Ngôn ngữ Python có tác dụng gì?","ngôn ngữ python có tác dụng gì",qa,train
+755,"Tôi muốn tăng cân.","tôi muốn tăng cân",personalize,train
+756,"Cuối tuần tôi thường đi bộ.","cuối tuần tôi thường đi bộ",personalize,train
+757,"Tôi thường order đồ ăn online.","tôi thường order đồ ăn online",personalize,train
+758,"Tôi muốn tập thể dục mỗi ngày.","tôi muốn tập thể dục mỗi ngày",personalize,train
+759,"Nhắc tôi họp nhóm vào sáng mai.","nhắc tôi họp nhóm vào sáng mai",calendar,train
+760,"Lên lịch thanh toán tiền nước.","lên lịch thanh toán tiền nước",calendar,train
+761,"Lên lịch họp online ngày mai.","lên lịch họp online ngày mai",calendar,train
+762,"Tại sao cần học ngoại ngữ?","tại sao cần học ngoại ngữ",qa,train
+763,"Có lịch nào sắp diễn ra không?","có lịch nào sắp diễn ra không",calendar,train
+764,"Tạo lịch video call lúc 9 giờ tối.","tạo lịch video call lúc 9 giờ tối",calendar,train
+765,"Lưu giờ ăn sáng của tôi.","lưu giờ ăn sáng của tôi",personalize,train
+766,"Bật lại thông báo!","bật lại thông báo",control_device,train
+767,"Lịch tháng này của tôi ra sao?","lịch tháng này của tôi ra sao",calendar,train
+768,"Tôi thường đi ngủ sau 12 giờ.","tôi thường đi ngủ sau 12 giờ",personalize,train
+769,"Thêm lịch gọi điện cho mẹ tối nay.","thêm lịch gọi điện cho mẹ tối nay",calendar,train
+770,"Sáng thứ bảy có rảnh không?","sáng thứ bảy có rảnh không",calendar,train
+771,"Mở ứng dụng camera!","mở ứng dụng camera",control_device,train
+772,"Cách học nhanh hơn là gì?","cách học nhanh hơn là gì",qa,train
+773,"Cách kiểm tra xe trước khi đi xa?","cách kiểm tra xe trước khi đi xa",qa,train
+774,"Lên lịch khám sức khỏe ngày 15 tháng sau.","lên lịch khám sức khỏe ngày 15 tháng sau",calendar,train
+775,"Cuối tuần này có bận không?","cuối tuần này có bận không",calendar,train
+776,"Lịch ngày 30/3 thế nào?","lịch ngày 30/3 thế nào",calendar,train
+777,"Trường học của tôi là Trường Đại học Khoa học Tự nhiên.","trường học của tôi là trường đại học khoa học tự nhiên",personalize,train
+778,"Thêm lịch giùm tôi.","thêm lịch giùm tôi",calendar,train
+779,"Sáng mai tôi có việc gì không?","sáng mai tôi có việc gì không",calendar,train
+780,"Vì sao cần đội mũ bảo hiểm?","vì sao cần đội mũ bảo hiểm",qa,train
+781,"Đổi tên file!","đổi tên file",control_device,train
+782,"Tắt âm thanh!","tắt âm thanh",control_device,train
+783,"Tôi hay bật wifi cả ngày.","tôi hay bật wifi cả ngày",personalize,train
+784,"Khởi động lại thiết bị!","khởi động lại thiết bị",control_device,train
+785,"Tại sao nước biển mặn?","tại sao nước biển mặn",qa,train
+786,"Tôi có lịch gì chiều nay?","tôi có lịch gì chiều nay",calendar,train
+787,"Tắt flashlight!","tắt flashlight",control_device,train
+788,"Buổi sáng tôi làm việc tốt nhất.","buổi sáng tôi làm việc tốt nhất",personalize,train
+789,"Thêm lịch chuyển tiền vào sáng mai.","thêm lịch chuyển tiền vào sáng mai",calendar,train
+790,"Cloud computing hoạt động như thế nào?","cloud computing hoạt động như thế nào",qa,train
+791,"Tôi thích đi đường ít kẹt xe.","tôi thích đi đường ít kẹt xe",personalize,train
+792,"Nhớ điều này cho tôi.","nhớ điều này cho tôi",personalize,train
+793,"Tắt tất cả ứng dụng Office!","tắt tất cả ứng dụng office",control_device,train
+794,"Tôi cần deadline cụ thể để làm việc.","tôi cần deadline cụ thể để làm việc",personalize,train
+795,"Nhắc tôi gọi cho bạn vào ngày mai.","nhắc tôi gọi cho bạn vào ngày mai",calendar,train
+796,"Khởi động terminal!","khởi động terminal",control_device,train
+797,"Sông nào dài nhất trên thế giới vậy?","sông nào dài nhất trên thế giới vậy",qa,train
+798,"Đăng xuất tài khoản!","đăng xuất tài khoản",control_device,train
+799,"Thoát Word!","thoát word",control_device,train
+800,"Mở thư mục desktop!","mở thư mục desktop",control_device,train
+801,"Nhắc tôi uống nước mỗi 2 tiếng.","nhắc tôi uống nước mỗi 2 tiếng",calendar,train
+802,"Ghi nhớ lịch trình của tôi.","ghi nhớ lịch trình của tôi",personalize,train
+803,"Lãi suất ngân hàng là gì?","lãi suất ngân hàng là gì",qa,train
+804,"Nhà tôi ở Bắc Ninh.","nhà tôi ở bắc ninh",personalize,train
+805,"Thêm lịch thi ngày mai.","thêm lịch thi ngày mai",calendar,train
+806,"Vì sao cơ thể cần protein để phát triển?","vì sao cơ thể cần protein để phát triển",qa,train
+807,"Tôi thích học vào buổi tối.","tôi thích học vào buổi tối",personalize,train
+808,"Nhắc tôi kiểm tra email sau 1 giờ.","nhắc tôi kiểm tra email sau 1 giờ",calendar,train
+809,"Cho tôi xem các lịch sắp tới.","cho tôi xem các lịch sắp tới",calendar,train
+810,"Tại sao nên học từ vựng theo ngữ cảnh?","tại sao nên học từ vựng theo ngữ cảnh",qa,train
+811,"Làm sao để lái xe an toàn?","làm sao để lái xe an toàn",qa,train
+812,"Sustainable là gì vậy?","sustainable là gì vậy",qa,train
+813,"Thêm ca chạy đơn buổi trưa.","thêm ca chạy đơn buổi trưa",calendar,train
+814,"Ngày 30 tháng 3 tôi có lịch gì?","ngày 30 tháng 3 tôi có lịch gì",calendar,train
+815,"Khi nào cần thay lốp xe?","khi nào cần thay lốp xe",qa,train
+816,"Tắt màn hình ngay!","tắt màn hình ngay",control_device,train
+817,"Dữ liệu lớn nghĩa là gì?","dữ liệu lớn nghĩa là gì",qa,train
+818,"Tôi không thích làm việc nhóm.","tôi không thích làm việc nhóm",personalize,train
+819,"Tuần sau tôi có lịch gì?","tuần sau tôi có lịch gì",calendar,train
+820,"Tôi dễ mất tập trung vào buổi chiều.","tôi dễ mất tập trung vào buổi chiều",personalize,train
+821,"Tạo lịch đi dạo vào buổi tối.","tạo lịch đi dạo vào buổi tối",calendar,train
+822,"Tại sao ngủ đủ giấc lại giúp tăng trí nhớ?","tại sao ngủ đủ giấc lại giúp tăng trí nhớ",qa,train
+823,"Vì sao cần ôn tập thường xuyên?","vì sao cần ôn tập thường xuyên",qa,train
+824,"Cuối tuần này lịch trình thế nào?","cuối tuần này lịch trình thế nào",calendar,train
+825,"Vì sao tập thể dục giúp giảm stress?","vì sao tập thể dục giúp giảm stress",qa,train
+826,"Chuyển sang ứng dụng khác!","chuyển sang ứng dụng khác",control_device,train
+827,"Lên lịch luyện đề vào cuối tuần.","lên lịch luyện đề vào cuối tuần",calendar,train
+828,"Ghi lại thói quen ngủ trưa của tôi.","ghi lại thói quen ngủ trưa của tôi",personalize,train
+829,"Tôi đang học lập trình Python.","tôi đang học lập trình python",personalize,train
+830,"Cách ChatGPT trả lời câu hỏi?","cách chatgpt trả lời câu hỏi",qa,train
+831,"Chạy ứng dụng camera trước!","chạy ứng dụng camera trước",control_device,train
+832,"Mở ứng dụng gọi video!","mở ứng dụng gọi video",control_device,train
+833,"Bật dark mode là phù hợp với tôi.","bật dark mode là phù hợp với tôi",personalize,train
+834,"Diện tích Việt Nam là bao nhiêu?"," diện tích việt nam là bao nhiêu",qa,train
+835,"Lên lịch sửa đồ vào cuối tuần.","lên lịch sửa đồ vào cuối tuần",calendar,train
+836,"Bật lại nhạc!","bật lại nhạc",control_device,train
+837,"Lên lịch chạy ShopeeFood từ 11h đến 14h.","lên lịch chạy shopeefood từ 11h đến 14h",calendar,train
+838,"Nhắc tôi đi chợ sáng mai.","nhắc tôi đi chợ sáng mai",calendar,train
+839,"Nước chiếm bao nhiêu phần trăm cơ thể?","nước chiếm bao nhiêu phần trăm cơ thể",qa,train
+840,"Nhớ tắt đèn sau nửa đêm.","nhớ tắt đèn sau nửa đêm",personalize,train
+841,"Tại sao cần ăn rau?","tại sao cần ăn rau",qa,train
+842,"Tạo lịch chi tiêu hàng tháng.","tạo lịch chi tiêu hàng tháng",calendar,train
+843,"Thói quen nào giúp tăng năng suất làm việc?","thói quen nào giúp tăng năng suất làm việc",qa,train
+844,"Tạo lịch nghỉ ngơi cuối tuần.","tạo lịch nghỉ ngơi cuối tuần",calendar,train
+845,"Ngày mai có cuộc họp không?","ngày mai có cuộc họp không",calendar,train
+846,"Lập lịch đi chơi vào cuối tuần.","lập lịch đi chơi vào cuối tuần",calendar,train
+847,"Hãy nhớ tôi hay đặt đồ ăn qua ShopeeFood.","hãy nhớ tôi hay đặt đồ ăn qua shopeefood",personalize,train
+848,"Tạo lịch đóng tiền điện cuối tháng.","tạo lịch đóng tiền điện cuối tháng",calendar,train
+849,"Ghi lại thông tin cá nhân của tôi.","ghi lại thông tin cá nhân của tôi",personalize,train
+850,"Làm sao để chiên trứng không dính chảo?","làm sao để chiên trứng không dính chảo",qa,train
+851,"Nhắc tôi làm bài reading IELTS chủ nhật.","nhắc tôi làm bài reading ielts chủ nhật",calendar,train
+852,"Đóng Chrome!","đóng chrome",control_device,train
+853,"Nhớ là tôi hay dùng máy tính buổi tối.","nhớ là tôi hay dùng máy tính buổi tối",personalize,train
+854,"Tôi thích xem phim hành động.","tôi thích xem phim hành động",personalize,train
+855,"Tôi không ăn được đậu phộng.","tôi không ăn được đậu phộng",personalize,train
+856,"Ghi lại là tôi hay đi bộ buổi sáng.","ghi lại là tôi hay đi bộ buổi sáng",personalize,train
+857,"Đóng hết cửa sổ đang mở!","đóng hết cửa sổ đang mở",control_device,train
+858,"Nhắc tôi thanh toán hóa đơn tối nay.","nhắc tôi thanh toán hóa đơn tối nay",calendar,train
+859,"Chuyển người dùng!","chuyển người dùng",control_device,train
+860,"Tôi thường uống trà buổi tối.","tôi thường uống trà buổi tối",personalize,train
+861,"Hôm nay có gì cần làm không?","hôm nay có gì cần làm không",calendar,train
+862,"Tạo lịch học vẽ vào cuối tuần.","tạo lịch học vẽ vào cuối tuần",calendar,train
+863,"Mở máy tính!","mở máy tính",control_device,train
+864,"Mở chế độ máy bay!","mở chế độ máy bay",control_device,train
+865,"Tại sao procrastination xảy ra?","tại sao procrastination xảy ra",qa,train
+866,"Quốc gia nào có diện tích lớn nhất?","quốc gia nào có diện tích lớn nhất",qa,train
+867,"Nhắc tôi đi đá bóng cuối tuần.","nhắc tôi đi đá bóng cuối tuần",calendar,train
+868,"Đóng ứng dụng Facebook!","đóng ứng dụng facebook",control_device,train
+869,"Tôi làm việc hiệu quả nhất vào ban đêm.","tôi làm việc hiệu quả nhất vào ban đêm",personalize,train
+870,"Ăn chuối có lợi gì cho sức khỏe?","ăn chuối có lợi gì cho sức khỏe",qa,train
+871,"Tôi thích không gian yên tĩnh.","tôi thích không gian yên tĩnh",personalize,train
+872,"Lên lịch gặp bạn vào ngày mai.","lên lịch gặp bạn vào ngày mai",calendar,train
+873,"Vì sao kim loại dẫn điện tốt?","vì sao kim loại dẫn điện tốt",qa,train
+874,"Chiều nay có việc gì không?","chiều nay có việc gì không",calendar,train
+875,"Tôi đang học tiếng Anh để thi IELTS.","tôi đang học tiếng anh để thi ielts",personalize,train
+876,"Tìm đường về nhà!","tìm đường về nhà",control_device,train
+877,"Xe máy nên thay dầu bao lâu một lần?","xe máy nên thay dầu bao lâu một lần",qa,train
+878,"Khi nào tôi không có lịch?","khi nào tôi không có lịch",calendar,train
+879,"Cách tăng chiều cao tự nhiên?","cách tăng chiều cao tự nhiên",qa,train
+880,"Tôi thường nghe nhạc bằng tai nghe.","tôi thường nghe nhạc bằng tai nghe",personalize,train
+881,"Hôm nay có phải nộp bài Python không?","hôm nay có phải nộp bài python không",calendar,train
+882,"Tạo một sự kiện mới vào ngày mai.","tạo một sự kiện mới vào ngày mai",calendar,train
+883,"Khi nào đến giờ học IELTS?","khi nào đến giờ học ielts",calendar,train
+884,"Tại sao cần bảo mật tài khoản?","tại sao cần bảo mật tài khoản",qa,train
+885,"Tiếp tục phát bài hát!","tiếp tục phát bài hát",control_device,train
+886,"Tiếp tục video!","tiếp tục video",control_device,train
+887,"Thêm lịch mua đồ gia dụng.","thêm lịch mua đồ gia dụng",calendar,train
+888,"Bật bluetooth!","bật bluetooth",control_device,train
+889,"Tôi thích dùng chế độ tối khi làm việc.","tôi thích dùng chế độ tối khi làm việc",personalize,train
+890,"Giá vàng hôm nay bao nhiêu tiền?","giá vàng hôm nay bao nhiêu tiền",qa,train
+891,"Tìm kiếm file trên máy!","tìm kiếm file trên máy",control_device,train
+892,"Tắt dữ liệu mạng!","tắt dữ liệu mạng",control_device,train
+893,"Nhắc tôi đi ăn với bạn vào tối nay.","nhắc tôi đi ăn với bạn vào tối nay",calendar,train
+894,"Đặt lịch họp vào 14 giờ.","đặt lịch họp vào 14 giờ",calendar,train
+895,"Tôi không thích ồn ào.","tôi không thích ồn ào",personalize,train
+896,"Nhắc tôi sạc xe tối nay.","nhắc tôi sạc xe tối nay",calendar,train
+897,"Tại sao cần cân bằng công việc và cuộc sống?","tại sao cần cân bằng công việc và cuộc sống",qa,train
+898,"Nhắc tôi đi siêu thị lúc 6 giờ chiều.","nhắc tôi đi siêu thị lúc 6 giờ chiều",calendar,train
+899,"Tắt trình duyệt hiện tại!","tắt trình duyệt hiện tại",control_device,train
+900,"Nhắc tôi họp lúc 9 giờ sáng mai.","nhắc tôi họp lúc 9 giờ sáng mai",calendar,train
+901,"Cách tránh lừa đảo trên mạng?","cách tránh lừa đảo trên mạng",qa,train
+902,"Tôi bị dị ứng với đậu phộng.","tôi bị dị ứng với đậu phộng",personalize,train
+903,"Nhắc tôi gọi điện vào cuối tuần.","nhắc tôi gọi điện vào cuối tuần",calendar,train
+904,"Mở Spotify!","mở spotify",control_device,train
+905,"Nhắc tôi nộp báo cáo vi điều khiển vào thứ hai.","nhắc tôi nộp báo cáo vi điều khiển vào thứ hai",calendar,train
+906,"Uống đủ nước có tác dụng gì?","uống đủ nước có tác dụng gì",qa,train
+907,"Lịch tháng này có gì đáng chú ý?","lịch tháng này có gì đáng chú ý",calendar,train
+908,"Vì sao con người cần nghỉ ngơi?","vì sao con người cần nghỉ ngơi",qa,train
+909,"Chạy Spotify!","chạy spotify",control_device,train
+910,"Mở notepad!","mở notepad",control_device,train
+911,"Tại sao trọng lực giữ chúng ta trên mặt đất?","tại sao trọng lực giữ chúng ta trên mặt đất",qa,train
+912,"Tôi đang trong chế độ giảm cân.","tôi đang trong chế độ giảm cân",personalize,train
+913,"Ngày mai có phải đi làm không?","ngày mai có phải đi làm không",calendar,train
+914,"Bạn nhớ giúp tôi nhé.","bạn nhớ giúp tôi nhé",personalize,train
+915,"Trong tuần này tôi rảnh lúc nào?","trong tuần này tôi rảnh lúc nào",calendar,train
+916,"Lưu cài đặt âm thanh vòm cho tai nghe.","lưu cài đặt âm thanh vòm cho tai nghe",personalize,train
+917,"Thứ hai tới có lịch gì không?","thứ hai tới có lịch gì không",calendar,train
+918,"Mở Zalo!","mở zalo",control_device,train
+919,"Lên lịch luyện nói IELTS vào buổi tối.","lên lịch luyện nói ielts vào buổi tối",calendar,train
+920,"Nhớ giúp tôi những điều này.","nhớ giúp tôi những điều này",personalize,train
+921,"Đặc sản Bắc Ninh là gì nhỉ?","đặc sản bắc ninh là gì nhỉ",qa,train
+922,"GPU dùng để làm gì trong AI?","gpu dùng để làm gì trong ai",qa,train
+923,"Tuần này có việc gì quan trọng không?","tuần này có việc gì quan trọng không",calendar,train
+924,"Tôi đi xe điện mỗi ngày.","tôi đi xe điện mỗi ngày",personalize,train
+925,"Giảm độ sáng xuống chút!","giảm độ sáng xuống chút",control_device,train
+926,"Tại sao cơ thể cần vitamin D?","tại sao cơ thể cần vitamin d",qa,train
+927,"Sáng nay tôi có bận không?","sáng nay tôi có bận không",calendar,validation
+928,"Khi nào nên bắt đầu đầu tư?","khi nào nên bắt đầu đầu tư",qa,validation
+929,"Cho tôi biết lúc nào tôi rảnh.","cho tôi biết lúc nào tôi rảnh",calendar,validation
+330,"Tại sao học ngữ pháp quan trọng?","tại sao học ngữ pháp quan trọng",qa,validation
+931,"Âm lịch hôm nay là ngày bao nhiêu?","âm lịch hôm nay là ngày bao nhiêu",qa,validation
+932,"Nhiệt độ ảnh hưởng đến con người ra sao?","nhiệt độ ảnh hưởng đến con người ra sao",qa,validation
+933,"Nhắc tôi kiểm tra email sáng mai.","nhắc tôi kiểm tra email sáng mai",calendar,validation
+934,"Tại sao nên đọc sách?","tại sao nên đọc sách",qa,validation
+935,"Xem calendar!","xem calendar",control_device,validation
+936,"Kết thúc cuộc gọi!","kết thúc cuộc gọi",control_device,validation
+937,"Phát wifi từ điện thoại!","phát wifi từ điện thoại",control_device,validation
+938,"Tại sao nhiệt độ ảnh hưởng đến vật chất?","tại sao nhiệt độ ảnh hưởng đến vật chất",qa,validation
+939,"Lưu sở thích của tôi.","lưu sở thích của tôi",personalize,validation
+940,"Lên lịch tập gym chiều nay.","lên lịch tập gym chiều nay",calendar,validation
+941,"Nhắc tôi uống nước mỗi 2 giờ.","nhắc tôi uống nước mỗi 2 giờ",calendar,validation
+942,"Present perfect dùng khi nào?","present perfect dùng khi nào",qa,validation
+943,"Tôi có rảnh ngày mai không?","tôi có rảnh ngày mai không",calendar,validation
+944,"Tôi thường làm việc theo kế hoạch.","tôi thường làm việc theo kế hoạch",personalize,validation
+945,"Tạo nhắc nhở uống thuốc.","tạo nhắc nhở uống thuốc",calendar,validation
+946,"Tuần này có bận không?","tuần này có bận không",calendar,validation
+947,"Cách bảo dưỡng xe định kỳ?","cách bảo dưỡng xe định kỳ",qa,validation
+948,"Số pi bằng bao nhiêu vậy?","số pi bằng bao nhiêu vậy",qa,validation
+949,"Thêm sự kiện đi chơi tối nay.","thêm sự kiện đi chơi tối nay",calendar,validation
+950,"Thủ đô của Nhật là gì?","thủ đô của nhật là gì",qa,validation
+951,"Truy cập Facebook!","truy cập facebook",control_device,validation
+952,"Xóa ảnh vừa chụp!","xóa ảnh vừa chụp",control_device,validation
+953,"Tôi ưu tiên dùng điện thoại.","tôi ưu tiên dùng điện thoại",personalize,validation
+954,"Tôi thích ăn đồ ngọt.","tôi thích ăn đồ ngọt",personalize,validation
+955,"Làm sao để tập trung tốt hơn?","làm sao để tập trung tốt hơn",qa,validation
+956,"Tạm dừng bài hát!","tạm dừng bài hát",control_device,validation
+957,"Thêm lịch đi du lịch cuối tháng.","thêm lịch đi du lịch cuối tháng",calendar,validation
+958,"Cách kiểm tra tốc độ mạng?","cách kiểm tra tốc độ mạng",qa,validation
+959,"Cách giảm cân an toàn là gì?","cách giảm cân an toàn là gì",qa,by_pass_validation
+960,"Đóng ứng dụng Zalo!","đóng ứng dụng zalo",control_device,test
+961,"Tôi có rảnh hôm nay không?","tôi có rảnh hôm nay không",calendar,test
+962,"Thêm lịch gặp bạn lúc 8h.","thêm lịch gặp bạn lúc 8h",calendar,test
+963,"Tôi thích ăn đồ cay.","tôi thích ăn đồ cay",personalize,test
+964,"Tôi cần yên tĩnh để tập trung.","tôi cần yên tĩnh để tập trung",personalize,test
+965,"Buổi thực hành vi điều khiển bắt đầu lúc mấy giờ?","buổi thực hành vi điều khiển bắt đầu lúc mấy giờ",calendar,test
+966,"Tại sao HTTPS an toàn hơn HTTP?","tại sao https an toàn hơn http",qa,test
+967,"Tắt tiếng đi!","tắt tiếng đi",control_device,test
+968,"Nấu cơm bằng nồi điện mất bao lâu?","nấu cơm bằng nồi điện mất bao lâu",qa,test
+969,"Tháng này có bận không?","tháng này có bận không",calendar,test
+970,"Quay video!","quay video",control_device,test
+971,"Tắt âm thanh hệ thống!","tắt âm thanh hệ thống",control_device,test
+972,"Khởi động Excel!","khởi động excel",control_device,test
+973,"Thêm lịch xem phim tối nay.","thêm lịch xem phim tối nay",calendar,test
+974,"1 inch bằng bao nhiêu cm vậy?","1 inch bằng bao nhiêu cm vậy",qa,test
+975,"Vào phần settings!","vào phần settings",control_device,test
+976,"Tuần này có lịch học không?","tuần này có lịch học không",calendar,test
+977,"Khởi động bản đồ!","khởi động bản đồ",control_device,test
+978,"Thời gian nướng thịt bao lâu là chín?","thời gian nướng thịt bao lâu là chín",qa,test
+979,"Khóa thiết bị!","khóa thiết bị",control_device,test
+980,"Ngày mai có lịch học không?","ngày mai có lịch học không",calendar,test
+981,"Núi cao nhất ở Việt Nam là gì?","núi cao nhất ở việt nam là gì",qa,test
+982,"Có cuộc họp nào hôm nay không?","có cuộc họp nào hôm nay không",calendar,test
+983,"Dừng video lại!","dừng video lại",control_device,test
+984,"Nhớ là tôi hay đi tập gym buổi chiều.","nhớ là tôi hay đi tập gym buổi chiều",personalize,test
+985,"Lịch bảo dưỡng xe là khi nào?","lịch bảo dưỡng xe là khi nào",calendar,test
+986,"Cho tôi xem lịch ngày mai.","cho tôi xem lịch ngày mai",calendar,test
+987,"Chạy Notepad!","chạy notepad",control_device,test
+988,"Tôi uống cà phê mỗi sáng.","tôi uống cà phê mỗi sáng",personalize,test
+989,"Tôi thường thức dậy lúc 6 giờ sáng.","tôi thường thức dậy lúc 6 giờ sáng",personalize,test
+990,"Tôi không thích thức khuya.","tôi không thích thức khuya",personalize,train
+991,"Ghi âm cuộc gọi này!","ghi âm cuộc gọi này",control_device,train
+992,"Thêm lịch đi chơi cuối tuần.","thêm lịch đi chơi cuối tuần",calendar,train
+993,"Khi nào nên ưu tiên công việc quan trọng?","khi nào nên ưu tiên công việc quan trọng",qa,train
+994,"Thoát khỏi chương trình hiện tại!","thoát khỏi chương trình hiện tại",control_device,train
+995,"Cách làm trà sữa tại nhà?","cách làm trà sữa tại nhà",qa,train
+996,"Bật điểm phát wifi!","bật điểm phát wifi",control_device,train
+997,"Tối nay có kế hoạch gì?","tối nay có kế hoạch gì",calendar,train
+998,"Tại sao ánh sáng truyền nhanh hơn âm thanh?","tại sao ánh sáng truyền nhanh hơn âm thanh",qa,train
+999,"Chia sẻ ảnh!","chia sẻ ảnh",control_device,train
+1000,"Giá trị của Pi là gì?","giá trị của pi là gì",qa,train
+1001,"Việc tiếp theo tôi cần làm là gì?","việc tiếp theo tôi cần làm là gì",calendar,train
+1002,"Hẹn báo thức 7h sáng!","hẹn báo thức 7h sáng",control_device,train
+1003,"Vì sao nên sử dụng phương tiện công cộng?","vì sao nên sử dụng phương tiện công cộng",qa,train
+1004,"Quay lại bài trước!","quay lại bài trước",control_device,train
+1005,"Lên lịch học Python lúc 14 giờ hôm nay.","lên lịch học python lúc 14 giờ hôm nay",calendar,train
+1006,"Làm sao để tập trung khi học?","làm sao để tập trung khi học",qa,train
+1007,"Lịch tuần này có gì đáng chú ý?","lịch tuần này có gì đáng chú ý",calendar,train
+1008,"Mở ứng dụng bản đồ!","mở ứng dụng bản đồ",control_device,train
+1009,"Tại sao nên quản lý chi tiêu cá nhân?","tại sao nên quản lý chi tiêu cá nhân",qa,train
+1010,"Kiểm tra lịch giúp tôi.","kiểm tra lịch giúp tôi",calendar,train
+1011,"Làm sao để phỏng vấn thành công?","làm sao để phỏng vấn thành công",qa,train
+1012,"Việt Nam có bao nhiêu tỉnh?","việt nam có bao nhiêu tỉnh",qa,train
+1013,"Chiều thứ sáu tôi có hẹn không?","chiều thứ sáu tôi có hẹn không",calendar,train
+1014,"Gửi tin nhắn mới!","gửi tin nhắn mới",control_device,train
+1015,"Tắt tiếng máy!","tắt tiếng máy",control_device,train
+1016,"Machine learning là gì?","machine learning là gì",qa,train
+1017,"Blockchain hoạt động sao?","blockchain hoạt động sao",qa,train
+1018,"Python dùng để làm gì?","python dùng để làm gì",qa,train
+1019,"Docker là gì vậy?","docker là gì vậy",qa,train
+1020,"AI khác Machine Learning chỗ nào?","ai khác machine learning chỗ nào",qa,train
+1021,"Deep learning là gì?","deep learning là gì",qa,train
+1022,"Backend là gì?","backend là gì",qa,train
+1023,"Frontend là gì?","frontend là gì",qa,train
+1024,"API là gì?","api là gì",qa,train
+1025,"Embedding là gì?","embedding là gì",qa,train
+1026,"Vector database là gì?","vector database là gì",qa,train
+1027,"RAG là gì?","rag là gì",qa,train
+1028,"LLM là gì?","llm là gì",qa,train
+1029,"Mô hình Transformer là gì?","mô hình transformer là gì",qa,train
+1030,"Whisper dùng để làm gì?","whisper dùng để làm gì",qa,train
+1031,"FastAPI là gì?","fastapi là gì",qa,train
+1032,"Websocket là gì?","websocket là gì",qa,train
+1033,"PostgreSQL là gì?","postgresql là gì",qa,train
+1034,"Redis là gì?","redis là gì",qa,train
+1035,"Semantic search là gì?","semantic search là gì",qa,train
+1036,"Vì sao AI cần dữ liệu?","vì sao ai cần dữ liệu",qa,train
+1037,"GPU dùng để làm gì?","gpu dùng để làm gì",qa,train
+1038,"CPU khác GPU thế nào?","cpu khác gpu thế nào",qa,train
+1039,"Internet hoạt động sao?","internet hoạt động sao",qa,train
+1040,"Wifi là gì?","wifi là gì",qa,train
+1041,"Linux là gì?","linux là gì",qa,train
+1042,"Ubuntu là gì?","ubuntu là gì",qa,train
+1043,"Windows kernel là gì?","windows kernel là gì",qa,train
+1044,"Học AI bắt đầu từ đâu?","học ai bắt đầu từ đâu",qa,train
+1045,"Python khó không?","python khó không",qa,train
+1046,"Cách học Machine Learning?","cách học machine learning",qa,train
+1047,"Supervised learning là gì?","supervised learning là gì",qa,train
+1048,"Unsupervised learning là gì?","unsupervised learning là gì",qa,train
+1049,"NLP là gì?","nlp là gì",qa,train
+1050,"Computer vision là gì?","computer vision là gì",qa,train
+1051,"Speech to text là gì?","speech to text là gì",qa,train
+1052,"Text to speech là gì?","text to speech là gì",qa,train
+1053,"Vì sao AI hallucination?","vì sao ai hallucination",qa,train
+1054,"Prompt engineering là gì?","prompt engineering là gì",qa,train
+1055,"Vector là gì?","vector là gì",qa,train
+1056,"Cosine similarity là gì?","cosine similarity là gì",qa,train
+1057,"SQL là gì?","sql là gì",qa,train
+1058,"MongoDB là gì?","mongodb là gì",qa,train
+1059,"Docker compose là gì?","docker compose là gì",qa,train
+1060,"Virtualenv là gì?","virtualenv là gì",qa,train
+1061,"Pip là gì?","pip là gì",qa,train
+1062,"JSON là gì?","json là gì",qa,train
+1063,"CSV là gì?","csv là gì",qa,train
+1064,"HTTP là gì?","http là gì",qa,train
+1065,"HTTPS là gì?","https là gì",qa,train
+1066,"JWT là gì?","jwt là gì",qa,train
+1067,"Cookie là gì?","cookie là gì",qa,train
+1068,"Session là gì?","session là gì",qa,train
+1069,"Microservice là gì?","microservice là gì",qa,train
+1070,"Monolithic là gì?","monolithic là gì",qa,train
+1071,"OOP là gì?","oop là gì",qa,train
+1072,"Python async là gì?","python async là gì",qa,train
+1073,"Thread là gì?","thread là gì",qa,train
+1074,"Process là gì?","process là gì",qa,train
+1075,"Latency là gì?","latency là gì",qa,train
+1076,"Cache là gì?","cache là gì",qa,train
+1077,"Nginx là gì?","nginx là gì",qa,train
+1078,"Server là gì?","server là gì",qa,train
+1079,"Client server là gì?","client server là gì",qa,train
+1080,"Internet of Things là gì?","internet of things là gì",qa,train
+1081,"Smart home là gì?","smart home là gì",qa,train
+1082,"Edge AI là gì?","edge ai là gì",qa,train
+1083,"OpenAI là công ty gì?","openai là công ty gì",qa,train
+1084,"Ollama dùng để làm gì?","ollama dùng để làm gì",qa,train
+1085,"Qwen là model gì?","qwen là model gì",qa,train
+1086,"Đặt lịch học ngày mai 6 giờ.","đặt lịch học ngày mai 6 giờ",calendar,train
+1087,"Hủy lịch mai.","hủy lịch mai",calendar,train
+1088,"Hủy lịch ngày mai.","hủy lịch ngày mai",calendar,train
+1089,"Thêm lịch mai dậy.","thêm lịch mai dậy",calendar,train
+1090,"Đặt lịch mai.","đặt lịch mai",calendar,train
+1091,"Gemma là gì?","gemma là gì",qa,train
+1092,"Llama là gì?","llama là gì",qa,train
+1093,"Vì sao embedding hữu ích?","vì sao embedding hữu ích",qa,train
+1094,"Học data mining là gì?","học data mining là gì",qa,train
+1095,"Tiền xử lý dữ liệu là gì?","tiền xử lý dữ liệu là gì",qa,train
+1096,"Noise data là gì?","noise data là gì",qa,train
+1097,"Missing data là gì?","missing data là gì",qa,train
+1098,"Feature engineering là gì?","feature engineering là gì",qa,train
+1099,"Classification là gì?","classification là gì",qa,train
+1100,"Regression là gì?","regression là gì",qa,train
+1101,"Clustering là gì?","clustering là gì",qa,train
+1102,"Recall precision là gì?","recall precision là gì",qa,train
+1103,"F1 score là gì?","f1 score là gì",qa,train
+1104,"Accuracy là gì?","accuracy là gì",qa,train
+1105,"AI agent là gì?","ai agent là gì",qa,train
+1106,"Multi agent là gì?","multi agent là gì",qa,train
+1107,"MCP là gì?","mcp là gì",qa,train
+1108,"Fine tuning là gì?","fine tuning là gì",qa,train
+1109,"Quantization là gì?","quantization là gì",qa,train
+1110,"Int8 là gì?","int8 là gì",qa,train
+1111,"Fp16 là gì?","fp16 là gì",qa,train
+1112,"Cuda là gì?","cuda là gì",qa,train
+1113,"Pytorch là gì?","pytorch là gì",qa,train
+1114,"Tensorflow là gì?","tensorflow là gì",qa,train
+1115,"Sklearn là gì?","sklearn là gì",qa,train
+1116,"Sentence transformer là gì?","sentence transformer là gì",qa,train
+1117,"Bạn giải thích websocket đi!","bạn giải thích websocket đi",qa,train
+1118,"Websocket realtime thế nào?","websocket realtime thế nào",qa,train
+1119,"Streaming audio là gì?","streaming audio là gì",qa,train
+1120,"Sự khác nhau polling websocket?","sự khác nhau polling websocket",qa,train
+1121,"Vì sao websocket nhanh?","vì sao websocket nhanh",qa,train
+1122,"STT nghĩa là gì?","stt nghĩa là gì",qa,train
+1123,"Vad filtering là gì?","vad filtering là gì",qa,train
+1124,"Beam search là gì?","beam search là gì",qa,train
+1125,"Semantic retrieval là gì?","semantic retrieval là gì",qa,train
+1126,"Knowledge base là gì?","knowledge base là gì",qa,train
+1127,"Nhắc tôi họp lúc 8 giờ sáng.","nhắc tôi họp lúc 8 giờ sáng",calendar,train
+1128,"Mai có lịch gì không?","mai có lịch gì không",calendar,validation
+1129,"Xóa lịch chiều nay.","xóa lịch chiều nay",calendar,validation
+1130,"Đặt lịch học lúc 7h tối.","đặt lịch học lúc 7h tối",calendar,validation
+1131,"Lịch ngày mai sao rồi?","lịch ngày mai sao rồi",calendar,validation
+1132,"Chiều mai tôi có bận không?","chiều mai tôi có bận không",calendar,validation
+1133,"Hủy cái lịch mới tạo.","hủy cái lịch mới tạo",calendar,validation
+1134,"Tạo lịch gym 6h sáng mai.","tạo lịch gym 6h sáng mai",calendar,validation
+1135,"Thêm lịch đi cà phê tối nay.","thêm lịch đi cà phê tối nay",calendar,validation
+1136,"Mai có cuộc họp nào không?","mai có cuộc họp nào không",calendar,validation
+1137,"Xem lịch hôm nay.","xem lịch hôm nay",calendar,validation
+1138,"Check lịch ngày mai.","check lịch ngày mai",calendar,validation
+1139,"Đặt nhắc nhở uống thuốc 9h.","đặt nhắc nhở uống thuốc 9h",calendar,validation
+1140,"Bỏ lịch họp chiều mai.","bỏ lịch họp chiều mai",calendar,validation
+1141,"Lên lịch học AI tối nay.","lên lịch học ai tối nay",calendar,validation
+1142,"Nhắc tôi ngủ sớm lúc 11h.","nhắc tôi ngủ sớm lúc 11h",calendar,validation
+1143,"Mai rảnh không?","mai rảnh không",calendar,validation
+1144,"Hôm nay tôi có gì không?","hôm nay tôi có gì không",calendar,validation
+1145,"Xóa giúp tôi cái lịch tối qua.","xóa giúp tôi cái lịch tối qua",calendar,validation
+1146,"Đặt lịch sinh nhật mẹ chủ nhật.","đặt lịch sinh nhật mẹ chủ nhật",calendar,validation
+1147,"Thêm reminder họp team 8h.","thêm reminder họp team 8h",calendar,validation
+1148,"Cancel lịch tối nay.","cancel lịch tối nay",calendar,test
+1149,"Show lịch ngày mai.","show lịch ngày mai",calendar,test
+1150,"Schedule cuộc họp lúc 10h.","schedule cuộc họp lúc 10h",calendar,test
+1151,"Remind tôi đi học mai 7h.","remind tôi đi học mai 7h",calendar,test
+1152,"Tôi thích màu xanh.","tôi thích màu xanh",personalize,test
+1153,"Món ăn yêu thích của tôi là phở.","món ăn yêu thích của tôi là phở",personalize,test
+1154,"Mình tên là Cảnh.","mình tên là cảnh",personalize,test
+1155,"Tôi 21 tuổi.","tôi 21 tuổi",personalize,test
+1156,"Tôi học ngành Công nghệ thông tin.","tôi học ngành công nghệ thông tin",personalize,test
+1157,"Tôi sống ở Hà Nội.","tôi sống ở hà nội",personalize,test
+1158,"Quê tôi ở Nam Định.","quê tôi ở nam định",personalize,test
+1159,"Mình thích chơi game.","mình thích chơi game",personalize,test
+1160,"Thêm lịch đi cà phê tối nay.","thêm lịch đi cà phê tối nay",calendar,test
+1161,"Xóa lịch chiều nay.","xóa lịch chiều nay",calendar,test
+1162,"Đặt nhắc nhở uống thuốc 9h.","đặt nhắc nhở uống thuốc 9h",calendar,test
+1163,"Tôi làm ở Google.","tôi làm ở google",personalize,train
+1164,"Đồ uống yêu thích của tôi là trà sữa.","đồ uống yêu thích của tôi là trà sữa",personalize,train
+1165,"Hãy trả lời ngắn gọn thôi.","hãy trả lời ngắn gọn thôi",personalize,train
+1166,"Nói tự nhiên thôi.","nói tự nhiên thôi",personalize,train
+1167,"Giải thích kỹ hơn nhé.","giải thích kỹ hơn nhé",personalize,train
+1168,"Mình học ở HUST.","mình học ở hust",personalize,train
+1169,"Tôi thích nghe nhạc Lo-Fi.","tôi thích nghe nhạc lofi",personalize,train
+1170,"Tôi thích ăn gà rán.","tôi thích ăn gà rán",personalize,train
+1171,"Tôi tên Cảnh Nguyễn.","tôi tên cảnh nguyễn",personalize,train
+1172,"Mình làm Backend Developer.","mình làm backend developer",personalize,train
+1173,"Hãy nói lịch sự hơn.","hãy nói lịch sự hơn",personalize,train
+1174,"Đừng dài dòng quá.","đừng dài dòng quá",personalize,train
+1175,"Mình ở Hà Đông.","mình ở hà đông",personalize,train
+1176,"Sở thích của tôi là đọc sách.","sở thích của tôi là đọc sách",personalize,train
+1177,"Mở YouTube!","mở youtube",control_device,train
+1178,"Vào YouTube đi!","vào youtube đi",control_device,train
+1179,"Open YouTube!","open youtube",control_device,train
+1180,"Mở Facebook giúp tôi!","mở facebook giúp tôi",control_device,train
+1181,"Truy cập GitHub!","truy cập github",control_device,train
+1182,"Mở Gmail đi!","mở gmail đi",control_device,train
+1183,"Mở Google Calendar!","mở google calendar",control_device,train
+1184,"Vào Drive giúp tôi!","vào drive giúp tôi",control_device,train
+1185,"Mở ChatGPT!","mở chatgpt",control_device,train
+1186,"Mở Gemini!","mở gemini",control_device,train
+1187,"Search Machine Learning!","search machine learning",control_device,train
+1188,"Tìm blockchain trên Google!","tìm blockchain trên google",control_device,train
+1189,"Google docker là gì!","google docker là gì",control_device,train
+1190,"Tìm video python trên YouTube!","tìm video python trên youtube",control_device,train
+1191,"Mở YouTube nhạc Lo-Fi!","mở youtube nhạc lofi",control_device,train
+1192,"Search websocket fastapi!","search websocket fastapi",control_device,train
+1193,"Mở Stack Overflow!","mở stackoverflow",control_device,train
+1194,"Mở Docs!","mở docs",control_device,train
+1195,"Mở Google Sheet!","mở google sheet",control_device,train
+1196,"Vào Instagram!","vào instagram",control_device,train
+1197,"Mở TikTok đi!","mở tiktok đi",control_device,train
+1198,"Tìm AI Agent!","tìm ai agent",control_device,train
+1199,"YouTube nhạc chill!","youtube nhạc chill",control_device,train
+1200,"Google Semantic Search!","google semantic search",control_device,train
+1201,"YouTube blockchain!","youtube blockchain",control_device,train
+1202,"Google Machine Learning!","google machine learning",control_device,train
+1203,"Open GitHub!","open github",control_device,train
+1204,"ChatGPT đi!","chatgpt đi",control_device,train
+1205,"Gmail giúp tôi!","gmail giúp tôi",control_device,train
+1206,"Mở du túp!","mở du túp",control_device,train
+1207,"Gô gồ machine learning!","gô gồ machine learning",control_device,train
+1208,"Mở git húp!","mở git húp",control_device,train
+1209,"Hệ điều hành dùng để làm gì?","hệ điều hành dùng để làm gì",qa,train
+1210,"Vì sao cần database?","vì sao cần database",qa,train
+1211,"Công dụng của docker là gì?","công dụng của docker là gì",qa,train
+1212,"Mạng neural là gì?","mạng neural là gì",qa,train
+1213,"AI học từ dữ liệu kiểu gì?","ai học từ dữ liệu kiểu gì",qa,train
+1214,"Trí tuệ nhân tạo hoạt động sao?","trí tuệ nhân tạo hoạt động sao",qa,train
+1215,"Chatbot hoạt động như nào?","chatbot hoạt động như nào",qa,train
+1216,"Vì sao LLM trả lời được câu hỏi?","vì sao llm trả lời được câu hỏi",qa,train
+1217,"Mô hình ngôn ngữ lớn là gì?","mô hình ngôn ngữ lớn là gì",qa,train
+1218,"Vì sao semantic search tốt hơn keyword search?","vì sao semantic search tốt hơn keyword search",qa,train
+1219,"Embedding vector dùng để làm gì?","embedding vector dùng để làm gì",qa,train
+1220,"Cách hoạt động của cosine similarity?","cách hoạt động của cosine similarity",qa,train
+1221,"Vì sao websocket phù hợp realtime?","vì sao websocket phù hợp realtime",qa,train
+1222,"API Restful là gì?","api restful là gì",qa,train
+1223,"Cơ sở dữ liệu quan hệ là gì?","cơ sở dữ liệu quan hệ là gì",qa,train
+1224,"Vì sao nên dùng PostgreSQL?","vì sao nên dùng postgresql",qa,train
+1225,"Deep neural network là gì?","deep neural network là gì",qa,train
+1226,"Vì sao GPU mạnh cho AI?","vì sao gpu mạnh cho ai",qa,train
+1227,"Machine learning có cần toán không?","machine learning có cần toán không",qa,train
+1228,"Docker giúp gì cho deploy?","docker giúp gì cho deploy",qa,train
+1229,"Streaming realtime nghĩa là gì?","streaming realtime nghĩa là gì",qa,train
+1230,"Vector search hoạt động ra sao?","vector search hoạt động ra sao",qa,train
+1231,"Tại sao AI cần training data?","tại sao ai cần training data",qa,train
+1232,"Mô hình AI học như thế nào?","mô hình ai học như thế nào",qa,train
+1233,"Speech recognition là gì?","speech recognition là gì",qa,train
+1234,"Text embedding là gì?","text embedding là gì",qa,train
+1235,"Vì sao AI đôi lúc trả lời sai?","vì sao ai đôi lúc trả lời sai",qa,train
+1236,"Retrieval Augmented Generation là gì?","retrieval augmented generation là gì",qa,train
+1237,"Transformer model hoạt động sao?","transformer model hoạt động sao",qa,train
+1238,"Python phổ biến vì sao?","python phổ biến vì sao",qa,train
+1239,"Tạo lịch họp team lúc 9h sáng mai.","tạo lịch họp team lúc 9h sáng mai",calendar,train
+1240,"Mai tôi có cuộc hẹn nào không?","mai tôi có cuộc hẹn nào không",calendar,train
+1241,"Xem giúp lịch ngày kia.","xem giúp lịch ngày kia",calendar,train
+1242,"Đặt nhắc nhở học bài tối nay.","đặt nhắc nhở học bài tối nay",calendar,train
+1243,"Xóa cuộc hẹn sáng mai.","xóa cuộc hẹn sáng mai",calendar,train
+1244,"Thêm lịch ăn tối lúc 7h.","thêm lịch ăn tối lúc 7h",calendar,train
+1245,"Lịch tuần này của tôi thế nào?","lịch tuần này của tôi thế nào",calendar,train
+1246,"Hủy reminder vừa thêm.","hủy reminder vừa thêm",calendar,train
+1247,"Check giúp tôi lịch tối nay.","check giúp tôi lịch tối nay",calendar,train
+1248,"Đặt lịch call khách hàng 3h chiều.","đặt lịch call khách hàng 3h chiều",calendar,train
+1249,"Ngày mai có lịch học không?","ngày mai có lịch học không",calendar,train
+1250,"Thêm lịch tập gym chiều mai.","thêm lịch tập gym chiều mai",calendar,train
+1251,"Xóa lịch đi chơi cuối tuần.","xóa lịch đi chơi cuối tuần",calendar,train
+1252,"Tạo reminder uống nước mỗi sáng.","tạo reminder uống nước mỗi sáng",calendar,train
+1253,"Tôi có bận tối mai không?","tôi có bận tối mai không",calendar,train
+1254,"Đặt lịch đi khám 8h sáng thứ 6.","đặt lịch đi khám 8h sáng thứ 6",calendar,train
+1255,"Show calendar hôm nay.","show calendar hôm nay",calendar,train
+1256,"Cancel cuộc họp ngày mai.","cancel cuộc họp ngày mai",calendar,train
+1257,"Remind tôi ngủ lúc 12h.","remind tôi ngủ lúc 12h",calendar,train
+1258,"Thêm lịch làm assignment tối nay.","thêm lịch làm assignment tối nay",calendar,train
+1259,"Màu tôi thích nhất là đen.","màu tôi thích nhất là đen",personalize,train
+1260,"Tôi cực thích uống cà phê.","tôi cực thích uống cà phê",personalize,train
+1261,"Mình tên Khánh.","mình tên khánh",personalize,train
+1262,"Tôi đang sống tại Đà Nẵng.","tôi đang sống tại đà nẵng",personalize,train
+1263,"Quê mình ở Thái Bình.","quê mình ở thái bình",personalize,train
+1264,"Tôi học ở Đại học Bách khoa Hà Nội.","tôi học ở đại học bách khoa hà nội",personalize,train
+1265,"Tôi thích xem phim khoa học viễn tưởng.","tôi thích xem phim khoa học viễn tưởng",personalize,train
+1266,"Mình mê đá bóng.","mình mê đá bóng",personalize,train
+1267,"Tôi làm Frontend Developer.","tôi làm frontend developer",personalize,train
+1268,"Đồ uống mình thích là coca.","đồ uống mình thích là coca",personalize,train
+1269,"Hãy trả lời chi tiết hơn.","hãy trả lời chi tiết hơn",personalize,train
+1270,"Nói chuyện casual thôi.","nói chuyện casual thôi",personalize,train
+1271,"Đừng trả lời quá dài.","đừng trả lời quá dài",personalize,train
+1272,"Tôi thích coding ban đêm.","tôi thích coding ban đêm",personalize,train
+1273,"Mình tên là Minh Anh.","mình tên là minh anh",personalize,train
+1274,"Tôi làm ở Viettel.","tôi làm ở viettel",personalize,train
+1275,"Món khoái khẩu của tôi là bún bò.","món khoái khẩu của tôi là bún bò",personalize,train
+1276,"Mình ở Cầu Giấy.","mình ở cầu giấy",personalize,train
+1277,"Tôi thích nhạc chill.","tôi thích nhạc chill",personalize,train
+1278,"Nói chuyện formal hơn nhé.","nói chuyện formal hơn nhé",personalize,train
+1279,"Mở Netflix!","mở netflix",control_device,train
+1280,"Vào GitHub giúp tôi!","vào github giúp tôi",control_device,train
+1281,"Open Stack Overflow!","open stackoverflow",control_device,train
+1282,"Mở Google Drive!","mở google drive",control_device,train
+1283,"Truy cập Messenger!","truy cập messenger",control_device,train
+1284,"Mở Twitch đi!","mở twitch đi",control_device,train
+1285,"Search deep learning trên Google!","search deep learning trên google",control_device,train
+1286,"YouTube nhạc ngủ ngon!","youtube nhạc ngủ ngon",control_device,train
+1287,"Google websocket python!","google websocket python",control_device,train
+1288,"Mở ChatGPT giúp tôi!","mở chatgpt giúp tôi",control_device,train
+1289,"Vào TikTok luôn!","vào tiktok luôn",control_device,train
+1290,"Search blockchain tutorial!","search blockchain tutorial",control_device,train
+1291,"Mở docs Google!","mở docs google",control_device,train
+1292,"YouTube học python cơ bản!","youtube học python cơ bản",control_device,train
+1293,"Google fastapi websocket!","google fastapi websocket",control_device,train
+1294,"Mở instagram đi!","mở instagram đi",control_device,train
+1295,"Vào gmail luôn!","vào gmail luôn",control_device,train
+1296,"Open Gemini!","open gemini",control_device,train
+1297,"Search semantic retrieval!","search semantic retrieval",control_device,train
+1298,"Mở lịch Google Calendar!","mở lịch google calendar",control_device,train
+1299,"Mai nhớ kêu tôi dậy lúc 6h.","mai nhớ kêu tôi dậy lúc 6h",calendar,train
+1300,"Tối nay tôi có gì cần làm không?","tối nay tôi có gì cần làm không",calendar,train
+1301,"Ngày mai xem giúp tôi có lịch gì?","ngày mai xem giúp tôi có lịch gì",calendar,train
+1302,"Chiều mai tôi có cuộc hẹn nào không?","chiều mai tôi có cuộc hẹn nào không",calendar,train
+1303,"Thêm giúp tôi cái lịch học tối nay.","thêm giúp tôi cái lịch học tối nay",calendar,train
+1304,"Tạo reminder uống thuốc lúc 9h tối.","tạo reminder uống thuốc lúc 9h tối",calendar,train
+1305,"Mai có phải họp không nhỉ?","mai có phải họp không nhỉ",calendar,train
+1306,"Đừng quên nhắc tôi học bài tối nay.","đừng quên nhắc tôi học bài tối nay",calendar,train
+1307,"Check xem mai tôi rảnh không?","check xem mai tôi rảnh không",calendar,train
+1308,"Đặt hộ tôi lịch họp sáng mai.","đặt hộ tôi lịch họp sáng mai",calendar,train
+1309,"Đặt lịch học ngày mai 6 giờ.","đặt lịch học ngày mai 6 giờ",calendar,train
+1310,"Hủy lịch mai.","hủy lịch mai",calendar,train
+1311,"Hủy lịch ngày mai.","hủy lịch ngày mai",calendar,train
+1312,"Thêm lịch mai dậy.","thêm lịch mai dậy",calendar,train
+1313,"Đặt lịch mai.","đặt lịch mai",calendar,train
+1314,"Mai nhớ gọi tôi lúc 6h nha.","mai nhớ gọi tôi lúc 6h nha",calendar,train
+1315,"Chiều nay tôi có lịch gì không?","chiều nay tôi có lịch gì không",calendar,train
+1316,"Thêm lịch học AI tối nay.","thêm lịch học ai tối nay",calendar,train
+1317,"Mai có cuộc họp nào không ta?","mai có cuộc họp nào không ta",calendar,train
+1318,"Đặt lịch cafe với Long lúc 7h tối.","đặt lịch cafe với long lúc 7h tối",calendar,train
+1319,"Nhắc tôi uống nước sau 30 phút nữa.","nhắc tôi uống nước sau 30 phút nữa",calendar,train
+1320,"Check lịch giúp tôi với.","check lịch giúp tôi với",calendar,train
+1321,"Xóa cái lịch vừa tạo đi.","xóa cái lịch vừa tạo đi",calendar,validation
+1322,"Đặt reminder học IELTS tối nay.","đặt reminder học ielts tối nay",calendar,validation
+1323,"Thứ 7 này có lịch gì không?","thứ 7 này có lịch gì không",calendar,validation
+1324,"Nhắc tôi nộp bài vào tối mai.","nhắc tôi nộp bài vào tối mai",calendar,validation
+1325,"Mai tôi rảnh lúc nào?","mai tôi rảnh lúc nào",calendar,validation
+1326,"Đặt lịch họp team sáng thứ 2.","đặt lịch họp team sáng thứ 2",calendar,validation
+1327,"Show calendar hôm nay.","show calendar hôm nay",calendar,validation
+1328,"Cuối tuần này có deadline gì không?","cuối tuần này có deadline gì không",calendar,validation
+1329,"Thêm lịch đi khám răng ngày mai.","thêm lịch đi khám răng ngày mai",calendar,validation
+1330,"8h tối nhớ nhắc tôi họp zoom.","8h tối nhớ nhắc tôi họp zoom",calendar,validation
+1331,"Tạo reminder đi ngủ sớm.","tạo reminder đi ngủ sớm",calendar,validation
+1332,"Mai có phải đi học không nhỉ?","mai có phải đi học không nhỉ",calendar,validation
+1333,"Lịch tháng này còn trống không?","lịch tháng này còn trống không",calendar,validation
+1334,"Nhắc tôi gọi điện cho mẹ tối nay.","nhắc tôi gọi điện cho mẹ tối nay",calendar,validation
+1335,"Thêm lịch đi gym chiều mai.","thêm lịch đi gym chiều mai",calendar,validation
+1336,"Sáng mai tôi có bận không?","sáng mai tôi có bận không",calendar,validation
+1337,"Đặt lịch ăn tối với khách hàng.","đặt lịch ăn tối với khách hàng",calendar,validation
+1338,"Xem giúp tôi lịch ngày kia.","xem giúp tôi lịch ngày kia",calendar,validation
+1339,"Hủy lịch học tối nay đi.","hủy lịch học tối nay đi",calendar,validation
+1340,"Nhắc tôi check mail lúc 9h sáng.","nhắc tôi check mail lúc 9h sáng",calendar,validation
+1341,"Mai còn cuộc hẹn nào không?","mai còn cuộc hẹn nào không",calendar,test
+1342,"Lịch tuần sau như nào nhỉ?","lịch tuần sau như nào nhỉ",calendar,test
+1343,"Đặt lịch làm assignment tối nay.","đặt lịch làm assignment tối nay",calendar,test
+1344,"Cho tôi xem các lịch sắp tới.","cho tôi xem các lịch sắp tới",calendar,test
+1345,"Thêm reminder uống thuốc 8h tối.","thêm reminder uống thuốc 8h tối",calendar,test
+1346,"Chiều mai có họp không ta?","chiều mai có họp không ta",calendar,test
+1347,"Nhắc tôi đóng tiền điện cuối tháng.","nhắc tôi đóng tiền điện cuối tháng",calendar,test
+1348,"Mai có lịch thi không?","mai có lịch thi không",calendar,test
+1349,"Đặt lịch học nhóm lúc 2h chiều.","đặt lịch học nhóm lúc 2h chiều",calendar,test
+1350,"Xóa reminder uống nước đi.","xóa reminder uống nước đi",calendar,test
+1351,"Thêm lịch chạy bộ sáng mai.","thêm lịch chạy bộ sáng mai",calendar,test
+1352,"Hôm nay có việc gì quan trọng không?","hôm nay có việc gì quan trọng không",calendar,test
+1353,"Check lịch tối nay giúp tôi.","check lịch tối nay giúp tôi",calendar,test
+1354,"Mở YouTube giúp tôi!","mở youtube giúp tôi",control_device,test
+1355,"Bật wifi lên đi!","bật wifi lên đi",control_device,test
+1356,"Restart máy tính hộ cái!","restart máy tính hộ cái",control_device,test
+1357,"Tắt bluetooth giúp mình!","tắt bluetooth giúp mình",control_device,test
+1358,"Mở Spotify phát nhạc chill!","mở spotify phát nhạc chill",control_device,test
+1359,"Cho tôi vào Gmail luôn!","cho tôi vào gmail luôn",control_device,test
+1360,"Mở chrome lẹ đi!","mở chrome lẹ đi",control_device,test
+1361,"Bật chế độ tối giúp tôi!","bật chế độ tối giúp tôi",control_device,test
+1362,"Bật hotspot điện thoại!","bật hotspot điện thoại",control_device,train
+1363,"Đóng hết tab Chrome đi!","đóng hết tab chrome đi",control_device,train
+1364,"Mở Visual Studio Code!","mở visual studio code",control_device,train
+1365,"Vào Netflix luôn!","vào netflix luôn",control_device,train
+1366,"Giảm độ sáng xuống chút!","giảm độ sáng xuống chút",control_device,train
+1367,"Mở camera giúp tôi!","mở camera giúp tôi",control_device,train
+1368,"Tắt wifi đi nha!","tắt wifi đi nha",control_device,train
+1369,"Bật loa ngoài giúp tôi!","bật loa ngoài giúp tôi",control_device,train
+1370,"Mở settings hệ thống!","mở settings hệ thống",control_device,train
+1371,"Mở Google Calendar!","mở google calendar",control_device,train
+1372,"Vào drive giúp cái!","vào drive giúp cái",control_device,train
+1373,"Chụp màn hình luôn đi!","chụp màn hình luôn đi",control_device,train
+1374,"Mở PyCharm hộ mình!","mở pycharm hộ mình",control_device,train
+1375,"Tắt tất cả ứng dụng đang chạy!","tắt tất cả ứng dụng đang chạy",control_device,train
+1376,"Mở Task Manager giúp tôi!","mở task manager giúp tôi",control_device,train
+1377,"Cho tôi vào Facebook!","cho tôi vào facebook",control_device,train
+1378,"Phát playlist yêu thích đi!","phát playlist yêu thích đi",control_device,train
+1379,"Mở ứng dụng email!","mở ứng dụng email",control_device,train
+1380,"Vì sao semantic search thông minh hơn search thường?","vì sao semantic search thông minh hơn search thường",qa,train
+1381,"Mai có lịch gì không?","mai co lich gi ko",calendar,train
+1382,"Mở YouTube đi!","mo ytb di",control_device,train
+1383,"Tôi thích nhạc chill.","toi thik nhac chill",personalize,train
+1384,"GPU là gì vậy?","gpu la gi v",qa,train
+1385,"Mở du túp nhạc Lo-Fi!","mở du túp nhạc lofi",control_device,train
+1386,"Gô gồ machine learning!","gô gồ machine learning",control_device,train
+1387,"Nhắc tui học AI lúc 8 giờ tối.","nhắc tui học ai lúc 8 giờ tối",calendar,train
+1388,"Tui thích code đêm.","tui thích code đêm",personalize,train
+1389,"Mở YouTube rồi phát nhạc chill luôn!","mở youtube rồi phát nhạc chill luôn",control_device,train
+1390,"Mai nhắc tôi họp rồi mở zoom giúp tôi.","mai nhắc tôi họp rồi mở zoom giúp tôi",calendar,train
+1391,"Mai có gì không?","mai có gì không",calendar,train
+1392,"Tôi mệt quá.","tôi mệt quá",qa,train
+1393,"Mở nó lên đi!","mở nó lên đi",control_device,train
+1394,"Đặt lịch họp ở Starbucks lúc 7h tối.","đặt lịch họp ở starbucks lúc 7h tối",calendar,train
+1395,"Mở Visual Studio Code!","mở visual studio code",control_device,train
+1396,"Tôi làm ở Samsung.","tôi làm ở samsung",personalize,train
+1397,"PostgreSQL có tốt hơn MySQL không?","postgresql có tốt hơn mysql không",qa,train
+1398,"Mình khá hướng nội.","mình khá hướng nội",personalize,train
+1399,"Tôi thích làm việc một mình hơn.","tôi thích làm việc một mình hơn",personalize,train
+1400,"Mình thường học sau 10h tối.","mình thường học sau 10h tối",personalize,train
+1401,"Tôi dễ buồn ngủ vào buổi chiều.","tôi dễ buồn ngủ vào buổi chiều",personalize,train
+1402,"Mình thích cafe yên tĩnh để học bài.","mình thích cafe yên tĩnh để học bài",personalize,train
+1403,"Tôi không chịu được tiếng ồn lớn.","tôi không chịu được tiếng ồn lớn",personalize,train
+1404,"Mình thích nghe piano khi code.","mình thích nghe piano khi code",personalize,train
+1405,"Tôi hay procrastinate vào buổi tối.","tôi hay procrastinate vào buổi tối",personalize,train
+1406,"Mình thích setup bàn làm việc tối màu.","mình thích setup bàn làm việc tối màu",personalize,train
+1407,"Tôi thường quên uống nước.","tôi thường quên uống nước",personalize,train
+1408,"Mình đang cố cải thiện tiếng Anh giao tiếp.","mình đang cố cải thiện tiếng anh giao tiếp",personalize,train
+1409,"Tôi thích câu trả lời ngắn thôi.","tôi thích câu trả lời ngắn thôi",personalize,train
+1410,"Mình muốn assistant nói tự nhiên hơn.","mình muốn assistant nói tự nhiên hơn",personalize,train
+1411,"Tôi hay thức tới 2h sáng.","tôi hay thức tới 2h sáng",personalize,train
+1412,"Mình thích đi đường tránh đông xe.","mình thích đi đường tránh đông xe",personalize,train
+1413,"Tôi thường order đồ ăn khuya.","tôi thường order đồ ăn khuya",personalize,train
+1414,"Mình thích thời tiết lạnh hơn nóng.","mình thích thời tiết lạnh hơn nóng",personalize,train
+1415,"Tôi đang luyện speaking IELTS mỗi ngày.","tôi đang luyện speaking ielts mỗi ngày",personalize,train
+1416,"Mình không thích thông báo quá nhiều.","mình không thích thông báo quá nhiều",personalize,train
+1417,"Tôi thích nhạc không lời lúc làm việc.","tôi thích nhạc không lời lúc làm việc",personalize,train
+1418,"Vì sao websocket phù hợp voice assistant?","vì sao websocket phù hợp voice assistant",qa,train
+1419,"LLM tạo câu trả lời bằng cách nào?","llm tạo câu trả lời bằng cách nào",qa,train
+1420,"Embedding giúp semantic search ra sao?","embedding giúp semantic search ra sao",qa,train
+1421,"Vì sao transformer xử lý ngôn ngữ tốt vậy?","vì sao transformer xử lý ngôn ngữ tốt vậy",qa,train
+1422,"Cache redis giúp tăng tốc kiểu gì?","cache redis giúp tăng tốc kiểu gì",qa,train
+1423,"Sự khác nhau giữa thread với process là gì?","sự khác nhau giữa thread với process là gì",qa,train
+1424,"Vì sao docker nhẹ hơn virtual machine?","vì sao docker nhẹ hơn virtual machine",qa,train
+1425,"GPU train AI nhanh hơn CPU bao nhiêu?","gpu train ai nhanh hơn cpu bao nhiêu",qa,train
+1426,"PostgreSQL có hỗ trợ vector search không?","postgresql có hỗ trợ vector search không",qa,train
+1427,"RAG có cần fine tuning không?","rag có cần fine tuning không",qa,train
+1428,"Whisper nhận diện giọng nói kiểu gì?","whisper nhận diện giọng nói kiểu gì",qa,train
+1429,"Streaming realtime hoạt động ra sao?","streaming realtime hoạt động ra sao",qa,train
+1430,"Vì sao websocket không cần polling liên tục?","vì sao websocket không cần polling liên tục",qa,train
+1431,"FastAPI async có lợi gì?","fastapi async có lợi gì",qa,train
+1432,"Vector database lưu dữ liệu như thế nào?","vector database lưu dữ liệu như thế nào",qa,train
+1433,"Semantic retrieval khác database search thường sao?","semantic retrieval khác database search thường sao",qa,train
+1434,"Vì sao cosine similarity đo độ giống được?","vì sao cosine similarity đo độ giống được",qa,train
+1435,"LLM hallucination là gì vậy?","llm hallucination là gì vậy",qa,train
+1436,"API gateway dùng để làm gì?","api gateway dùng để làm gì",qa,train
+1437,"Microservice khó hơn monolithic ở đâu?","microservice khó hơn monolithic ở đâu",qa,train
+1438,"Qwen với Llama khác nhau thế nào?","qwen với llama khác nhau thế nào",qa,train
+1439,"Websocket là gì vậy?","websocket là gì vậy",qa,train
+1440,"Vì sao AI cần dữ liệu nhiều thế?","vì sao ai cần dữ liệu nhiều thế",qa,train
+1441,"GPU khác CPU ở điểm nào?","gpu khác cpu ở điểm nào",qa,train
+1442,"Machine learning hoạt động sao?","machine learning hoạt động sao",qa,train
+1443,"RAG là gì thế?","rag là gì thế",qa,train
+1444,"Embedding vector dùng để làm gì?","embedding vector dùng để làm gì",qa,train
+1445,"Python có dễ học không?","python có dễ học không",qa,train
+1446,"API restful là gì?","api restful là gì",qa,train
+1447,"Docker giúp gì cho deploy?","docker giúp gì cho deploy",qa,train
+1448,"Semantic search khác keyword search thế nào?","semantic search khác keyword search thế nào",qa,train
+1449,"Transformer model hoạt động ra sao?","transformer model hoạt động ra sao",qa,train
+1450,"Backend với frontend khác gì nhau?","backend với frontend khác gì nhau",qa,train
+1451,"Tại sao websocket realtime hơn HTTP?","tại sao websocket realtime hơn http",qa,train
+1452,"PostgreSQL có ưu điểm gì?","postgresql có ưu điểm gì",qa,train
+1453,"LLM là viết tắt của gì?","llm là viết tắt của gì",qa,train
+1454,"Fine tuning nghĩa là sao?","fine tuning nghĩa là sao",qa,train
+1455,"Vì sao GPU phù hợp train AI?","vì sao gpu phù hợp train ai",qa,train
+1456,"Speech to text là gì?","speech to text là gì",qa,train
+1457,"JSON dùng để làm gì?","json dùng để làm gì",qa,train
+1458,"Redis hoạt động kiểu gì?","redis hoạt động kiểu gì",qa,train
+1459,"Linux là gì vậy?","linux là gì vậy",qa,train
+1460,"Ubuntu khác Windows thế nào?","ubuntu khác windows thế nào",qa,train
+1461,"Vector database là gì?","vector database là gì",qa,train
+1462,"Prompt engineering nghĩa là gì?","prompt engineering nghĩa là gì",qa,train
+1463,"Chatbot hiểu câu hỏi kiểu gì?","chatbot hiểu câu hỏi kiểu gì",qa,train
+1464,"CPU với GPU cái nào mạnh hơn?","cpu với gpu cái nào mạnh hơn",qa,train
+1465,"Cache dùng để làm gì?","cache dùng để làm gì",qa,train
+1466,"Server là gì vậy?","server là gì vậy",qa,train
+1467,"Internet hoạt động như thế nào?","internet hoạt động như thế nào",qa,train
+1468,"Docker compose có tác dụng gì?","docker compose có tác dụng gì",qa,train
+1469,"Vì sao AI đôi lúc trả lời sai?","vì sao ai đôi lúc trả lời sai",qa,train
+1470,"Semantic retrieval là gì?","semantic retrieval là gì",qa,train
+1471,"MCP là gì trong AI agent?","mcp là gì trong ai agent",qa,train
+1472,"FastAPI dùng để làm gì?","fastapi dùng để làm gì",qa,train
+1473,"Websocket stream audio kiểu gì?","websocket stream audio kiểu gì",qa,train
+1474,"Deep learning khác machine learning sao?","deep learning khác machine learning sao",qa,train
+1475,"NLP là gì thế?","nlp là gì thế",qa,train
+1476,"Computer vision dùng để làm gì?","computer vision dùng để làm gì",qa,train
+1477,"Vì sao cosine similarity hữu ích?","vì sao cosine similarity hữu ích",qa,train
+1478,"HTTP và HTTPS khác nhau sao?","http và https khác nhau sao",qa,train
+1479,"Mai có lịch gì không?","mai co lich gi ko",calendar,train
+1480,"Nhớ tôi học bài lúc 8h tối nha!","nho toi hoc bai luc 8h toi nha",calendar,train
+1481,"Check lịch dùm tôi với!","check lich dum toi voi",calendar,train
+1482,"Xóa cái reminder hồi nãy đi!","xoa cai reminder hoi nay di",calendar,train
+1483,"Mai rảnh không ta?","mai ranh ko ta",calendar,train
+1484,"Mở YouTube đi!","mo ytb di",control_device,train
+1485,"Bật wifi giúp tôi!","bat wf giup toi",control_device,train
+1486,"Tắt nhạc đi!","tat nhac di",control_device,train
+1487,"Mở GitHub lên!","mo github len",control_device,train
+1488,"Restart máy dùm cái!","restart may dum cai",control_device,train
+1489,"Tôi thích nhạc chill.","toi thik nhac chill",personalize,train
+1490,"Mình hay code đêm.","minh hay code dem",personalize,train
+1491,"Tôi không ăn cay được.","toi ko an cay dc",personalize,train
+1492,"Mình thích dark mode.","minh thik dark mode",personalize,train
+1493,"GPU là gì vậy?","gpu la gi v",qa,train
+1494,"API là gì vậy?","api la gi z",qa,train
+1495,"Mai nhớ gọi tôi dậy nha chứ tôi sợ ngủ quên.","mai nhớ gọi tôi dậy nha chứ tôi sợ ngủ quên",calendar,train
+1496,"Đặt lịch học dùm cái tối nay 8h.","đặt lịch học dùm cái tối nay 8h",calendar,train
+1497,"Lịch mai có kín không vậy?","lịch mai có kín không vậy",calendar,train
+1498,"Hủy cái lịch hồi chiều đi giúp tôi.","hủy cái lịch hồi chiều đi giúp tôi",calendar,train
+1499,"Mai tôi có phải lên trường không ta?","mai tôi có phải lên trường không ta",calendar,train
+1500,"Mở nhạc chill chill tí đi!","mở nhạc chill chill tí đi",control_device,train
+1501,"Bật wifi lại xem mạng lag quá!","bật wf lại xem mạng lag quá",control_device,train
+1502,"Mở Google Chrome giúp tui!","mở gúc gồ chrome giúp tui",control_device,train
+1503,"Vào YouTube phát nhạc học bài đi!","vào du túp phát nhạc học bài đi",control_device,train
+1504,"Search cách fix docker error!","search cách fix docker error",control_device,train
+1505,"Mình mê công nghệ lắm.","mình mê công nghệ lắm",personalize,train
+1506,"Tôi cực thích backend luôn.","tôi cực thích backend luôn",personalize,train
+1507,"Mình học dễ vào buổi đêm hơn.","mình học dễ vào buổi đêm hơn",personalize,train
+1508,"Tôi ghét bị spam notification.","tôi ghét bị spam notification",personalize,train
+1509,"Mình thích ngồi góc yên tĩnh học bài.","mình thích ngồi góc yên tĩnh học bài",personalize,train
+1510,"AI agent khác chatbot chỗ nào?","ai agent khác chatbot chỗ nào",qa,train
+1511,"Backend dev thường làm gì?","backend dev thường làm gì",qa,train
+1512,"Frontend với UI UX khác nhau sao?","frontend với ui ux khác nhau sao",qa,train
+1513,"Websocket có dùng cho game realtime được không?","websocket có dùng cho game realtime được không",qa,train
+1514,"Vector embedding tạo như thế nào?","vector embedding tạo như thế nào",qa,train
+1515,"Anh ơi mở youtube giúp em với!","anh ơi mở youtube giúp em với",control_device,train
+1516,"Chị ơi nhắc em mai nộp bài nha.","chị ơi nhắc em mai nộp bài nha",calendar,train
+1517,"Máy lag quá restart giúp mình cái!","máy lag quá restart giúp mình cái",control_device,train
+1518,"Mai có lịch học xác suất không ta?","mai có lịch học xác suất không ta",calendar,train
+1519,"Mình thích assistant nói chuyện casual thôi.","mình thích assistant nói chuyện casual thôi",personalize,train
+1520,"Thêm lịch ăn lẩu với team cuối tuần.","thêm lịch ăn lẩu với team cuối tuần",calendar,train
+1521,"Đặt lịch đi cf học nhóm tối mai.","đặt lịch đi cf học nhóm tối mai",calendar,train
+1522,"Mai có lịch phỏng vấn không nhỉ?","mai có lịch phỏng vấn không nhỉ",calendar,validation
+1523,"Nhắc tôi checkout github contribution tối nay.","nhắc tôi checkout github contribution tối nay",calendar,validation
+1524,"Schedule demo project thứ 6 giúp tôi.","schedule demo project thứ 6 giúp tôi",calendar,validation
+1525,"Mở github repo backend!","mở github repo backend",control_device,validation
+1526,"Search how to learn ai agent!","search how to learn ai agent",control_device,validation
+1527,"Mở youtube coding music!","mở youtube coding music",control_device,validation
+1528,"Vào google docs giúp tôi!","vào google docs giúp tôi",control_device,validation
+1529,"Mở app camera laptop!","mở app camera laptop",control_device,validation
+1530,"Mình thích làm việc có deadline rõ ràng.","mình thích làm việc có deadline rõ ràng",personalize,validation
+1531,"Tôi thường tập trung tốt sau 9h tối.","tôi thường tập trung tốt sau 9h tối",personalize,validation
+1532,"Mình đang tập sống healthy hơn.","mình đang tập sống healthy hơn",personalize,validation
+1533,"Tôi thích assistant trả lời giống người thật.","tôi thích assistant trả lời giống người thật",personalize,validation
+1534,"Mình không thích nói chuyện quá formal.","mình không thích nói chuyện quá formal",personalize,validation
+1535,"Vì sao ai model cần gpu mạnh?","vì sao ai model cần gpu mạnh",qa,validation
+1536,"Cuda dùng để tăng tốc kiểu gì?","cuda dùng để tăng tốc kiểu gì",qa,validation
+1537,"Speech to text khác text to speech sao?","speech to text khác text to speech sao",qa,validation
+1538,"Ollama dùng để chạy model local à?","ollama dùng để chạy model local à",qa,validation
+1539,"Qwen với llama khác nhau thế nào?","qwen với llama khác nhau thế nào",qa,validation
+1540,"Xe điện đi trời mưa có an toàn không?","xe điện đi trời mưa có an toàn không",qa,validation
+1541,"Vì sao điện thoại nóng lên khi chơi game?","vì sao điện thoại nóng lên khi chơi game",qa,validation
+1542,"Pin lithium hoạt động như thế nào?","pin lithium hoạt động như thế nào",qa,validation
+1543,"Sao ngủ ít lại đau đầu?","sao ngủ ít lại đau đầu",qa,validation
+1544,"Ăn khuya có ảnh hưởng gì không?","ăn khuya có ảnh hưởng gì không",qa,test
+1545,"Vì sao uống cà phê tối dễ mất ngủ?","vì sao uống cà phê tối dễ mất ngủ",qa,test
+1546,"Não bộ ghi nhớ thông tin kiểu gì?","não bộ ghi nhớ thông tin kiểu gì",qa,test
+1547,"Vì sao học bằng hình ảnh dễ nhớ hơn?","vì sao học bằng hình ảnh dễ nhớ hơn",qa,test
+1548,"Mưa axit hình thành như thế nào?","mưa axit hình thành như thế nào",qa,test
+1549,"Vì sao trời nồm làm sàn nhà ướt?","vì sao trời nồm làm sàn nhà ướt",qa,test
+1550,"Camera điện thoại lấy nét kiểu gì?","camera điện thoại lấy nét kiểu gì",qa,test
+1551,"Sao tai nghe bluetooth có độ trễ?","sao tai nghe bluetooth có độ trễ",qa,test
+1552,"Wifi 5ghz khác gì 2.4ghz?","wifi 5ghz khác gì 2.4ghz",qa,test
+1553,"Vì sao pin iphone chai theo thời gian?","vì sao pin iphone chai theo thời gian",qa,test
+1554,"Sao mở nhiều tab chrome lại tốn ram?","sao mở nhiều tab chrome lại tốn ram",qa,test
+1555,"Đi bộ mỗi ngày có lợi gì cho tim mạch?","đi bộ mỗi ngày có lợi gì cho tim mạch",qa,test
+1556,"Vì sao stress làm khó ngủ?","vì sao stress làm khó ngủ",qa,test
+1557,"Uống nước ngay sau khi ngủ dậy có tốt không?","uống nước ngay sau khi ngủ dậy có tốt không",qa,test
+1558,"Vì sao con người cần vitamin c?","vì sao con người cần vitamin c",qa,test
+1559,"Tôi thường nghe white noise để ngủ.","tôi thường nghe white noise để ngủ",personalize,test
+1560,"Mai có lịch học xác suất không ta?","mai có lịch học xác suất không ta",calendar,test
+1561,"Mở settings hệ thống!","mở settings hệ thống",control_device,test
+1562,"Thêm lịch ăn lẩu với team cuối tuần.","thêm lịch ăn lẩu với team cuối tuần",calendar,test
+1563,"Vào drive giúp cái!","vào drive giúp cái",control_device,test

@@ -16,7 +16,7 @@ model = SentenceTransformer("intfloat/multilingual-e5-small")
 
 with open(FAQ_PATH, "r", encoding="utf-8") as f:
     faq_data = json.load(f)
-
+print("FAQ size:", len(faq_data))
 questions = [
     "query: " + item["question"].strip().lower()
     for item in faq_data
@@ -28,6 +28,7 @@ embeddings = model.encode(
     normalize_embeddings=True
 )
 
+print("Embedding shape:", embeddings.shape)
 np.save(EMBED_PATH, embeddings)
 
 with open(MAP_PATH, "w", encoding="utf-8") as f:

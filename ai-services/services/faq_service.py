@@ -2,7 +2,7 @@ import os
 import json
 import numpy as np
 
-
+from scripts.text_preprocessing import normalize_text
 from sentence_transformers import SentenceTransformer
 
 
@@ -45,30 +45,43 @@ FAQ_BLOCK_KEYWORDS = [
 
 def retrieve_faq(query: str):
 
-    query = query.strip().lower()
+    query = normalize_text(query)
 
-    # block câu hỏi mở
-    if any(k in query for k in FAQ_BLOCK_KEYWORDS):
-        return None
-
-    # encode
     query_embedding = model.encode(
         [f"query: {query}"],
         normalize_embeddings=True
     )[0].astype(np.float32)
 
-    scores = np.dot(FAQ_EMBEDDINGS, query_embedding)
+    scores = np.dot(
+        FAQ_EMBEDDINGS,
+        query_embedding
+    )
 
-    best_idx = int(np.argmax(scores))
+    top_k = 3
 
-    best_score = float(scores[best_idx])
+    top_indices = np.argsort(scores)[::-1][:top_k]
 
-    # threshold (giữ lại để tránh trả sai)
-    if best_score < 0.88:
+    results = []
+
+    for idx in top_indices:
+
+        score = float(scores[idx])
+
+        if score < 0.88:
+            continue
+
+        faq_item = FAQ_INDEX_MAP[idx]
+
+        results.append({
+            "question": faq_item["question"],
+            "answer": faq_item["answer"],
+            "score": round(score, 4)
+        })
+
+    if not results:
         return None
 
-    faq_item = FAQ_INDEX_MAP[best_idx]
+    best_result = results[0]
 
-    return faq_item.get("answer")
-
+    return best_result["answer"]
 
